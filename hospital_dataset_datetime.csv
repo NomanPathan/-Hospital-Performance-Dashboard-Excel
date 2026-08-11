@@ -1,0 +1,2001 @@
+Patient Id,Patient First Initial,Patient Last Name,Patient Gender,Patient Age,Patient Race,Patient Admission DateTime,Patient Admission Flag,Department Referral,Patient Waittime,Patient Satisfaction Score
+P3000+i,U,Ali,Male,56,Hispanic,28-06-2024 00:14:20,No,Neurology,19,3
+P3000+i,H,Singh,Male,25,Hispanic,21-01-2024 15:14:46,Yes,Dermatology,87,3
+P3000+i,N,Sharma,Male,28,Indian,28-03-2024 12:15:31,Yes,Neurology,108,3
+P3000+i,Q,Tiwari,Male,39,Middle Eastern,22-02-2024 00:12:49,Yes,Pediatrics,92,4
+P3000+i,U,Saxena,Female,47,Asian,07-02-2024 18:52:49,No,Dermatology,68,4
+P3000+i,I,Khan,Male,38,Hispanic,09-06-2024 14:55:07,No,Orthopedics,62,5
+P3000+i,I,Singh,Male,61,African,29-03-2024 07:07:38,Yes,Cardiology,46,4
+P3000+i,M,Ali,Female,77,African,15-01-2024 18:15:25,No,Oncology,66,3
+P3000+i,B,Jain,Male,61,European,24-02-2024 18:33:23,Yes,Dermatology,68,1
+P3000+i,J,Tiwari,Female,20,Middle Eastern,20-02-2024 11:33:26,Yes,Pediatrics,25,1
+P3000+i,C,Sharma,Male,56,African,18-01-2024 02:57:07,Yes,Oncology,93,4
+P3000+i,H,Ali,Female,31,African,09-01-2024 06:38:17,No,Pediatrics,57,2
+P3000+i,L,Das,Female,37,African,01-04-2024 06:31:23,Yes,Pediatrics,75,4
+P3000+i,I,Verma,Male,78,Middle Eastern,08-01-2024 22:14:37,Yes,Neurology,85,4
+P3000+i,O,Iyer,Female,67,Hispanic,13-04-2024 05:24:17,Yes,Pediatrics,10,2
+P3000+i,K,Sharma,Male,21,Indian,23-02-2024 02:41:32,No,Emergency,67,2
+P3000+i,I,Verma,Male,43,Middle Eastern,13-02-2024 18:14:57,No,Neurology,78,4
+P3000+i,U,Chopra,Female,31,Hispanic,04-04-2024 03:12:14,No,Neurology,76,4
+P3000+i,I,Singh,Male,74,Hispanic,09-02-2024 06:27:27,No,Pediatrics,113,2
+P3000+i,S,Yadav,Female,64,African,22-02-2024 03:23:05,Yes,Neurology,93,4
+P3000+i,Q,Chopra,Male,77,Indian,03-05-2024 10:34:04,Yes,Neurology,19,5
+P3000+i,U,Das,Female,18,Middle Eastern,29-03-2024 11:19:34,Yes,Emergency,13,1
+P3000+i,M,Tiwari,Female,61,Middle Eastern,15-05-2024 13:23:10,No,Dermatology,15,3
+P3000+i,A,Ali,Female,34,Hispanic,15-05-2024 03:53:06,No,Cardiology,39,1
+P3000+i,J,Yadav,Male,76,European,05-01-2024 00:59:21,Yes,Pediatrics,107,2
+P3000+i,X,Mehta,Male,58,Middle Eastern,28-01-2024 06:17:42,Yes,Oncology,77,4
+P3000+i,U,Patel,Male,51,Asian,02-02-2024 09:47:02,No,Oncology,66,5
+P3000+i,F,Saxena,Male,52,Middle Eastern,20-06-2024 17:35:35,No,Emergency,90,3
+P3000+i,A,Ali,Female,52,African,10-04-2024 02:15:10,Yes,Cardiology,82,3
+P3000+i,H,Bansal,Male,18,Indian,05-01-2024 01:55:10,No,Oncology,18,3
+P3000+i,C,Saxena,Male,26,Asian,15-01-2024 06:30:19,No,Dermatology,81,3
+P3000+i,F,Mehta,Female,49,Asian,21-02-2024 15:04:28,Yes,Pediatrics,100,4
+P3000+i,J,Iyer,Female,47,European,30-05-2024 19:58:30,No,Cardiology,113,3
+P3000+i,H,Gupta,Male,46,African,05-02-2024 15:30:20,Yes,Dermatology,36,3
+P3000+i,R,Gupta,Male,68,Indian,26-03-2024 06:11:39,Yes,Pediatrics,70,2
+P3000+i,U,Sharma,Male,62,Indian,02-03-2024 13:38:00,Yes,Oncology,10,4
+P3000+i,K,Verma,Male,45,African,17-04-2024 19:12:43,No,Neurology,88,3
+P3000+i,R,Singh,Female,75,Asian,01-04-2024 06:06:16,No,Oncology,107,1
+P3000+i,N,Roy,Male,18,Indian,30-04-2024 18:34:02,No,Orthopedics,66,1
+P3000+i,N,Yadav,Female,69,Hispanic,03-01-2024 16:07:33,Yes,Pediatrics,76,3
+P3000+i,U,Ali,Male,26,European,02-03-2024 01:02:28,No,Oncology,101,3
+P3000+i,D,Gupta,Male,59,Asian,20-06-2024 18:23:19,No,Neurology,83,3
+P3000+i,N,Das,Female,71,European,08-06-2024 19:07:20,Yes,Oncology,56,1
+P3000+i,C,Jain,Male,79,Indian,21-02-2024 23:06:51,Yes,Cardiology,43,2
+P3000+i,Y,Gupta,Male,20,European,22-04-2024 18:39:32,No,Emergency,117,1
+P3000+i,G,Iyer,Male,76,Asian,22-04-2024 00:14:14,No,Cardiology,105,1
+P3000+i,M,Mehta,Female,18,African,26-05-2024 12:58:37,No,Pediatrics,6,5
+P3000+i,X,Saxena,Female,61,Asian,08-06-2024 07:18:29,Yes,Orthopedics,36,4
+P3000+i,G,Sharma,Male,72,Hispanic,02-05-2024 03:31:28,No,Cardiology,42,5
+P3000+i,B,Bansal,Female,69,Middle Eastern,07-04-2024 18:15:33,Yes,Cardiology,90,3
+P3000+i,Q,Verma,Male,65,Indian,23-05-2024 06:59:44,Yes,Pediatrics,77,4
+P3000+i,H,Iyer,Male,76,Middle Eastern,10-03-2024 14:21:03,Yes,Dermatology,97,3
+P3000+i,T,Sharma,Male,37,European,12-06-2024 20:01:22,No,Orthopedics,94,3
+P3000+i,G,Reddy,Male,36,African,27-05-2024 00:48:31,No,Neurology,75,4
+P3000+i,V,Patel,Female,58,African,09-06-2024 23:17:59,Yes,Cardiology,43,2
+P3000+i,O,Tiwari,Male,57,Indian,08-05-2024 00:30:02,Yes,Dermatology,96,1
+P3000+i,I,Singh,Female,42,Indian,26-06-2024 13:07:34,Yes,Orthopedics,35,2
+P3000+i,J,Das,Female,52,Middle Eastern,07-01-2024 13:00:43,No,Dermatology,20,2
+P3000+i,Z,Malik,Male,65,Hispanic,29-02-2024 00:34:09,No,Pediatrics,5,4
+P3000+i,D,Singh,Female,22,Indian,06-02-2024 08:17:35,Yes,Pediatrics,13,1
+P3000+i,R,Singh,Female,52,African,26-05-2024 04:12:31,Yes,Pediatrics,84,3
+P3000+i,K,Roy,Female,37,Middle Eastern,31-05-2024 16:24:00,No,Orthopedics,28,4
+P3000+i,B,Verma,Female,28,African,22-04-2024 09:05:11,Yes,Cardiology,40,4
+P3000+i,K,Singh,Female,79,Asian,21-04-2024 00:42:37,No,Dermatology,93,3
+P3000+i,W,Yadav,Male,42,Indian,02-04-2024 19:01:37,Yes,Pediatrics,114,2
+P3000+i,E,Saxena,Male,19,African,23-02-2024 16:58:55,Yes,Emergency,65,1
+P3000+i,E,Sharma,Female,53,African,09-06-2024 10:41:07,Yes,Orthopedics,37,5
+P3000+i,G,Gupta,Male,65,African,27-05-2024 16:21:11,No,Dermatology,12,3
+P3000+i,X,Singh,Male,34,Asian,07-05-2024 12:14:24,Yes,Emergency,52,4
+P3000+i,A,Das,Female,76,European,24-04-2024 12:38:45,Yes,Orthopedics,26,5
+P3000+i,F,Ali,Female,68,Indian,08-01-2024 05:28:58,No,Neurology,31,2
+P3000+i,G,Jain,Female,38,African,30-01-2024 11:03:10,Yes,Neurology,68,1
+P3000+i,A,Roy,Female,22,African,01-03-2024 20:42:23,No,Oncology,23,4
+P3000+i,C,Mehta,Female,52,Hispanic,18-02-2024 20:29:04,No,Pediatrics,48,4
+P3000+i,R,Reddy,Male,47,Indian,15-02-2024 10:03:32,No,Neurology,10,3
+P3000+i,S,Mehta,Male,77,Indian,06-02-2024 05:11:51,No,Orthopedics,97,1
+P3000+i,X,Reddy,Female,63,Middle Eastern,04-04-2024 18:23:55,Yes,Emergency,101,4
+P3000+i,S,Roy,Female,78,Indian,08-06-2024 01:41:42,No,Cardiology,37,3
+P3000+i,Q,Saxena,Male,35,African,25-01-2024 09:05:45,No,Cardiology,99,2
+P3000+i,V,Reddy,Female,20,Hispanic,13-04-2024 14:24:45,Yes,Pediatrics,28,2
+P3000+i,J,Malik,Female,49,Hispanic,23-06-2024 03:04:53,No,Orthopedics,27,2
+P3000+i,M,Patel,Male,44,Asian,09-05-2024 12:30:17,No,Pediatrics,21,1
+P3000+i,M,Das,Female,26,European,12-02-2024 21:41:09,Yes,Orthopedics,52,5
+P3000+i,J,Roy,Female,59,Middle Eastern,26-01-2024 14:09:53,No,Emergency,29,5
+P3000+i,O,Jain,Male,77,Middle Eastern,14-05-2024 19:31:56,No,Oncology,24,1
+P3000+i,Z,Das,Male,25,African,23-05-2024 21:13:49,No,Cardiology,80,3
+P3000+i,Y,Gupta,Female,40,Asian,22-05-2024 03:43:23,Yes,Neurology,102,2
+P3000+i,A,Sharma,Male,49,European,26-03-2024 14:42:01,Yes,Emergency,67,5
+P3000+i,N,Bansal,Male,39,Hispanic,27-02-2024 15:44:21,No,Emergency,53,4
+P3000+i,M,Gupta,Male,59,Hispanic,10-03-2024 14:43:26,Yes,Oncology,58,3
+P3000+i,Y,Ali,Female,77,Asian,10-04-2024 22:15:35,Yes,Oncology,57,4
+P3000+i,W,Malik,Female,61,Indian,17-04-2024 15:00:21,Yes,Oncology,113,4
+P3000+i,D,Jain,Male,47,European,16-02-2024 22:25:38,No,Oncology,59,4
+P3000+i,O,Tiwari,Female,33,Middle Eastern,13-01-2024 04:43:39,No,Neurology,110,3
+P3000+i,X,Chopra,Female,34,African,29-04-2024 22:59:10,Yes,Oncology,23,4
+P3000+i,U,Mehta,Female,75,Hispanic,30-03-2024 08:56:57,Yes,Orthopedics,66,1
+P3000+i,O,Verma,Female,29,Asian,08-05-2024 18:30:17,No,Orthopedics,5,2
+P3000+i,K,Saxena,Male,49,Asian,05-05-2024 01:27:17,Yes,Neurology,52,1
+P3000+i,M,Singh,Male,57,Indian,26-04-2024 00:55:43,No,Emergency,65,5
+P3000+i,K,Saxena,Female,39,European,02-04-2024 16:33:58,Yes,Neurology,71,4
+P3000+i,N,Iyer,Male,43,Middle Eastern,23-05-2024 19:10:42,No,Emergency,105,1
+P3000+i,A,Nair,Female,46,European,09-03-2024 12:14:38,No,Dermatology,117,4
+P3000+i,X,Saxena,Male,22,European,23-05-2024 09:47:27,Yes,Orthopedics,89,4
+P3000+i,N,Chopra,Male,50,European,10-04-2024 07:24:06,No,Pediatrics,14,5
+P3000+i,V,Iyer,Male,53,European,03-02-2024 11:09:18,Yes,Dermatology,14,2
+P3000+i,R,Khan,Female,36,Middle Eastern,05-04-2024 16:42:40,Yes,Cardiology,73,5
+P3000+i,U,Yadav,Male,21,European,16-01-2024 14:26:31,Yes,Cardiology,84,2
+P3000+i,I,Iyer,Female,66,Asian,07-05-2024 16:54:50,No,Orthopedics,88,4
+P3000+i,K,Iyer,Female,67,European,11-06-2024 09:46:35,No,Oncology,37,1
+P3000+i,C,Chopra,Male,78,Hispanic,27-06-2024 10:38:24,Yes,Orthopedics,44,2
+P3000+i,H,Verma,Male,60,Indian,13-02-2024 05:46:04,Yes,Neurology,17,4
+P3000+i,A,Tiwari,Male,48,Asian,15-02-2024 03:22:41,Yes,Emergency,119,2
+P3000+i,V,Ali,Male,52,European,21-03-2024 07:02:31,No,Oncology,97,2
+P3000+i,L,Das,Male,27,Asian,30-03-2024 21:19:57,No,Cardiology,38,3
+P3000+i,S,Khan,Female,58,Middle Eastern,14-05-2024 00:54:27,No,Emergency,62,5
+P3000+i,W,Roy,Male,67,Middle Eastern,15-03-2024 00:06:52,Yes,Cardiology,40,1
+P3000+i,W,Patel,Male,38,Middle Eastern,12-06-2024 12:20:25,Yes,Orthopedics,105,1
+P3000+i,R,Yadav,Female,41,Indian,25-06-2024 23:04:02,No,Cardiology,116,4
+P3000+i,N,Chopra,Male,35,European,05-04-2024 16:23:51,No,Pediatrics,27,5
+P3000+i,O,Singh,Female,29,Asian,22-04-2024 05:35:50,No,Dermatology,17,1
+P3000+i,Z,Saxena,Female,52,European,14-04-2024 15:17:49,No,Oncology,21,1
+P3000+i,X,Bansal,Female,79,African,24-03-2024 13:02:39,Yes,Oncology,93,5
+P3000+i,C,Mehta,Female,76,Asian,19-01-2024 13:08:00,No,Dermatology,104,4
+P3000+i,T,Iyer,Female,78,Indian,26-05-2024 10:15:39,No,Oncology,13,4
+P3000+i,K,Das,Female,31,Asian,07-05-2024 08:58:27,No,Oncology,87,2
+P3000+i,I,Reddy,Female,64,Middle Eastern,23-05-2024 03:05:30,No,Dermatology,89,4
+P3000+i,A,Malik,Male,70,Indian,30-05-2024 18:31:43,Yes,Pediatrics,61,5
+P3000+i,N,Chopra,Male,70,Hispanic,11-02-2024 06:01:29,No,Pediatrics,43,2
+P3000+i,W,Chopra,Female,22,Indian,11-06-2024 10:35:02,Yes,Orthopedics,97,3
+P3000+i,H,Iyer,Male,28,African,25-05-2024 20:04:27,No,Emergency,13,2
+P3000+i,R,Malik,Female,75,European,24-05-2024 21:24:12,No,Orthopedics,106,5
+P3000+i,W,Jain,Female,57,African,18-06-2024 17:27:36,No,Neurology,54,3
+P3000+i,D,Roy,Female,75,Indian,05-01-2024 15:11:33,Yes,Neurology,87,5
+P3000+i,G,Chopra,Female,18,Hispanic,26-03-2024 16:04:14,No,Cardiology,75,1
+P3000+i,G,Patel,Male,62,African,11-05-2024 09:58:29,Yes,Orthopedics,35,3
+P3000+i,A,Saxena,Male,78,African,17-04-2024 07:26:30,Yes,Cardiology,95,2
+P3000+i,R,Patel,Male,43,Hispanic,19-01-2024 04:18:05,No,Cardiology,71,5
+P3000+i,A,Bansal,Female,30,European,05-05-2024 08:25:55,No,Emergency,96,5
+P3000+i,K,Das,Male,58,African,15-06-2024 14:30:24,No,Cardiology,7,5
+P3000+i,C,Iyer,Female,45,Indian,22-04-2024 06:39:20,Yes,Neurology,60,1
+P3000+i,E,Bansal,Female,55,Indian,26-04-2024 18:47:21,Yes,Cardiology,48,5
+P3000+i,R,Yadav,Male,49,Middle Eastern,21-06-2024 09:37:00,No,Emergency,51,5
+P3000+i,O,Patel,Female,33,African,27-04-2024 17:07:22,Yes,Dermatology,105,4
+P3000+i,X,Ali,Male,52,Hispanic,26-05-2024 03:50:43,Yes,Orthopedics,61,2
+P3000+i,V,Verma,Male,64,Asian,18-02-2024 10:40:13,Yes,Dermatology,19,1
+P3000+i,C,Das,Male,70,European,23-02-2024 19:07:46,No,Pediatrics,20,1
+P3000+i,T,Chopra,Female,28,Indian,12-01-2024 03:02:55,Yes,Orthopedics,20,4
+P3000+i,W,Patel,Female,41,Indian,04-06-2024 08:15:03,Yes,Orthopedics,96,4
+P3000+i,Z,Bansal,Male,43,European,15-05-2024 23:31:05,Yes,Dermatology,64,2
+P3000+i,H,Singh,Female,45,Asian,10-04-2024 01:20:35,Yes,Cardiology,68,3
+P3000+i,F,Patel,Female,71,European,24-05-2024 10:34:48,Yes,Emergency,37,5
+P3000+i,W,Patel,Female,37,African,05-06-2024 07:38:52,No,Emergency,50,3
+P3000+i,C,Tiwari,Male,78,European,13-05-2024 01:35:13,No,Dermatology,119,5
+P3000+i,I,Khan,Male,64,Asian,01-06-2024 18:12:25,Yes,Oncology,60,2
+P3000+i,V,Mehta,Male,76,Asian,18-04-2024 10:31:32,No,Dermatology,37,1
+P3000+i,U,Jain,Female,35,Asian,25-06-2024 17:18:12,No,Pediatrics,30,1
+P3000+i,P,Verma,Female,39,African,28-02-2024 20:07:54,No,Orthopedics,53,5
+P3000+i,K,Ali,Male,50,African,07-04-2024 21:04:40,No,Pediatrics,103,1
+P3000+i,P,Patel,Female,38,Middle Eastern,24-02-2024 08:06:29,Yes,Emergency,96,1
+P3000+i,C,Reddy,Female,22,African,04-04-2024 02:44:20,Yes,Oncology,106,3
+P3000+i,M,Malik,Male,70,Hispanic,23-01-2024 06:32:04,No,Emergency,57,5
+P3000+i,B,Roy,Female,27,Middle Eastern,23-03-2024 03:44:16,No,Pediatrics,89,1
+P3000+i,O,Sharma,Male,63,African,01-01-2024 12:31:46,Yes,Orthopedics,49,5
+P3000+i,O,Chopra,Male,21,Indian,22-04-2024 12:39:03,Yes,Pediatrics,36,2
+P3000+i,F,Patel,Male,45,Middle Eastern,04-04-2024 02:00:39,No,Cardiology,43,2
+P3000+i,H,Ali,Female,75,Indian,10-06-2024 17:11:17,Yes,Emergency,7,3
+P3000+i,W,Patel,Female,67,European,12-01-2024 11:55:44,No,Emergency,58,4
+P3000+i,H,Jain,Male,22,European,26-02-2024 14:57:51,Yes,Dermatology,51,5
+P3000+i,Q,Singh,Male,38,African,21-05-2024 10:24:01,No,Orthopedics,79,3
+P3000+i,Z,Malik,Female,56,Indian,14-06-2024 18:06:55,No,Pediatrics,102,2
+P3000+i,J,Bansal,Female,51,Asian,22-03-2024 01:55:41,No,Dermatology,83,3
+P3000+i,P,Nair,Female,68,Middle Eastern,21-02-2024 14:50:13,No,Emergency,101,4
+P3000+i,K,Roy,Male,47,Middle Eastern,15-04-2024 11:58:08,No,Neurology,9,5
+P3000+i,Y,Yadav,Male,21,African,17-05-2024 15:24:39,No,Pediatrics,21,2
+P3000+i,Z,Iyer,Female,34,Hispanic,24-03-2024 20:24:37,Yes,Emergency,57,2
+P3000+i,B,Singh,Female,30,Indian,05-05-2024 10:09:46,No,Cardiology,47,3
+P3000+i,Q,Jain,Male,68,Hispanic,20-04-2024 04:45:44,Yes,Emergency,27,3
+P3000+i,U,Singh,Male,71,European,23-05-2024 06:41:11,No,Orthopedics,8,4
+P3000+i,T,Iyer,Male,73,African,25-01-2024 23:16:47,No,Orthopedics,71,3
+P3000+i,U,Chopra,Male,46,Middle Eastern,08-06-2024 21:01:37,Yes,Neurology,65,2
+P3000+i,U,Patel,Male,68,Hispanic,26-05-2024 15:51:48,Yes,Emergency,9,2
+P3000+i,D,Ali,Female,45,Asian,18-06-2024 10:11:08,No,Cardiology,26,5
+P3000+i,B,Reddy,Male,23,African,01-01-2024 04:41:47,No,Orthopedics,94,2
+P3000+i,N,Singh,Male,66,Middle Eastern,18-03-2024 22:43:38,No,Dermatology,77,2
+P3000+i,V,Das,Male,74,Asian,16-02-2024 01:27:20,Yes,Dermatology,90,3
+P3000+i,M,Tiwari,Male,65,European,01-03-2024 01:13:52,Yes,Neurology,30,4
+P3000+i,O,Mehta,Female,18,African,08-01-2024 22:08:34,Yes,Oncology,56,2
+P3000+i,O,Patel,Male,45,Indian,18-03-2024 12:17:27,No,Orthopedics,6,5
+P3000+i,S,Patel,Female,43,Hispanic,14-01-2024 04:10:34,No,Emergency,60,3
+P3000+i,J,Roy,Female,24,European,03-01-2024 05:00:30,Yes,Neurology,27,3
+P3000+i,M,Bansal,Female,64,Middle Eastern,18-01-2024 09:37:54,No,Pediatrics,19,1
+P3000+i,J,Khan,Female,72,African,28-01-2024 00:17:42,Yes,Dermatology,61,1
+P3000+i,V,Sharma,Female,56,African,26-03-2024 15:46:33,Yes,Dermatology,48,1
+P3000+i,Z,Nair,Male,34,Hispanic,13-01-2024 01:42:48,Yes,Dermatology,72,2
+P3000+i,I,Singh,Male,20,Hispanic,18-04-2024 07:25:34,Yes,Orthopedics,104,2
+P3000+i,Z,Jain,Male,64,Middle Eastern,08-01-2024 21:35:35,No,Pediatrics,117,4
+P3000+i,E,Verma,Female,36,African,11-02-2024 16:40:04,No,Neurology,10,4
+P3000+i,G,Singh,Female,43,Middle Eastern,04-03-2024 09:35:29,No,Oncology,63,3
+P3000+i,F,Mehta,Female,62,African,30-04-2024 16:17:36,No,Oncology,57,5
+P3000+i,D,Jain,Male,23,Asian,10-03-2024 19:45:58,Yes,Oncology,116,4
+P3000+i,V,Iyer,Female,47,Indian,15-03-2024 21:08:45,No,Cardiology,99,1
+P3000+i,I,Saxena,Male,72,European,10-05-2024 06:53:38,No,Pediatrics,35,5
+P3000+i,X,Mehta,Female,53,Hispanic,31-05-2024 10:35:10,No,Cardiology,10,2
+P3000+i,V,Gupta,Female,37,Indian,15-03-2024 00:01:57,No,Dermatology,117,3
+P3000+i,H,Verma,Female,79,Hispanic,19-03-2024 03:02:34,No,Pediatrics,12,2
+P3000+i,N,Ali,Male,68,Indian,21-06-2024 01:47:49,Yes,Orthopedics,30,4
+P3000+i,P,Ali,Male,36,Asian,20-01-2024 10:16:16,Yes,Emergency,16,1
+P3000+i,O,Nair,Female,43,Middle Eastern,21-05-2024 11:48:53,Yes,Emergency,41,3
+P3000+i,U,Ali,Female,53,Middle Eastern,17-03-2024 13:09:22,No,Orthopedics,37,2
+P3000+i,B,Nair,Male,73,European,10-01-2024 22:49:40,No,Neurology,27,2
+P3000+i,L,Ali,Female,61,Middle Eastern,09-05-2024 01:28:07,No,Cardiology,6,4
+P3000+i,M,Mehta,Male,18,Indian,03-03-2024 17:31:16,No,Cardiology,77,1
+P3000+i,V,Roy,Male,26,Indian,22-05-2024 22:09:27,No,Neurology,42,3
+P3000+i,E,Bansal,Male,47,Indian,04-04-2024 23:12:04,Yes,Dermatology,66,4
+P3000+i,G,Gupta,Female,61,Asian,26-06-2024 18:44:04,Yes,Orthopedics,79,1
+P3000+i,E,Singh,Female,51,Asian,16-03-2024 20:28:18,Yes,Pediatrics,39,1
+P3000+i,A,Singh,Male,57,African,04-03-2024 12:12:05,Yes,Dermatology,64,5
+P3000+i,K,Khan,Male,25,African,11-01-2024 11:37:12,Yes,Neurology,105,4
+P3000+i,X,Yadav,Male,47,Hispanic,04-02-2024 04:18:44,Yes,Emergency,9,3
+P3000+i,O,Nair,Male,76,European,18-03-2024 05:43:31,Yes,Dermatology,93,5
+P3000+i,B,Malik,Female,59,European,29-03-2024 12:01:43,Yes,Cardiology,76,3
+P3000+i,P,Iyer,Female,78,Hispanic,14-06-2024 19:52:00,Yes,Emergency,27,1
+P3000+i,W,Jain,Male,42,Indian,24-05-2024 09:26:56,No,Dermatology,115,2
+P3000+i,E,Verma,Male,31,African,22-02-2024 10:07:35,No,Emergency,108,3
+P3000+i,T,Malik,Female,56,European,27-06-2024 11:25:57,No,Cardiology,10,3
+P3000+i,Z,Ali,Male,24,European,27-06-2024 06:48:39,No,Neurology,46,4
+P3000+i,N,Reddy,Female,32,European,20-04-2024 19:48:44,No,Pediatrics,37,4
+P3000+i,D,Reddy,Female,47,African,03-06-2024 14:15:56,No,Orthopedics,42,1
+P3000+i,E,Chopra,Male,50,Indian,03-06-2024 23:01:10,Yes,Cardiology,37,4
+P3000+i,N,Ali,Female,39,Asian,06-03-2024 08:57:45,Yes,Dermatology,9,3
+P3000+i,R,Saxena,Female,27,Hispanic,06-04-2024 12:49:57,Yes,Emergency,42,5
+P3000+i,L,Yadav,Male,48,African,16-02-2024 19:58:27,No,Orthopedics,113,4
+P3000+i,D,Bansal,Male,73,Asian,15-01-2024 05:35:03,No,Neurology,9,5
+P3000+i,D,Nair,Female,64,Indian,08-03-2024 01:02:36,No,Dermatology,6,3
+P3000+i,H,Yadav,Male,48,Middle Eastern,24-04-2024 11:01:06,No,Cardiology,40,4
+P3000+i,F,Mehta,Female,43,African,12-02-2024 19:48:35,No,Cardiology,15,2
+P3000+i,F,Singh,Female,57,Indian,07-02-2024 03:36:39,Yes,Pediatrics,27,2
+P3000+i,U,Khan,Male,63,Hispanic,16-04-2024 00:40:43,Yes,Emergency,94,5
+P3000+i,N,Jain,Female,57,Asian,20-04-2024 07:35:06,No,Orthopedics,80,4
+P3000+i,X,Reddy,Male,53,Indian,08-03-2024 17:57:24,Yes,Neurology,41,2
+P3000+i,Y,Tiwari,Male,66,Hispanic,01-04-2024 18:08:30,Yes,Orthopedics,13,3
+P3000+i,O,Yadav,Female,46,Middle Eastern,09-02-2024 19:08:24,No,Emergency,90,3
+P3000+i,I,Roy,Male,40,African,01-01-2024 21:16:29,No,Cardiology,105,5
+P3000+i,J,Bansal,Female,43,Middle Eastern,19-04-2024 13:12:03,No,Cardiology,58,1
+P3000+i,H,Iyer,Male,18,Indian,03-03-2024 14:46:13,Yes,Orthopedics,59,3
+P3000+i,G,Singh,Female,57,African,22-05-2024 18:57:24,No,Cardiology,51,1
+P3000+i,A,Chopra,Female,70,Asian,16-05-2024 15:59:05,Yes,Emergency,56,1
+P3000+i,R,Gupta,Female,70,Indian,02-06-2024 03:40:24,No,Oncology,39,4
+P3000+i,X,Sharma,Female,42,Indian,30-03-2024 20:25:09,No,Cardiology,6,2
+P3000+i,K,Bansal,Female,44,Middle Eastern,10-06-2024 10:06:08,No,Pediatrics,47,3
+P3000+i,U,Yadav,Female,61,Indian,27-06-2024 18:45:26,No,Cardiology,56,5
+P3000+i,K,Das,Female,41,Hispanic,09-06-2024 10:19:08,No,Cardiology,67,3
+P3000+i,N,Ali,Male,39,European,02-06-2024 02:53:15,No,Dermatology,118,5
+P3000+i,C,Iyer,Female,66,Hispanic,21-03-2024 12:49:23,No,Neurology,109,1
+P3000+i,K,Das,Male,37,Middle Eastern,27-04-2024 06:55:17,Yes,Dermatology,96,5
+P3000+i,Q,Roy,Female,57,African,18-02-2024 05:46:46,Yes,Neurology,5,5
+P3000+i,D,Singh,Female,47,Asian,27-06-2024 06:47:22,Yes,Dermatology,60,3
+P3000+i,E,Verma,Male,79,Hispanic,01-02-2024 00:45:17,No,Emergency,33,1
+P3000+i,Y,Bansal,Female,62,Hispanic,30-01-2024 20:14:07,No,Oncology,44,3
+P3000+i,U,Reddy,Male,35,European,01-01-2024 17:47:57,Yes,Emergency,119,2
+P3000+i,O,Patel,Female,19,Middle Eastern,22-04-2024 07:25:37,Yes,Orthopedics,98,3
+P3000+i,Q,Verma,Female,21,European,08-05-2024 14:34:47,No,Cardiology,33,3
+P3000+i,B,Nair,Female,49,Indian,10-01-2024 21:00:29,Yes,Dermatology,38,4
+P3000+i,T,Malik,Female,50,European,27-03-2024 22:46:14,Yes,Emergency,96,2
+P3000+i,Z,Bansal,Male,24,African,02-04-2024 21:15:34,No,Dermatology,71,3
+P3000+i,E,Sharma,Female,78,Indian,12-03-2024 15:39:33,No,Pediatrics,115,5
+P3000+i,C,Malik,Male,20,Indian,20-02-2024 06:42:40,Yes,Pediatrics,96,2
+P3000+i,O,Jain,Male,52,African,05-04-2024 08:50:21,No,Orthopedics,36,3
+P3000+i,M,Yadav,Female,33,Hispanic,13-06-2024 18:25:58,Yes,Oncology,52,2
+P3000+i,U,Reddy,Male,24,African,14-03-2024 04:27:12,Yes,Dermatology,27,5
+P3000+i,V,Iyer,Female,36,African,21-04-2024 10:03:40,Yes,Orthopedics,23,4
+P3000+i,C,Bansal,Male,46,African,22-03-2024 02:25:05,No,Pediatrics,5,5
+P3000+i,W,Iyer,Male,37,Middle Eastern,11-01-2024 04:15:58,Yes,Orthopedics,6,3
+P3000+i,R,Iyer,Female,40,Asian,28-04-2024 04:03:16,Yes,Pediatrics,41,1
+P3000+i,V,Yadav,Female,51,Indian,22-02-2024 01:58:03,No,Orthopedics,103,4
+P3000+i,F,Roy,Female,75,European,26-03-2024 04:56:11,Yes,Neurology,28,1
+P3000+i,E,Singh,Male,27,African,06-06-2024 05:17:43,Yes,Dermatology,63,1
+P3000+i,Y,Saxena,Male,67,Hispanic,24-04-2024 07:44:16,No,Oncology,18,1
+P3000+i,T,Singh,Female,57,Asian,25-01-2024 16:52:54,Yes,Neurology,77,3
+P3000+i,W,Tiwari,Male,63,Hispanic,04-01-2024 15:32:41,No,Cardiology,62,5
+P3000+i,N,Nair,Male,62,European,07-04-2024 20:42:12,No,Oncology,79,2
+P3000+i,X,Jain,Male,38,Middle Eastern,11-02-2024 10:37:23,Yes,Orthopedics,45,2
+P3000+i,Z,Chopra,Male,34,African,13-06-2024 21:46:51,No,Emergency,91,5
+P3000+i,Y,Patel,Female,59,Middle Eastern,26-03-2024 17:03:16,No,Neurology,31,1
+P3000+i,G,Tiwari,Male,48,African,13-05-2024 08:10:02,Yes,Pediatrics,44,2
+P3000+i,P,Nair,Male,29,Hispanic,22-02-2024 20:36:22,Yes,Orthopedics,14,5
+P3000+i,C,Das,Female,34,European,02-06-2024 08:09:33,Yes,Oncology,50,2
+P3000+i,N,Verma,Male,77,European,23-02-2024 16:58:40,No,Cardiology,55,5
+P3000+i,N,Sharma,Female,53,Middle Eastern,24-04-2024 21:50:17,No,Neurology,33,5
+P3000+i,M,Verma,Female,28,Asian,09-02-2024 20:05:55,Yes,Orthopedics,117,3
+P3000+i,D,Reddy,Male,56,Asian,23-02-2024 07:59:29,Yes,Orthopedics,59,5
+P3000+i,P,Singh,Female,73,European,02-02-2024 16:25:29,Yes,Cardiology,40,4
+P3000+i,A,Mehta,Male,36,Asian,21-03-2024 06:40:58,No,Cardiology,113,3
+P3000+i,Y,Patel,Male,51,African,02-06-2024 00:25:24,Yes,Cardiology,77,1
+P3000+i,H,Yadav,Female,57,Indian,17-01-2024 15:15:12,Yes,Oncology,93,5
+P3000+i,P,Tiwari,Male,60,Hispanic,13-04-2024 15:22:17,Yes,Pediatrics,29,3
+P3000+i,E,Patel,Female,20,Indian,17-04-2024 20:53:06,No,Neurology,98,2
+P3000+i,S,Yadav,Male,29,Hispanic,19-01-2024 19:20:26,Yes,Dermatology,53,5
+P3000+i,L,Verma,Male,34,European,14-03-2024 10:06:48,No,Cardiology,59,1
+P3000+i,U,Iyer,Female,64,African,12-01-2024 00:22:21,Yes,Orthopedics,84,3
+P3000+i,Z,Verma,Female,25,Asian,28-05-2024 03:09:04,Yes,Oncology,91,5
+P3000+i,S,Reddy,Male,71,Indian,25-01-2024 15:29:21,No,Dermatology,93,4
+P3000+i,K,Das,Female,32,Hispanic,28-02-2024 07:45:35,No,Pediatrics,14,1
+P3000+i,F,Singh,Male,40,Hispanic,26-01-2024 15:37:56,No,Cardiology,90,2
+P3000+i,J,Roy,Male,24,Asian,14-01-2024 10:19:58,Yes,Orthopedics,11,1
+P3000+i,J,Malik,Female,68,Middle Eastern,24-06-2024 20:25:43,No,Orthopedics,118,3
+P3000+i,B,Roy,Female,40,African,22-03-2024 10:01:02,Yes,Oncology,98,4
+P3000+i,U,Reddy,Female,56,Indian,25-05-2024 04:57:30,No,Emergency,110,1
+P3000+i,M,Jain,Female,31,African,07-06-2024 14:32:55,Yes,Emergency,103,4
+P3000+i,W,Chopra,Female,77,Middle Eastern,14-02-2024 21:55:45,No,Oncology,7,5
+P3000+i,C,Yadav,Male,60,European,16-06-2024 05:44:22,Yes,Dermatology,91,4
+P3000+i,J,Reddy,Male,56,Indian,15-01-2024 01:50:40,No,Pediatrics,8,5
+P3000+i,J,Patel,Female,39,Middle Eastern,01-06-2024 02:06:04,No,Neurology,86,1
+P3000+i,W,Jain,Female,33,European,18-06-2024 20:47:39,Yes,Pediatrics,70,3
+P3000+i,L,Tiwari,Female,59,African,03-02-2024 08:10:30,Yes,Cardiology,17,5
+P3000+i,V,Iyer,Female,35,Middle Eastern,08-06-2024 03:51:59,Yes,Cardiology,103,3
+P3000+i,E,Tiwari,Female,56,Indian,15-02-2024 04:32:51,Yes,Cardiology,33,1
+P3000+i,H,Nair,Female,46,European,02-03-2024 20:32:52,Yes,Dermatology,112,1
+P3000+i,E,Jain,Female,33,African,30-04-2024 13:54:32,No,Oncology,107,4
+P3000+i,C,Bansal,Male,22,Middle Eastern,05-03-2024 09:05:33,No,Emergency,53,3
+P3000+i,K,Mehta,Male,62,Indian,21-05-2024 06:55:51,Yes,Pediatrics,34,2
+P3000+i,F,Chopra,Female,21,Middle Eastern,25-05-2024 11:16:40,Yes,Orthopedics,52,1
+P3000+i,Y,Mehta,Female,70,Asian,13-03-2024 01:14:54,No,Pediatrics,53,1
+P3000+i,P,Roy,Male,41,Asian,19-05-2024 11:56:41,Yes,Emergency,41,5
+P3000+i,F,Jain,Male,54,Hispanic,19-06-2024 10:26:13,No,Pediatrics,43,3
+P3000+i,L,Verma,Female,79,African,17-03-2024 22:14:57,Yes,Pediatrics,29,4
+P3000+i,W,Das,Female,21,Middle Eastern,28-02-2024 15:49:39,Yes,Cardiology,97,5
+P3000+i,G,Singh,Male,68,European,19-04-2024 21:25:29,Yes,Orthopedics,111,2
+P3000+i,R,Bansal,Female,74,European,17-06-2024 07:36:16,Yes,Dermatology,7,5
+P3000+i,C,Verma,Female,22,European,23-02-2024 20:12:30,No,Dermatology,91,1
+P3000+i,N,Yadav,Male,26,Asian,08-04-2024 17:21:23,No,Pediatrics,117,5
+P3000+i,C,Jain,Female,76,Hispanic,11-06-2024 07:03:45,No,Neurology,66,1
+P3000+i,Y,Saxena,Male,41,Asian,03-01-2024 08:00:31,No,Dermatology,103,5
+P3000+i,B,Ali,Male,73,African,04-05-2024 21:02:38,Yes,Neurology,93,1
+P3000+i,K,Gupta,Female,21,Middle Eastern,21-05-2024 23:08:20,No,Oncology,102,3
+P3000+i,C,Mehta,Male,58,Hispanic,07-03-2024 12:07:22,No,Neurology,96,5
+P3000+i,U,Patel,Male,26,Middle Eastern,01-06-2024 07:12:11,Yes,Dermatology,46,1
+P3000+i,S,Singh,Male,32,Hispanic,09-02-2024 11:48:40,No,Oncology,9,3
+P3000+i,S,Sharma,Male,76,Indian,03-05-2024 09:22:22,Yes,Pediatrics,42,3
+P3000+i,Y,Bansal,Female,22,Hispanic,24-06-2024 11:37:53,Yes,Oncology,74,5
+P3000+i,S,Yadav,Male,77,European,24-06-2024 00:50:20,No,Pediatrics,32,5
+P3000+i,J,Chopra,Male,30,Hispanic,21-03-2024 02:38:36,No,Orthopedics,100,5
+P3000+i,O,Verma,Male,68,Asian,07-03-2024 00:26:31,No,Emergency,44,2
+P3000+i,P,Jain,Male,57,African,31-03-2024 23:57:11,Yes,Orthopedics,23,4
+P3000+i,W,Reddy,Female,50,European,28-02-2024 18:04:42,Yes,Oncology,52,1
+P3000+i,L,Malik,Male,30,African,16-04-2024 14:22:36,Yes,Emergency,93,5
+P3000+i,D,Mehta,Female,59,Asian,09-04-2024 23:56:46,Yes,Cardiology,31,4
+P3000+i,B,Patel,Female,24,Middle Eastern,12-05-2024 13:34:34,No,Neurology,49,2
+P3000+i,F,Reddy,Female,74,Asian,31-01-2024 13:13:58,Yes,Emergency,46,2
+P3000+i,Q,Jain,Female,49,African,16-04-2024 21:27:16,No,Cardiology,34,2
+P3000+i,C,Iyer,Female,53,Asian,02-01-2024 13:34:05,Yes,Dermatology,81,5
+P3000+i,L,Sharma,Male,29,African,08-02-2024 21:01:53,No,Dermatology,100,5
+P3000+i,U,Chopra,Female,63,Middle Eastern,03-06-2024 18:31:12,Yes,Oncology,109,1
+P3000+i,D,Yadav,Male,57,African,07-04-2024 03:36:27,No,Oncology,68,5
+P3000+i,M,Nair,Male,52,European,10-03-2024 21:10:42,Yes,Dermatology,34,2
+P3000+i,R,Roy,Female,58,Middle Eastern,03-03-2024 00:23:55,No,Cardiology,64,5
+P3000+i,M,Malik,Female,46,Middle Eastern,22-01-2024 03:45:07,No,Oncology,24,4
+P3000+i,T,Tiwari,Male,67,Asian,08-03-2024 13:56:32,Yes,Emergency,16,1
+P3000+i,L,Reddy,Female,27,Asian,27-04-2024 05:49:13,Yes,Dermatology,86,2
+P3000+i,Q,Iyer,Male,31,Indian,23-06-2024 06:54:20,Yes,Neurology,80,4
+P3000+i,W,Reddy,Female,76,Middle Eastern,28-06-2024 07:31:23,No,Neurology,11,5
+P3000+i,T,Malik,Male,28,African,02-02-2024 02:10:13,No,Neurology,115,3
+P3000+i,M,Tiwari,Female,28,Middle Eastern,27-02-2024 12:22:49,No,Dermatology,102,2
+P3000+i,Q,Saxena,Female,46,Hispanic,04-01-2024 03:58:08,No,Emergency,103,5
+P3000+i,A,Nair,Female,58,Hispanic,08-02-2024 19:07:58,Yes,Emergency,33,5
+P3000+i,S,Patel,Male,28,Middle Eastern,25-04-2024 14:09:35,No,Orthopedics,6,4
+P3000+i,U,Bansal,Male,39,Hispanic,27-01-2024 14:42:10,Yes,Dermatology,85,4
+P3000+i,P,Das,Female,73,Asian,01-04-2024 09:22:36,Yes,Cardiology,25,5
+P3000+i,S,Ali,Male,76,Indian,24-03-2024 13:35:01,No,Orthopedics,23,1
+P3000+i,N,Singh,Female,22,Hispanic,10-05-2024 01:33:46,Yes,Emergency,5,2
+P3000+i,Q,Tiwari,Female,77,Hispanic,14-06-2024 05:33:02,Yes,Pediatrics,38,5
+P3000+i,E,Malik,Male,52,Middle Eastern,04-03-2024 23:36:16,No,Pediatrics,29,4
+P3000+i,P,Malik,Female,35,African,15-01-2024 06:23:39,Yes,Emergency,84,3
+P3000+i,R,Reddy,Female,25,Hispanic,29-02-2024 10:55:41,No,Dermatology,93,1
+P3000+i,P,Roy,Male,46,African,22-02-2024 02:25:11,No,Neurology,83,3
+P3000+i,J,Patel,Male,63,Hispanic,19-02-2024 08:31:47,No,Orthopedics,75,3
+P3000+i,P,Nair,Female,46,African,20-06-2024 01:34:15,Yes,Dermatology,64,2
+P3000+i,V,Saxena,Female,20,European,27-05-2024 00:08:46,No,Oncology,29,1
+P3000+i,Z,Singh,Female,79,Indian,24-03-2024 09:35:31,No,Pediatrics,13,1
+P3000+i,C,Nair,Female,77,Hispanic,03-03-2024 01:25:09,No,Pediatrics,6,3
+P3000+i,P,Roy,Male,30,Middle Eastern,12-03-2024 07:23:09,No,Dermatology,68,2
+P3000+i,W,Mehta,Male,63,Indian,04-04-2024 07:15:43,Yes,Neurology,15,5
+P3000+i,B,Malik,Male,42,Hispanic,02-02-2024 14:13:15,Yes,Cardiology,106,1
+P3000+i,D,Yadav,Female,25,Hispanic,11-01-2024 09:09:41,No,Cardiology,55,1
+P3000+i,V,Singh,Male,34,Middle Eastern,16-03-2024 14:31:09,Yes,Emergency,36,4
+P3000+i,U,Chopra,Female,37,Hispanic,09-06-2024 20:40:41,Yes,Oncology,44,2
+P3000+i,J,Reddy,Female,77,Hispanic,06-04-2024 13:39:13,Yes,Oncology,101,1
+P3000+i,C,Bansal,Male,58,Middle Eastern,06-06-2024 15:49:45,Yes,Neurology,26,2
+P3000+i,N,Das,Male,55,European,12-04-2024 14:07:41,No,Neurology,118,2
+P3000+i,X,Patel,Male,59,Indian,28-04-2024 06:56:43,No,Dermatology,53,3
+P3000+i,T,Ali,Female,78,African,02-05-2024 00:32:05,No,Pediatrics,13,1
+P3000+i,R,Malik,Female,56,Asian,08-06-2024 09:15:20,No,Orthopedics,118,4
+P3000+i,G,Ali,Female,25,Asian,12-03-2024 07:18:09,No,Pediatrics,96,4
+P3000+i,I,Das,Male,79,Hispanic,20-04-2024 06:53:46,No,Oncology,11,3
+P3000+i,J,Bansal,Male,37,Asian,11-05-2024 03:14:13,No,Oncology,62,2
+P3000+i,N,Malik,Female,20,Indian,06-05-2024 05:54:48,No,Pediatrics,64,2
+P3000+i,D,Das,Male,31,European,12-01-2024 02:52:06,No,Neurology,16,5
+P3000+i,A,Mehta,Female,42,Asian,14-02-2024 23:06:26,No,Oncology,23,4
+P3000+i,I,Reddy,Female,62,Middle Eastern,15-05-2024 07:53:00,Yes,Orthopedics,57,3
+P3000+i,U,Nair,Male,61,Indian,22-03-2024 21:01:57,Yes,Emergency,22,3
+P3000+i,J,Das,Female,39,Hispanic,06-02-2024 00:48:40,No,Pediatrics,63,3
+P3000+i,D,Patel,Female,45,Middle Eastern,04-02-2024 12:38:20,Yes,Neurology,97,1
+P3000+i,E,Chopra,Male,24,European,16-03-2024 20:09:01,No,Emergency,89,2
+P3000+i,W,Saxena,Female,78,Middle Eastern,24-01-2024 20:35:31,Yes,Oncology,41,4
+P3000+i,H,Tiwari,Male,45,Middle Eastern,17-04-2024 10:57:23,No,Dermatology,64,2
+P3000+i,W,Nair,Male,66,Middle Eastern,27-06-2024 01:18:23,Yes,Cardiology,109,4
+P3000+i,R,Malik,Male,75,Middle Eastern,26-04-2024 08:46:25,Yes,Neurology,104,2
+P3000+i,K,Malik,Female,32,Indian,10-06-2024 21:18:27,Yes,Pediatrics,10,2
+P3000+i,S,Chopra,Male,68,Middle Eastern,24-04-2024 12:34:01,No,Oncology,16,3
+P3000+i,B,Jain,Male,62,Middle Eastern,18-01-2024 23:34:38,No,Emergency,101,3
+P3000+i,S,Sharma,Female,43,Hispanic,08-01-2024 07:25:23,No,Pediatrics,116,2
+P3000+i,A,Iyer,Female,61,Indian,14-01-2024 13:39:13,Yes,Dermatology,41,5
+P3000+i,C,Sharma,Female,55,African,10-02-2024 09:45:33,Yes,Dermatology,64,5
+P3000+i,B,Verma,Female,64,Indian,14-01-2024 19:28:55,No,Emergency,107,1
+P3000+i,F,Singh,Female,37,African,09-05-2024 19:15:50,No,Emergency,74,1
+P3000+i,M,Iyer,Male,76,Hispanic,29-03-2024 18:47:29,Yes,Pediatrics,39,5
+P3000+i,L,Ali,Male,22,Middle Eastern,16-06-2024 17:02:47,No,Dermatology,40,5
+P3000+i,E,Gupta,Male,40,Indian,16-02-2024 14:30:33,No,Emergency,71,2
+P3000+i,V,Saxena,Female,46,Middle Eastern,10-01-2024 21:16:59,No,Oncology,98,1
+P3000+i,H,Gupta,Female,18,African,12-05-2024 22:05:30,Yes,Orthopedics,80,1
+P3000+i,G,Ali,Male,74,Hispanic,04-03-2024 19:53:55,No,Dermatology,32,1
+P3000+i,Y,Khan,Male,60,Asian,13-06-2024 14:24:46,Yes,Cardiology,105,4
+P3000+i,T,Sharma,Female,54,Middle Eastern,18-02-2024 02:44:07,Yes,Neurology,48,4
+P3000+i,X,Sharma,Female,64,European,13-05-2024 00:10:19,Yes,Dermatology,65,4
+P3000+i,G,Sharma,Male,67,Middle Eastern,18-03-2024 22:38:57,No,Neurology,77,5
+P3000+i,X,Bansal,Female,37,Middle Eastern,26-01-2024 07:37:00,No,Neurology,5,3
+P3000+i,J,Singh,Male,23,European,28-02-2024 08:17:36,No,Orthopedics,117,3
+P3000+i,B,Saxena,Male,31,Hispanic,12-01-2024 11:27:15,No,Dermatology,57,2
+P3000+i,P,Sharma,Female,41,Hispanic,12-02-2024 18:14:21,No,Oncology,102,1
+P3000+i,Q,Reddy,Female,67,European,29-01-2024 04:16:38,Yes,Orthopedics,99,3
+P3000+i,M,Das,Female,67,Asian,30-05-2024 21:59:01,Yes,Orthopedics,88,5
+P3000+i,W,Singh,Female,69,Indian,20-03-2024 00:32:49,No,Emergency,110,4
+P3000+i,R,Malik,Male,72,European,08-01-2024 02:50:25,Yes,Orthopedics,89,1
+P3000+i,G,Reddy,Male,72,European,08-01-2024 06:26:36,No,Cardiology,100,5
+P3000+i,R,Roy,Male,64,African,26-03-2024 13:25:20,No,Pediatrics,59,2
+P3000+i,T,Tiwari,Male,60,Indian,06-06-2024 15:23:29,Yes,Oncology,86,1
+P3000+i,Y,Bansal,Male,43,European,15-05-2024 18:17:18,Yes,Oncology,108,1
+P3000+i,K,Patel,Male,29,Asian,12-03-2024 10:20:08,Yes,Pediatrics,50,4
+P3000+i,D,Chopra,Male,50,Hispanic,01-01-2024 08:51:30,Yes,Emergency,35,5
+P3000+i,H,Saxena,Female,65,African,09-03-2024 07:29:44,No,Emergency,94,4
+P3000+i,R,Nair,Female,19,African,03-03-2024 01:35:04,No,Dermatology,37,1
+P3000+i,P,Jain,Male,42,Hispanic,24-06-2024 20:07:40,No,Oncology,77,5
+P3000+i,K,Roy,Female,30,African,07-06-2024 18:20:24,No,Cardiology,79,4
+P3000+i,S,Gupta,Male,51,Indian,04-05-2024 08:06:05,No,Dermatology,8,3
+P3000+i,S,Bansal,Female,23,African,22-03-2024 07:03:46,Yes,Neurology,113,3
+P3000+i,K,Gupta,Female,18,Middle Eastern,28-03-2024 14:25:24,Yes,Emergency,19,1
+P3000+i,R,Reddy,Female,29,European,22-05-2024 02:31:48,No,Emergency,23,4
+P3000+i,F,Nair,Male,46,Asian,09-06-2024 02:28:47,No,Neurology,117,3
+P3000+i,R,Sharma,Male,61,Indian,11-04-2024 17:37:29,Yes,Oncology,15,3
+P3000+i,A,Yadav,Male,25,Hispanic,19-04-2024 16:43:53,Yes,Cardiology,70,1
+P3000+i,W,Singh,Male,20,Asian,25-03-2024 01:47:51,No,Orthopedics,52,2
+P3000+i,B,Tiwari,Female,23,Hispanic,04-06-2024 08:42:28,No,Cardiology,97,2
+P3000+i,A,Saxena,Female,42,Indian,12-01-2024 06:00:36,Yes,Dermatology,102,5
+P3000+i,X,Mehta,Female,32,Indian,13-02-2024 13:00:19,No,Oncology,19,3
+P3000+i,F,Ali,Male,65,Middle Eastern,27-03-2024 22:41:49,Yes,Neurology,118,4
+P3000+i,G,Tiwari,Female,76,African,19-06-2024 16:12:28,No,Oncology,25,3
+P3000+i,M,Verma,Female,72,European,20-03-2024 16:26:22,No,Dermatology,19,1
+P3000+i,H,Gupta,Female,53,Hispanic,20-02-2024 12:36:19,Yes,Pediatrics,25,5
+P3000+i,U,Sharma,Male,39,European,19-01-2024 13:01:21,No,Emergency,82,5
+P3000+i,R,Chopra,Male,21,Hispanic,26-04-2024 10:06:18,Yes,Pediatrics,33,4
+P3000+i,F,Verma,Female,52,European,15-05-2024 15:11:31,No,Dermatology,34,2
+P3000+i,D,Malik,Male,19,Asian,25-06-2024 12:06:36,Yes,Oncology,8,2
+P3000+i,W,Bansal,Female,42,African,03-04-2024 12:15:39,Yes,Cardiology,78,5
+P3000+i,V,Mehta,Male,48,Asian,11-03-2024 05:12:23,No,Cardiology,117,2
+P3000+i,G,Bansal,Male,78,Hispanic,11-02-2024 06:50:11,No,Cardiology,88,4
+P3000+i,J,Das,Male,71,Middle Eastern,07-01-2024 16:26:29,No,Pediatrics,5,4
+P3000+i,R,Reddy,Female,73,Hispanic,21-06-2024 03:47:53,Yes,Oncology,51,3
+P3000+i,W,Verma,Female,30,Indian,28-04-2024 18:10:29,Yes,Emergency,25,4
+P3000+i,H,Verma,Female,26,Middle Eastern,26-01-2024 10:23:04,No,Oncology,19,2
+P3000+i,K,Khan,Female,41,European,01-05-2024 20:56:28,No,Neurology,46,1
+P3000+i,L,Saxena,Female,43,European,31-03-2024 09:28:04,Yes,Pediatrics,72,2
+P3000+i,S,Iyer,Male,41,Middle Eastern,19-01-2024 10:07:31,No,Oncology,64,2
+P3000+i,H,Verma,Male,42,African,25-05-2024 22:39:31,Yes,Emergency,78,1
+P3000+i,W,Singh,Female,72,African,09-03-2024 17:49:34,No,Cardiology,53,3
+P3000+i,C,Khan,Female,61,European,09-06-2024 04:43:34,No,Oncology,25,1
+P3000+i,I,Ali,Male,39,Indian,24-06-2024 18:59:48,Yes,Emergency,19,3
+P3000+i,O,Saxena,Female,45,Indian,08-06-2024 16:06:33,Yes,Cardiology,77,5
+P3000+i,L,Saxena,Male,78,Middle Eastern,01-06-2024 04:55:27,No,Oncology,39,5
+P3000+i,M,Khan,Female,35,European,07-03-2024 08:55:17,No,Oncology,43,1
+P3000+i,C,Saxena,Male,66,Middle Eastern,24-01-2024 08:09:31,Yes,Pediatrics,50,3
+P3000+i,M,Das,Male,21,African,11-04-2024 21:12:09,No,Orthopedics,36,5
+P3000+i,P,Singh,Male,63,Asian,05-02-2024 20:22:59,No,Orthopedics,7,1
+P3000+i,N,Patel,Female,25,Indian,06-04-2024 02:48:26,No,Orthopedics,74,1
+P3000+i,H,Chopra,Male,56,European,13-01-2024 20:04:00,Yes,Neurology,64,2
+P3000+i,J,Khan,Female,77,African,05-01-2024 18:53:31,No,Oncology,31,5
+P3000+i,K,Jain,Female,25,European,19-02-2024 20:29:54,Yes,Orthopedics,48,5
+P3000+i,K,Tiwari,Male,75,European,03-01-2024 20:34:29,No,Neurology,74,2
+P3000+i,M,Reddy,Female,40,Hispanic,20-06-2024 05:20:01,No,Dermatology,106,1
+P3000+i,Z,Gupta,Female,52,European,07-04-2024 02:41:26,No,Oncology,34,4
+P3000+i,Z,Iyer,Female,25,Indian,29-05-2024 12:27:23,Yes,Dermatology,62,4
+P3000+i,R,Das,Male,22,Hispanic,17-03-2024 13:30:04,No,Pediatrics,35,1
+P3000+i,G,Jain,Female,72,Hispanic,15-04-2024 19:03:39,Yes,Oncology,21,4
+P3000+i,Z,Yadav,Female,25,Asian,03-01-2024 22:37:17,No,Neurology,113,4
+P3000+i,I,Singh,Female,68,European,13-04-2024 08:08:21,Yes,Emergency,9,4
+P3000+i,T,Chopra,Female,57,Middle Eastern,17-04-2024 05:12:32,No,Dermatology,34,5
+P3000+i,B,Nair,Male,37,Indian,29-05-2024 15:37:53,Yes,Pediatrics,76,1
+P3000+i,V,Nair,Male,70,Hispanic,16-01-2024 02:58:19,Yes,Dermatology,42,4
+P3000+i,U,Iyer,Female,51,European,21-05-2024 04:29:23,Yes,Cardiology,101,2
+P3000+i,D,Mehta,Male,62,Middle Eastern,06-03-2024 23:25:28,Yes,Emergency,89,2
+P3000+i,L,Iyer,Female,44,Hispanic,15-03-2024 10:34:27,Yes,Orthopedics,66,2
+P3000+i,A,Chopra,Male,21,African,24-02-2024 23:09:22,No,Cardiology,26,3
+P3000+i,D,Singh,Female,32,African,26-03-2024 19:42:51,No,Emergency,105,4
+P3000+i,Z,Roy,Female,59,African,12-01-2024 03:25:29,No,Cardiology,42,2
+P3000+i,O,Jain,Female,62,Indian,04-02-2024 21:22:37,No,Cardiology,92,2
+P3000+i,Z,Ali,Male,47,African,13-05-2024 14:31:30,Yes,Pediatrics,84,4
+P3000+i,Z,Das,Male,31,Middle Eastern,13-03-2024 21:43:42,Yes,Dermatology,25,3
+P3000+i,F,Reddy,Female,19,European,31-03-2024 05:43:29,Yes,Oncology,39,2
+P3000+i,M,Das,Male,31,Hispanic,20-01-2024 15:20:49,No,Emergency,14,1
+P3000+i,A,Tiwari,Male,19,European,25-01-2024 17:42:20,No,Emergency,58,1
+P3000+i,A,Roy,Male,53,African,04-04-2024 01:38:21,Yes,Dermatology,69,5
+P3000+i,D,Saxena,Male,69,African,10-05-2024 09:48:18,No,Neurology,45,1
+P3000+i,O,Ali,Female,30,Hispanic,26-04-2024 04:49:07,No,Dermatology,29,4
+P3000+i,U,Reddy,Female,62,Middle Eastern,12-01-2024 02:12:47,No,Dermatology,100,4
+P3000+i,D,Nair,Female,30,European,31-01-2024 09:20:13,Yes,Oncology,24,2
+P3000+i,V,Patel,Male,46,Hispanic,29-02-2024 09:47:42,Yes,Orthopedics,10,5
+P3000+i,D,Gupta,Female,60,Indian,09-05-2024 20:02:26,Yes,Orthopedics,35,3
+P3000+i,W,Singh,Female,22,European,10-06-2024 15:27:57,Yes,Dermatology,15,2
+P3000+i,M,Yadav,Male,78,European,07-06-2024 06:57:12,Yes,Dermatology,91,3
+P3000+i,F,Chopra,Female,26,Asian,08-04-2024 17:06:28,Yes,Orthopedics,77,4
+P3000+i,O,Tiwari,Male,79,African,24-04-2024 01:46:46,Yes,Emergency,84,4
+P3000+i,E,Roy,Female,50,Middle Eastern,04-01-2024 13:00:51,No,Emergency,107,1
+P3000+i,V,Chopra,Female,54,Hispanic,12-04-2024 09:29:31,No,Emergency,56,5
+P3000+i,F,Verma,Male,69,Asian,12-06-2024 03:26:51,No,Cardiology,42,2
+P3000+i,I,Gupta,Female,54,Asian,25-04-2024 15:50:22,No,Dermatology,66,5
+P3000+i,X,Chopra,Male,52,Middle Eastern,07-01-2024 07:25:15,Yes,Orthopedics,90,5
+P3000+i,Y,Saxena,Female,78,Middle Eastern,26-03-2024 19:14:12,Yes,Oncology,59,2
+P3000+i,X,Jain,Male,79,European,28-05-2024 20:21:34,Yes,Pediatrics,25,2
+P3000+i,U,Gupta,Female,40,Indian,27-02-2024 01:32:22,No,Orthopedics,9,1
+P3000+i,L,Verma,Female,30,Indian,22-03-2024 13:04:36,Yes,Neurology,49,4
+P3000+i,Z,Bansal,Female,34,Hispanic,18-05-2024 01:19:58,No,Neurology,25,4
+P3000+i,T,Singh,Male,72,Asian,26-04-2024 02:59:09,Yes,Dermatology,72,2
+P3000+i,L,Saxena,Female,69,Middle Eastern,21-04-2024 09:16:01,Yes,Orthopedics,108,3
+P3000+i,W,Patel,Female,58,Middle Eastern,28-06-2024 08:30:20,No,Oncology,42,2
+P3000+i,Q,Ali,Male,38,European,11-02-2024 14:49:12,Yes,Orthopedics,68,1
+P3000+i,U,Singh,Male,73,Asian,16-05-2024 17:57:21,Yes,Pediatrics,64,5
+P3000+i,K,Gupta,Female,50,European,10-01-2024 05:38:01,Yes,Dermatology,64,5
+P3000+i,U,Mehta,Female,45,European,03-02-2024 07:56:42,No,Cardiology,90,1
+P3000+i,U,Verma,Female,32,Middle Eastern,24-05-2024 01:58:19,No,Pediatrics,91,5
+P3000+i,L,Jain,Female,36,African,09-03-2024 08:21:51,Yes,Oncology,48,1
+P3000+i,Y,Verma,Female,40,Hispanic,10-04-2024 11:39:51,No,Oncology,81,1
+P3000+i,C,Saxena,Female,40,Asian,12-02-2024 10:03:44,No,Oncology,113,3
+P3000+i,G,Chopra,Female,41,African,31-05-2024 21:20:16,No,Orthopedics,9,4
+P3000+i,R,Bansal,Male,38,Middle Eastern,27-02-2024 02:49:02,No,Oncology,114,4
+P3000+i,K,Sharma,Male,28,Indian,28-06-2024 17:47:07,No,Cardiology,55,3
+P3000+i,D,Das,Female,75,European,05-01-2024 21:11:35,Yes,Emergency,68,2
+P3000+i,G,Singh,Female,55,Asian,20-04-2024 21:53:35,No,Cardiology,116,4
+P3000+i,U,Nair,Female,34,Indian,15-05-2024 09:45:44,No,Pediatrics,70,2
+P3000+i,U,Das,Male,20,European,18-02-2024 14:09:39,No,Pediatrics,72,1
+P3000+i,W,Gupta,Female,58,Hispanic,01-05-2024 17:05:58,Yes,Pediatrics,66,2
+P3000+i,D,Khan,Male,27,European,28-05-2024 23:47:47,Yes,Neurology,16,3
+P3000+i,S,Gupta,Female,57,Indian,02-01-2024 16:36:05,Yes,Pediatrics,17,5
+P3000+i,K,Ali,Female,49,Hispanic,04-04-2024 19:18:39,Yes,Emergency,36,4
+P3000+i,C,Gupta,Female,51,Indian,11-01-2024 04:41:45,Yes,Cardiology,19,1
+P3000+i,K,Nair,Female,57,Asian,25-05-2024 07:26:46,No,Oncology,77,1
+P3000+i,Y,Singh,Male,57,Indian,28-02-2024 15:01:33,Yes,Dermatology,93,2
+P3000+i,U,Das,Female,39,African,06-06-2024 03:58:11,Yes,Pediatrics,89,4
+P3000+i,X,Singh,Female,49,Middle Eastern,27-06-2024 23:21:20,No,Oncology,25,3
+P3000+i,G,Verma,Male,75,Asian,01-02-2024 13:32:38,Yes,Dermatology,43,1
+P3000+i,X,Iyer,Female,29,European,23-06-2024 15:47:29,No,Oncology,25,5
+P3000+i,E,Gupta,Female,79,Hispanic,28-05-2024 04:26:37,Yes,Neurology,12,4
+P3000+i,R,Tiwari,Female,49,Hispanic,26-03-2024 16:06:45,Yes,Oncology,111,1
+P3000+i,V,Patel,Male,39,Middle Eastern,01-04-2024 13:35:08,Yes,Pediatrics,86,2
+P3000+i,M,Patel,Male,46,Asian,28-06-2024 06:54:18,No,Emergency,54,3
+P3000+i,D,Gupta,Female,40,Hispanic,28-03-2024 08:15:39,Yes,Dermatology,81,3
+P3000+i,A,Nair,Female,54,Asian,06-04-2024 02:25:06,No,Oncology,67,3
+P3000+i,S,Yadav,Female,40,Middle Eastern,05-06-2024 08:15:25,Yes,Oncology,43,4
+P3000+i,P,Verma,Male,64,Middle Eastern,25-01-2024 15:40:47,Yes,Cardiology,105,2
+P3000+i,I,Roy,Male,75,Indian,23-05-2024 18:04:55,No,Dermatology,5,4
+P3000+i,J,Malik,Female,22,European,03-01-2024 22:52:48,No,Cardiology,8,3
+P3000+i,U,Saxena,Male,49,African,04-03-2024 18:54:16,Yes,Orthopedics,14,5
+P3000+i,C,Malik,Male,63,Asian,03-06-2024 21:21:05,No,Emergency,45,5
+P3000+i,S,Verma,Female,26,Hispanic,12-06-2024 13:15:01,No,Pediatrics,110,2
+P3000+i,H,Sharma,Male,75,Indian,23-02-2024 09:57:31,No,Cardiology,85,1
+P3000+i,O,Tiwari,Male,51,African,30-04-2024 04:16:19,Yes,Cardiology,79,3
+P3000+i,A,Singh,Male,48,Asian,10-03-2024 03:21:27,No,Orthopedics,87,5
+P3000+i,Q,Malik,Female,75,Asian,11-05-2024 02:39:56,No,Neurology,8,4
+P3000+i,X,Mehta,Male,27,Indian,24-01-2024 18:29:09,No,Oncology,103,2
+P3000+i,N,Mehta,Male,54,African,23-02-2024 00:33:43,Yes,Emergency,107,5
+P3000+i,O,Malik,Female,27,Indian,07-02-2024 17:53:49,No,Oncology,8,4
+P3000+i,S,Das,Female,74,Asian,21-06-2024 04:16:19,No,Oncology,21,4
+P3000+i,D,Bansal,Male,46,Asian,14-01-2024 19:12:02,Yes,Cardiology,92,5
+P3000+i,A,Gupta,Male,33,European,24-02-2024 01:50:43,No,Emergency,8,2
+P3000+i,E,Das,Male,47,Middle Eastern,22-03-2024 03:57:06,No,Neurology,35,4
+P3000+i,K,Gupta,Female,77,Hispanic,26-05-2024 19:08:46,No,Orthopedics,114,3
+P3000+i,C,Bansal,Female,39,Indian,31-05-2024 11:41:32,Yes,Neurology,80,2
+P3000+i,H,Malik,Male,55,European,26-04-2024 12:12:14,Yes,Emergency,104,3
+P3000+i,J,Patel,Female,65,Indian,21-06-2024 01:31:09,No,Cardiology,59,1
+P3000+i,L,Roy,Female,72,Middle Eastern,25-05-2024 00:27:31,No,Pediatrics,117,3
+P3000+i,T,Gupta,Female,45,African,16-02-2024 04:29:44,No,Oncology,49,1
+P3000+i,Y,Roy,Male,34,Asian,04-01-2024 13:50:11,Yes,Emergency,116,3
+P3000+i,A,Gupta,Female,32,Hispanic,16-02-2024 23:20:45,Yes,Orthopedics,79,1
+P3000+i,A,Iyer,Female,43,Indian,23-05-2024 02:18:49,Yes,Dermatology,54,3
+P3000+i,H,Yadav,Female,30,Indian,16-04-2024 01:46:37,Yes,Pediatrics,113,1
+P3000+i,I,Verma,Male,76,Asian,18-04-2024 23:28:50,No,Pediatrics,23,2
+P3000+i,L,Jain,Male,52,Middle Eastern,15-02-2024 19:35:53,Yes,Dermatology,119,5
+P3000+i,E,Iyer,Male,46,Middle Eastern,04-03-2024 06:13:56,Yes,Emergency,88,1
+P3000+i,V,Singh,Male,38,African,14-03-2024 07:01:19,No,Oncology,9,4
+P3000+i,K,Iyer,Female,23,African,30-03-2024 05:28:35,No,Orthopedics,107,2
+P3000+i,H,Verma,Male,52,Asian,08-05-2024 00:47:19,Yes,Neurology,61,4
+P3000+i,D,Das,Female,23,European,10-02-2024 03:44:53,No,Emergency,50,4
+P3000+i,D,Saxena,Female,61,Asian,26-02-2024 02:08:30,No,Orthopedics,88,1
+P3000+i,O,Mehta,Male,53,Indian,06-06-2024 00:23:51,Yes,Oncology,112,2
+P3000+i,V,Patel,Male,47,Asian,26-03-2024 20:49:31,No,Neurology,11,3
+P3000+i,C,Gupta,Female,72,European,14-01-2024 04:43:35,Yes,Pediatrics,14,2
+P3000+i,J,Mehta,Male,42,Indian,10-03-2024 11:36:40,No,Oncology,49,4
+P3000+i,O,Saxena,Male,73,Indian,16-04-2024 00:44:03,No,Cardiology,86,2
+P3000+i,Z,Singh,Male,60,Indian,21-01-2024 13:08:19,Yes,Oncology,54,1
+P3000+i,Y,Gupta,Male,44,Asian,07-01-2024 03:58:09,No,Orthopedics,36,3
+P3000+i,V,Verma,Female,37,Indian,22-05-2024 18:10:28,Yes,Cardiology,46,2
+P3000+i,G,Jain,Male,61,Indian,29-04-2024 06:17:49,No,Cardiology,61,5
+P3000+i,B,Jain,Male,75,Asian,21-01-2024 07:50:28,No,Oncology,7,2
+P3000+i,X,Iyer,Female,54,Indian,18-02-2024 05:05:22,No,Pediatrics,119,1
+P3000+i,N,Das,Female,38,Asian,07-05-2024 11:54:51,Yes,Orthopedics,65,1
+P3000+i,I,Jain,Male,50,Indian,26-06-2024 08:08:20,Yes,Pediatrics,72,2
+P3000+i,J,Chopra,Female,74,Middle Eastern,11-03-2024 09:16:05,No,Cardiology,37,1
+P3000+i,C,Mehta,Female,41,Asian,01-03-2024 02:05:21,No,Neurology,32,2
+P3000+i,U,Malik,Male,60,Hispanic,17-06-2024 15:28:38,Yes,Emergency,90,1
+P3000+i,Z,Nair,Female,34,Middle Eastern,07-04-2024 14:04:29,No,Orthopedics,74,2
+P3000+i,S,Malik,Female,18,European,14-03-2024 03:39:00,No,Neurology,9,2
+P3000+i,A,Reddy,Male,39,Indian,21-04-2024 19:04:33,No,Cardiology,78,2
+P3000+i,Z,Chopra,Female,33,Middle Eastern,21-04-2024 21:44:18,Yes,Neurology,43,4
+P3000+i,D,Gupta,Male,41,African,16-06-2024 08:30:51,Yes,Oncology,63,2
+P3000+i,H,Bansal,Female,52,African,03-03-2024 03:00:00,Yes,Neurology,68,5
+P3000+i,H,Bansal,Female,37,Hispanic,02-06-2024 17:44:30,No,Dermatology,72,4
+P3000+i,A,Nair,Male,39,Middle Eastern,22-05-2024 20:00:55,Yes,Oncology,108,5
+P3000+i,Z,Chopra,Female,32,Asian,25-04-2024 04:08:59,No,Cardiology,18,3
+P3000+i,C,Sharma,Male,78,Middle Eastern,16-06-2024 05:08:09,Yes,Cardiology,32,2
+P3000+i,Q,Chopra,Male,66,African,06-03-2024 22:43:36,Yes,Oncology,7,4
+P3000+i,E,Reddy,Male,50,African,11-02-2024 11:39:31,Yes,Cardiology,103,4
+P3000+i,E,Bansal,Male,40,Indian,29-03-2024 14:19:38,No,Cardiology,54,3
+P3000+i,L,Iyer,Male,36,African,20-02-2024 00:42:31,No,Orthopedics,16,2
+P3000+i,E,Das,Female,25,Hispanic,31-05-2024 14:21:47,No,Pediatrics,96,1
+P3000+i,K,Das,Female,53,Asian,25-03-2024 02:00:39,Yes,Emergency,59,1
+P3000+i,J,Patel,Male,64,Asian,22-05-2024 18:50:21,Yes,Pediatrics,108,2
+P3000+i,S,Iyer,Male,59,Asian,29-02-2024 08:05:39,No,Oncology,74,4
+P3000+i,T,Gupta,Male,19,European,07-01-2024 10:28:31,Yes,Orthopedics,7,5
+P3000+i,X,Verma,Male,20,African,27-01-2024 22:04:33,No,Neurology,111,1
+P3000+i,U,Verma,Female,45,European,08-05-2024 18:03:51,Yes,Orthopedics,105,4
+P3000+i,G,Gupta,Male,65,African,16-04-2024 18:50:43,No,Oncology,98,3
+P3000+i,D,Khan,Male,49,European,16-05-2024 17:29:47,No,Pediatrics,15,1
+P3000+i,N,Das,Female,62,European,28-04-2024 14:39:16,No,Orthopedics,34,5
+P3000+i,R,Iyer,Male,51,European,04-01-2024 09:21:31,Yes,Neurology,106,2
+P3000+i,O,Verma,Male,48,African,28-02-2024 02:20:38,Yes,Orthopedics,31,5
+P3000+i,I,Ali,Male,42,African,10-05-2024 07:26:59,Yes,Emergency,29,4
+P3000+i,F,Verma,Male,51,African,02-06-2024 09:09:54,No,Pediatrics,65,4
+P3000+i,A,Yadav,Male,46,Middle Eastern,09-01-2024 02:39:47,No,Neurology,106,2
+P3000+i,B,Ali,Female,23,Asian,29-02-2024 22:43:55,Yes,Emergency,15,2
+P3000+i,W,Saxena,Female,64,Hispanic,17-04-2024 07:21:15,No,Orthopedics,77,5
+P3000+i,H,Ali,Male,41,European,10-05-2024 00:09:47,No,Neurology,96,2
+P3000+i,B,Nair,Male,65,European,21-01-2024 23:49:11,Yes,Orthopedics,94,1
+P3000+i,V,Tiwari,Female,38,Asian,11-06-2024 05:01:39,Yes,Cardiology,38,1
+P3000+i,G,Das,Female,68,Indian,23-06-2024 08:03:29,No,Oncology,62,3
+P3000+i,D,Patel,Female,74,European,23-01-2024 21:22:55,No,Pediatrics,26,1
+P3000+i,I,Verma,Female,22,Asian,17-04-2024 05:00:58,No,Emergency,98,3
+P3000+i,L,Das,Female,52,Indian,02-02-2024 16:07:47,No,Emergency,20,2
+P3000+i,O,Mehta,Male,19,African,16-06-2024 02:54:47,Yes,Neurology,32,1
+P3000+i,Y,Ali,Male,37,Hispanic,03-05-2024 15:21:36,No,Oncology,76,3
+P3000+i,R,Yadav,Male,21,Middle Eastern,01-06-2024 17:34:38,Yes,Oncology,42,5
+P3000+i,M,Malik,Female,52,Middle Eastern,26-02-2024 13:55:00,No,Dermatology,50,4
+P3000+i,H,Chopra,Female,31,Indian,24-05-2024 14:56:38,No,Oncology,13,3
+P3000+i,W,Sharma,Male,77,Indian,17-03-2024 15:42:06,No,Neurology,86,3
+P3000+i,F,Roy,Male,50,Asian,13-05-2024 20:15:54,Yes,Emergency,95,3
+P3000+i,C,Yadav,Male,44,Hispanic,07-04-2024 04:13:43,Yes,Oncology,50,4
+P3000+i,T,Mehta,Female,70,Hispanic,12-03-2024 04:10:37,Yes,Cardiology,39,3
+P3000+i,M,Saxena,Female,47,Middle Eastern,18-03-2024 06:06:50,No,Oncology,88,1
+P3000+i,I,Malik,Female,42,Indian,16-06-2024 06:29:43,No,Cardiology,18,2
+P3000+i,N,Singh,Male,55,Middle Eastern,29-05-2024 05:05:51,Yes,Cardiology,87,3
+P3000+i,S,Ali,Female,20,Middle Eastern,18-06-2024 06:02:58,No,Emergency,77,4
+P3000+i,I,Iyer,Female,37,Middle Eastern,21-06-2024 13:27:34,No,Cardiology,82,1
+P3000+i,F,Mehta,Female,76,Asian,03-05-2024 22:00:22,No,Cardiology,23,4
+P3000+i,M,Reddy,Male,31,Indian,29-04-2024 13:54:45,No,Orthopedics,57,5
+P3000+i,L,Khan,Female,53,African,16-06-2024 12:04:32,No,Orthopedics,34,1
+P3000+i,P,Ali,Male,50,Asian,29-04-2024 17:51:47,No,Pediatrics,93,3
+P3000+i,O,Reddy,Female,70,Hispanic,18-03-2024 19:49:23,No,Dermatology,72,4
+P3000+i,U,Verma,Male,25,European,02-01-2024 22:42:48,Yes,Oncology,114,1
+P3000+i,N,Chopra,Female,73,Indian,06-05-2024 19:41:50,Yes,Cardiology,59,5
+P3000+i,J,Malik,Female,79,Asian,22-04-2024 14:20:31,Yes,Neurology,34,4
+P3000+i,G,Roy,Male,52,Asian,11-01-2024 18:04:47,Yes,Emergency,114,2
+P3000+i,B,Nair,Male,38,African,28-05-2024 14:01:40,No,Oncology,52,4
+P3000+i,O,Malik,Female,54,Hispanic,20-06-2024 04:31:28,Yes,Pediatrics,77,5
+P3000+i,A,Gupta,Female,26,European,08-03-2024 02:32:48,No,Neurology,102,1
+P3000+i,P,Bansal,Female,25,African,14-02-2024 08:56:14,Yes,Oncology,44,4
+P3000+i,I,Verma,Female,71,Indian,16-03-2024 19:57:33,No,Cardiology,51,1
+P3000+i,F,Bansal,Male,36,Asian,26-01-2024 22:52:05,Yes,Pediatrics,108,5
+P3000+i,G,Mehta,Female,68,Middle Eastern,07-02-2024 17:12:24,Yes,Oncology,33,3
+P3000+i,Y,Khan,Female,21,Asian,24-02-2024 04:57:42,Yes,Dermatology,96,4
+P3000+i,Z,Khan,Male,21,African,29-05-2024 08:33:15,No,Pediatrics,49,3
+P3000+i,W,Mehta,Female,39,European,10-06-2024 03:06:30,No,Emergency,109,1
+P3000+i,I,Roy,Female,25,African,27-03-2024 23:52:05,No,Dermatology,10,1
+P3000+i,D,Khan,Female,35,Middle Eastern,24-05-2024 01:51:56,No,Orthopedics,16,2
+P3000+i,V,Ali,Female,44,Indian,15-05-2024 23:42:51,No,Orthopedics,110,1
+P3000+i,U,Reddy,Female,74,African,02-04-2024 11:50:04,No,Neurology,117,3
+P3000+i,E,Malik,Male,57,Indian,21-05-2024 01:30:10,No,Pediatrics,52,5
+P3000+i,K,Singh,Male,37,Hispanic,25-02-2024 19:49:04,No,Orthopedics,17,5
+P3000+i,I,Yadav,Female,55,European,18-02-2024 04:55:09,Yes,Dermatology,117,3
+P3000+i,W,Bansal,Male,37,African,03-05-2024 04:38:44,Yes,Pediatrics,53,2
+P3000+i,R,Chopra,Female,60,Middle Eastern,23-02-2024 14:09:12,No,Oncology,92,5
+P3000+i,F,Saxena,Male,66,African,10-02-2024 09:20:23,Yes,Emergency,25,3
+P3000+i,E,Mehta,Male,76,Hispanic,15-06-2024 13:42:14,No,Pediatrics,45,5
+P3000+i,C,Gupta,Female,28,Asian,26-05-2024 05:56:26,No,Emergency,81,5
+P3000+i,Z,Reddy,Female,18,African,16-06-2024 16:57:15,No,Emergency,23,4
+P3000+i,D,Chopra,Male,25,Hispanic,18-04-2024 20:02:04,Yes,Emergency,116,1
+P3000+i,G,Malik,Male,62,Hispanic,30-03-2024 15:23:18,No,Dermatology,96,2
+P3000+i,J,Yadav,Male,22,Asian,08-01-2024 21:51:22,Yes,Neurology,50,5
+P3000+i,K,Yadav,Female,64,Asian,25-06-2024 06:09:50,No,Oncology,88,2
+P3000+i,W,Das,Male,35,European,08-03-2024 23:01:49,No,Pediatrics,37,4
+P3000+i,F,Reddy,Male,35,Indian,26-05-2024 09:35:42,No,Orthopedics,32,4
+P3000+i,G,Das,Male,66,European,16-03-2024 12:20:09,Yes,Neurology,119,1
+P3000+i,T,Yadav,Female,56,European,02-01-2024 10:10:36,No,Emergency,109,2
+P3000+i,M,Khan,Male,19,Middle Eastern,20-02-2024 02:47:38,Yes,Pediatrics,81,2
+P3000+i,L,Khan,Female,31,Middle Eastern,20-02-2024 21:21:57,Yes,Cardiology,77,1
+P3000+i,V,Khan,Male,56,Asian,28-01-2024 04:45:54,No,Orthopedics,88,3
+P3000+i,E,Ali,Female,70,Middle Eastern,02-01-2024 08:26:13,No,Neurology,7,2
+P3000+i,C,Sharma,Female,34,African,17-06-2024 07:57:49,No,Pediatrics,16,3
+P3000+i,Q,Tiwari,Female,60,European,05-03-2024 13:27:18,Yes,Orthopedics,49,2
+P3000+i,P,Nair,Male,54,Asian,02-03-2024 21:37:52,No,Cardiology,99,1
+P3000+i,H,Gupta,Male,40,Asian,31-05-2024 10:39:52,Yes,Dermatology,42,4
+P3000+i,Q,Das,Male,38,African,16-04-2024 10:04:28,Yes,Emergency,77,5
+P3000+i,U,Mehta,Male,55,Middle Eastern,01-05-2024 17:21:33,Yes,Pediatrics,64,4
+P3000+i,D,Khan,Male,51,Hispanic,01-02-2024 04:57:38,Yes,Emergency,71,4
+P3000+i,O,Iyer,Male,61,Middle Eastern,19-03-2024 15:05:12,No,Emergency,67,3
+P3000+i,W,Singh,Male,65,Hispanic,08-06-2024 21:02:49,Yes,Orthopedics,61,4
+P3000+i,N,Ali,Female,77,Middle Eastern,09-06-2024 12:42:14,Yes,Emergency,38,4
+P3000+i,D,Malik,Male,54,African,07-01-2024 19:06:43,Yes,Oncology,41,1
+P3000+i,D,Chopra,Male,18,Middle Eastern,16-02-2024 12:16:19,Yes,Oncology,23,5
+P3000+i,I,Malik,Male,27,African,25-05-2024 00:33:31,No,Orthopedics,39,3
+P3000+i,F,Sharma,Female,64,Asian,05-05-2024 13:11:38,No,Orthopedics,53,1
+P3000+i,H,Khan,Male,55,Hispanic,04-03-2024 06:20:52,Yes,Cardiology,12,2
+P3000+i,S,Chopra,Male,65,Indian,25-04-2024 04:50:38,Yes,Pediatrics,8,1
+P3000+i,X,Ali,Female,62,Hispanic,26-06-2024 01:57:49,Yes,Emergency,92,3
+P3000+i,J,Mehta,Female,20,Indian,15-03-2024 19:29:48,Yes,Oncology,8,2
+P3000+i,F,Sharma,Female,44,African,22-06-2024 13:04:53,No,Emergency,111,3
+P3000+i,X,Ali,Male,59,Indian,20-02-2024 07:20:17,Yes,Oncology,10,3
+P3000+i,E,Das,Female,78,African,22-05-2024 14:46:01,No,Dermatology,105,2
+P3000+i,I,Verma,Female,78,African,06-02-2024 19:57:29,Yes,Cardiology,105,3
+P3000+i,M,Iyer,Female,40,African,13-05-2024 08:26:43,No,Pediatrics,22,4
+P3000+i,P,Yadav,Male,26,Indian,22-04-2024 07:02:52,Yes,Pediatrics,81,3
+P3000+i,X,Sharma,Male,64,Indian,05-05-2024 19:45:55,No,Dermatology,21,5
+P3000+i,P,Bansal,Female,49,Asian,22-01-2024 07:41:56,No,Oncology,41,1
+P3000+i,L,Tiwari,Male,66,Hispanic,20-05-2024 21:14:09,Yes,Emergency,113,5
+P3000+i,P,Ali,Female,76,European,27-03-2024 13:54:58,Yes,Cardiology,7,2
+P3000+i,I,Reddy,Male,51,Hispanic,08-06-2024 15:48:02,Yes,Pediatrics,117,5
+P3000+i,K,Malik,Male,63,European,06-05-2024 17:20:43,Yes,Emergency,25,4
+P3000+i,L,Iyer,Male,28,Middle Eastern,12-04-2024 20:54:10,Yes,Cardiology,5,4
+P3000+i,U,Das,Female,41,European,04-05-2024 15:29:38,Yes,Cardiology,17,2
+P3000+i,Y,Chopra,Female,28,Asian,27-06-2024 10:57:00,No,Orthopedics,21,3
+P3000+i,B,Malik,Male,77,Middle Eastern,22-03-2024 20:49:25,No,Emergency,28,2
+P3000+i,H,Verma,Female,36,European,13-06-2024 16:12:22,No,Cardiology,89,4
+P3000+i,P,Jain,Female,22,Indian,24-05-2024 09:50:28,No,Pediatrics,40,3
+P3000+i,U,Khan,Male,44,European,26-04-2024 06:54:02,No,Cardiology,58,5
+P3000+i,R,Saxena,Male,64,Indian,19-05-2024 21:07:01,No,Dermatology,25,3
+P3000+i,R,Roy,Female,56,African,05-01-2024 00:20:07,No,Oncology,24,1
+P3000+i,B,Gupta,Female,63,African,12-01-2024 03:51:33,No,Pediatrics,21,3
+P3000+i,V,Nair,Female,36,Indian,02-06-2024 16:40:11,Yes,Oncology,112,4
+P3000+i,V,Gupta,Male,49,African,10-03-2024 20:11:42,No,Oncology,59,2
+P3000+i,U,Patel,Female,53,Hispanic,11-04-2024 16:22:34,Yes,Cardiology,37,3
+P3000+i,F,Chopra,Male,28,Hispanic,27-06-2024 15:20:20,No,Cardiology,82,3
+P3000+i,I,Tiwari,Male,35,Asian,01-04-2024 05:05:54,Yes,Oncology,51,4
+P3000+i,M,Roy,Female,24,Asian,18-04-2024 14:50:10,No,Cardiology,52,1
+P3000+i,Y,Yadav,Male,25,Hispanic,25-04-2024 02:13:36,Yes,Oncology,85,1
+P3000+i,O,Jain,Male,50,European,05-04-2024 22:13:38,Yes,Dermatology,67,3
+P3000+i,X,Sharma,Female,76,Middle Eastern,09-03-2024 07:05:18,No,Dermatology,114,5
+P3000+i,Y,Das,Male,48,Hispanic,23-04-2024 07:31:43,Yes,Cardiology,26,5
+P3000+i,M,Tiwari,Female,39,Middle Eastern,19-06-2024 10:11:14,No,Emergency,58,2
+P3000+i,T,Gupta,Female,59,European,04-03-2024 21:39:09,No,Orthopedics,25,4
+P3000+i,O,Singh,Male,19,European,17-06-2024 14:41:27,No,Oncology,39,1
+P3000+i,W,Saxena,Female,47,Hispanic,16-02-2024 07:43:30,Yes,Neurology,23,2
+P3000+i,G,Tiwari,Female,25,Hispanic,26-01-2024 10:16:16,No,Pediatrics,108,3
+P3000+i,E,Das,Female,18,Hispanic,05-02-2024 09:06:32,Yes,Oncology,41,1
+P3000+i,L,Saxena,Female,32,Middle Eastern,06-02-2024 23:55:56,No,Pediatrics,108,5
+P3000+i,X,Saxena,Female,77,European,07-05-2024 11:26:00,Yes,Dermatology,5,4
+P3000+i,D,Khan,Female,52,Asian,13-04-2024 21:24:24,Yes,Pediatrics,38,4
+P3000+i,B,Roy,Female,47,Asian,11-04-2024 18:30:34,No,Pediatrics,103,3
+P3000+i,I,Singh,Male,31,Hispanic,21-06-2024 02:50:07,No,Neurology,38,5
+P3000+i,Y,Saxena,Male,78,African,23-03-2024 20:34:45,No,Cardiology,20,2
+P3000+i,T,Saxena,Male,57,Hispanic,24-05-2024 16:36:06,No,Neurology,38,2
+P3000+i,Q,Patel,Male,77,European,23-05-2024 22:34:13,No,Emergency,64,2
+P3000+i,Z,Reddy,Male,19,Indian,13-01-2024 17:41:11,No,Neurology,115,4
+P3000+i,T,Jain,Male,51,Hispanic,08-02-2024 19:01:27,No,Oncology,91,3
+P3000+i,S,Saxena,Male,71,Hispanic,22-02-2024 07:54:14,Yes,Orthopedics,69,1
+P3000+i,O,Das,Male,58,Asian,06-06-2024 09:13:24,Yes,Pediatrics,17,5
+P3000+i,Q,Ali,Female,36,Indian,22-02-2024 17:00:02,No,Orthopedics,61,1
+P3000+i,R,Mehta,Male,39,Asian,31-01-2024 21:08:32,No,Cardiology,59,2
+P3000+i,K,Jain,Male,27,Indian,23-02-2024 07:00:35,Yes,Orthopedics,36,2
+P3000+i,T,Sharma,Female,31,European,26-06-2024 04:30:37,No,Cardiology,57,4
+P3000+i,Z,Reddy,Male,30,Asian,28-02-2024 19:45:26,Yes,Oncology,12,2
+P3000+i,Q,Das,Female,29,Middle Eastern,28-04-2024 03:23:57,No,Cardiology,38,2
+P3000+i,L,Gupta,Male,73,Hispanic,07-04-2024 13:32:46,No,Orthopedics,79,1
+P3000+i,L,Patel,Male,29,Middle Eastern,18-02-2024 15:03:58,No,Dermatology,117,2
+P3000+i,Y,Khan,Male,46,Hispanic,02-06-2024 14:09:21,No,Emergency,100,1
+P3000+i,H,Tiwari,Male,40,Indian,28-03-2024 16:09:21,No,Emergency,12,1
+P3000+i,Z,Ali,Female,23,African,09-03-2024 22:26:51,No,Cardiology,68,5
+P3000+i,Q,Nair,Female,45,European,18-05-2024 05:16:48,Yes,Orthopedics,111,3
+P3000+i,U,Roy,Female,26,Middle Eastern,03-06-2024 01:36:33,Yes,Cardiology,48,4
+P3000+i,F,Saxena,Male,53,Hispanic,22-03-2024 11:59:08,Yes,Neurology,87,1
+P3000+i,V,Roy,Female,23,Indian,21-04-2024 13:31:35,Yes,Dermatology,80,3
+P3000+i,W,Yadav,Male,54,Hispanic,24-05-2024 09:00:41,Yes,Cardiology,91,2
+P3000+i,O,Reddy,Male,46,Indian,09-06-2024 12:26:00,Yes,Cardiology,59,2
+P3000+i,F,Mehta,Male,64,Middle Eastern,23-01-2024 23:48:36,Yes,Orthopedics,25,3
+P3000+i,N,Iyer,Female,30,Hispanic,10-04-2024 16:11:12,No,Emergency,28,4
+P3000+i,K,Khan,Female,28,Hispanic,17-01-2024 15:00:40,Yes,Dermatology,98,1
+P3000+i,A,Tiwari,Male,38,Hispanic,24-03-2024 01:37:22,Yes,Pediatrics,16,5
+P3000+i,C,Nair,Male,59,African,24-05-2024 04:51:48,No,Dermatology,52,4
+P3000+i,C,Patel,Female,58,European,08-04-2024 18:37:35,No,Oncology,22,3
+P3000+i,V,Khan,Female,61,Asian,14-04-2024 20:43:39,Yes,Neurology,75,1
+P3000+i,X,Iyer,Female,30,Hispanic,20-05-2024 07:24:14,Yes,Orthopedics,6,1
+P3000+i,V,Nair,Male,26,Middle Eastern,14-06-2024 09:39:33,Yes,Cardiology,101,4
+P3000+i,B,Khan,Female,62,Middle Eastern,27-03-2024 23:14:52,Yes,Orthopedics,38,1
+P3000+i,G,Nair,Male,41,European,08-01-2024 13:09:37,Yes,Neurology,7,4
+P3000+i,F,Gupta,Female,23,Asian,20-06-2024 23:39:00,Yes,Neurology,32,1
+P3000+i,V,Bansal,Male,53,Middle Eastern,21-01-2024 09:10:02,No,Pediatrics,103,5
+P3000+i,R,Verma,Female,74,Hispanic,18-02-2024 01:10:13,Yes,Orthopedics,58,2
+P3000+i,D,Roy,Female,70,African,13-02-2024 15:52:14,No,Neurology,57,2
+P3000+i,V,Gupta,Male,63,African,13-01-2024 05:35:32,Yes,Neurology,106,2
+P3000+i,K,Chopra,Female,39,African,21-03-2024 11:02:59,No,Pediatrics,18,2
+P3000+i,S,Singh,Female,52,African,01-06-2024 14:23:33,No,Neurology,21,4
+P3000+i,A,Reddy,Male,71,Asian,25-04-2024 06:41:27,No,Orthopedics,33,3
+P3000+i,L,Singh,Female,42,European,01-05-2024 23:39:39,No,Emergency,94,1
+P3000+i,L,Patel,Female,37,Middle Eastern,28-04-2024 05:26:51,Yes,Neurology,20,1
+P3000+i,U,Tiwari,Male,57,African,01-04-2024 00:45:45,Yes,Dermatology,80,3
+P3000+i,G,Mehta,Male,71,Hispanic,18-06-2024 19:49:14,Yes,Cardiology,51,1
+P3000+i,Q,Khan,Female,51,Middle Eastern,13-06-2024 22:30:29,Yes,Cardiology,11,5
+P3000+i,R,Mehta,Female,42,Hispanic,02-02-2024 15:22:30,Yes,Orthopedics,62,4
+P3000+i,M,Gupta,Female,74,Asian,05-05-2024 01:42:35,No,Dermatology,20,3
+P3000+i,Q,Verma,Female,70,African,14-05-2024 15:42:27,Yes,Pediatrics,115,3
+P3000+i,H,Tiwari,Male,26,Middle Eastern,08-06-2024 01:13:46,Yes,Emergency,12,1
+P3000+i,F,Das,Male,40,Hispanic,14-02-2024 17:22:02,No,Orthopedics,8,3
+P3000+i,B,Gupta,Female,46,Asian,05-06-2024 08:38:51,Yes,Orthopedics,81,4
+P3000+i,L,Gupta,Male,40,Hispanic,20-06-2024 16:16:25,Yes,Dermatology,8,2
+P3000+i,Z,Nair,Female,57,European,16-05-2024 03:18:28,No,Cardiology,60,4
+P3000+i,B,Reddy,Male,67,Hispanic,15-03-2024 17:00:15,No,Oncology,32,1
+P3000+i,X,Mehta,Male,34,European,28-02-2024 12:49:29,No,Orthopedics,112,2
+P3000+i,S,Verma,Female,74,European,26-01-2024 12:54:33,Yes,Dermatology,49,3
+P3000+i,M,Nair,Female,28,European,13-04-2024 21:55:15,No,Dermatology,115,4
+P3000+i,A,Malik,Male,28,European,05-03-2024 09:24:00,Yes,Neurology,51,4
+P3000+i,C,Malik,Female,55,Asian,26-02-2024 05:16:30,Yes,Neurology,35,1
+P3000+i,F,Nair,Male,63,Hispanic,26-01-2024 04:30:41,Yes,Emergency,9,4
+P3000+i,Z,Reddy,Male,69,European,14-04-2024 13:12:42,No,Emergency,58,1
+P3000+i,G,Bansal,Male,67,Hispanic,14-06-2024 12:26:09,No,Cardiology,19,5
+P3000+i,H,Sharma,Male,75,Middle Eastern,21-01-2024 07:31:16,Yes,Neurology,10,2
+P3000+i,U,Malik,Male,31,Middle Eastern,15-02-2024 18:44:28,Yes,Cardiology,99,3
+P3000+i,F,Mehta,Male,47,Middle Eastern,06-01-2024 18:30:52,No,Dermatology,12,4
+P3000+i,S,Khan,Female,62,Indian,17-04-2024 06:44:32,Yes,Emergency,116,3
+P3000+i,T,Chopra,Female,30,Asian,19-02-2024 15:01:50,Yes,Oncology,32,4
+P3000+i,N,Tiwari,Male,23,Middle Eastern,17-06-2024 03:34:27,Yes,Dermatology,103,4
+P3000+i,V,Malik,Female,65,Asian,04-03-2024 20:23:22,No,Emergency,94,1
+P3000+i,T,Bansal,Male,29,Asian,18-05-2024 11:28:36,No,Emergency,93,2
+P3000+i,E,Ali,Male,36,Asian,24-02-2024 08:34:33,No,Oncology,10,4
+P3000+i,E,Tiwari,Male,61,Asian,24-04-2024 07:02:52,No,Dermatology,63,5
+P3000+i,T,Sharma,Male,51,Indian,17-01-2024 03:55:22,No,Pediatrics,84,2
+P3000+i,E,Tiwari,Male,51,Hispanic,08-01-2024 23:38:52,No,Dermatology,110,4
+P3000+i,N,Nair,Male,64,Hispanic,03-04-2024 15:45:46,No,Neurology,43,1
+P3000+i,Z,Chopra,Female,76,African,24-03-2024 15:23:08,Yes,Emergency,90,4
+P3000+i,E,Mehta,Female,26,Asian,13-06-2024 06:16:41,Yes,Orthopedics,40,5
+P3000+i,T,Saxena,Female,45,African,04-06-2024 10:12:57,Yes,Cardiology,47,5
+P3000+i,W,Khan,Male,41,Middle Eastern,18-06-2024 17:33:47,Yes,Emergency,108,2
+P3000+i,U,Roy,Female,72,European,24-06-2024 01:35:22,No,Cardiology,26,5
+P3000+i,E,Yadav,Female,44,African,30-04-2024 23:51:07,No,Dermatology,17,5
+P3000+i,L,Tiwari,Female,27,Hispanic,09-01-2024 11:18:15,No,Oncology,31,2
+P3000+i,G,Yadav,Female,68,Asian,08-05-2024 23:47:43,No,Dermatology,93,5
+P3000+i,R,Chopra,Female,24,African,07-03-2024 02:32:51,No,Oncology,24,5
+P3000+i,W,Iyer,Male,47,Hispanic,11-06-2024 01:01:36,Yes,Pediatrics,107,3
+P3000+i,H,Jain,Male,43,Indian,17-01-2024 14:52:01,Yes,Dermatology,49,4
+P3000+i,M,Reddy,Male,46,Asian,31-03-2024 18:30:41,No,Pediatrics,72,1
+P3000+i,A,Verma,Male,67,European,01-01-2024 04:16:57,No,Cardiology,30,5
+P3000+i,C,Mehta,Male,37,African,25-04-2024 08:19:21,Yes,Dermatology,63,3
+P3000+i,B,Iyer,Female,58,Middle Eastern,14-04-2024 09:38:01,No,Pediatrics,69,1
+P3000+i,T,Sharma,Male,39,Hispanic,07-04-2024 17:55:03,No,Emergency,113,1
+P3000+i,A,Roy,Female,46,Asian,08-03-2024 21:48:52,Yes,Oncology,15,3
+P3000+i,T,Malik,Male,38,Middle Eastern,08-04-2024 16:39:39,Yes,Pediatrics,30,3
+P3000+i,B,Nair,Male,36,Hispanic,18-04-2024 22:14:30,Yes,Neurology,51,2
+P3000+i,C,Mehta,Female,57,African,12-05-2024 17:10:44,No,Emergency,82,4
+P3000+i,S,Roy,Male,40,Hispanic,15-04-2024 02:17:55,Yes,Cardiology,19,2
+P3000+i,R,Patel,Female,69,African,18-04-2024 05:45:00,No,Neurology,12,1
+P3000+i,T,Roy,Female,65,European,26-05-2024 22:55:34,Yes,Orthopedics,50,4
+P3000+i,F,Yadav,Male,63,Middle Eastern,08-03-2024 17:35:53,Yes,Dermatology,19,3
+P3000+i,J,Reddy,Male,54,Middle Eastern,08-05-2024 22:22:58,No,Dermatology,115,3
+P3000+i,Z,Bansal,Female,57,Hispanic,12-06-2024 17:20:33,No,Emergency,97,2
+P3000+i,S,Chopra,Male,21,African,07-03-2024 04:37:53,No,Pediatrics,61,1
+P3000+i,O,Bansal,Male,40,European,25-04-2024 12:11:24,Yes,Orthopedics,73,5
+P3000+i,C,Iyer,Male,79,Hispanic,17-06-2024 13:52:56,Yes,Oncology,64,5
+P3000+i,K,Yadav,Female,74,Middle Eastern,17-05-2024 23:37:56,Yes,Pediatrics,65,4
+P3000+i,I,Gupta,Female,20,Indian,07-05-2024 10:42:58,No,Pediatrics,90,4
+P3000+i,X,Reddy,Male,45,Middle Eastern,16-03-2024 23:37:09,Yes,Emergency,119,4
+P3000+i,K,Nair,Male,64,Middle Eastern,17-06-2024 07:22:44,No,Neurology,17,2
+P3000+i,X,Roy,Female,67,Hispanic,30-01-2024 09:51:57,Yes,Neurology,105,1
+P3000+i,X,Gupta,Female,65,Asian,03-06-2024 18:10:58,Yes,Neurology,82,1
+P3000+i,H,Tiwari,Female,79,Asian,02-05-2024 02:00:14,Yes,Cardiology,104,5
+P3000+i,C,Chopra,Male,71,Middle Eastern,28-05-2024 05:06:15,Yes,Oncology,117,3
+P3000+i,P,Nair,Female,72,European,31-01-2024 17:53:45,No,Emergency,78,3
+P3000+i,F,Malik,Female,51,European,09-01-2024 20:45:04,Yes,Oncology,15,2
+P3000+i,S,Singh,Male,39,Middle Eastern,17-01-2024 21:55:58,No,Emergency,29,3
+P3000+i,R,Sharma,Female,38,European,10-04-2024 08:50:45,Yes,Emergency,117,1
+P3000+i,D,Malik,Female,42,African,20-02-2024 21:33:23,Yes,Cardiology,85,1
+P3000+i,V,Roy,Female,41,Middle Eastern,13-04-2024 23:49:34,Yes,Orthopedics,100,3
+P3000+i,L,Tiwari,Female,23,Asian,01-01-2024 18:19:02,No,Neurology,43,5
+P3000+i,I,Chopra,Female,79,African,26-02-2024 05:31:13,Yes,Emergency,45,5
+P3000+i,N,Roy,Female,26,Hispanic,20-05-2024 17:13:41,No,Orthopedics,10,4
+P3000+i,M,Mehta,Female,69,Asian,03-01-2024 10:02:56,Yes,Dermatology,67,1
+P3000+i,V,Gupta,Male,29,Hispanic,21-04-2024 00:02:54,No,Oncology,113,1
+P3000+i,H,Saxena,Female,34,European,15-01-2024 23:38:11,Yes,Neurology,36,4
+P3000+i,Z,Singh,Female,35,Indian,22-04-2024 19:34:42,Yes,Emergency,47,4
+P3000+i,P,Singh,Female,52,European,18-03-2024 07:20:00,No,Orthopedics,18,2
+P3000+i,R,Bansal,Male,78,European,11-05-2024 07:46:02,Yes,Pediatrics,33,3
+P3000+i,F,Sharma,Male,23,African,30-04-2024 23:01:52,No,Oncology,53,3
+P3000+i,U,Ali,Female,70,Hispanic,27-01-2024 00:06:29,No,Orthopedics,108,5
+P3000+i,L,Nair,Female,65,African,04-03-2024 03:49:54,Yes,Emergency,23,4
+P3000+i,D,Nair,Male,33,Middle Eastern,02-05-2024 08:58:18,Yes,Oncology,78,1
+P3000+i,J,Nair,Female,37,Hispanic,04-04-2024 04:40:35,No,Oncology,48,2
+P3000+i,X,Jain,Male,73,European,22-01-2024 04:47:46,No,Emergency,61,5
+P3000+i,U,Singh,Male,25,Hispanic,07-01-2024 03:18:09,No,Emergency,20,3
+P3000+i,U,Tiwari,Female,68,Indian,12-03-2024 20:13:47,Yes,Neurology,101,1
+P3000+i,K,Gupta,Female,29,African,05-05-2024 16:35:22,No,Pediatrics,9,3
+P3000+i,I,Tiwari,Female,29,African,24-05-2024 05:25:52,No,Oncology,9,1
+P3000+i,L,Bansal,Female,45,European,18-03-2024 06:33:40,Yes,Neurology,63,1
+P3000+i,A,Singh,Male,79,Hispanic,19-02-2024 22:45:38,No,Pediatrics,90,5
+P3000+i,W,Verma,Male,76,Asian,16-02-2024 02:10:46,No,Cardiology,72,1
+P3000+i,D,Verma,Female,30,Middle Eastern,24-03-2024 01:02:45,Yes,Cardiology,11,3
+P3000+i,Y,Iyer,Male,71,Indian,27-05-2024 15:27:13,No,Dermatology,67,2
+P3000+i,E,Verma,Female,58,African,26-02-2024 07:13:11,Yes,Neurology,94,5
+P3000+i,X,Patel,Female,27,Hispanic,17-01-2024 02:56:01,Yes,Neurology,10,2
+P3000+i,Q,Das,Male,22,Indian,04-06-2024 07:11:57,No,Oncology,45,5
+P3000+i,K,Chopra,Female,35,Middle Eastern,17-06-2024 03:57:36,No,Dermatology,95,1
+P3000+i,O,Singh,Male,29,Middle Eastern,11-03-2024 16:36:18,No,Pediatrics,14,2
+P3000+i,X,Bansal,Female,42,Middle Eastern,04-02-2024 11:26:07,No,Orthopedics,6,4
+P3000+i,P,Saxena,Male,41,Indian,14-03-2024 01:08:37,No,Orthopedics,30,3
+P3000+i,L,Yadav,Female,72,Asian,08-02-2024 18:37:34,No,Cardiology,106,4
+P3000+i,A,Malik,Male,44,African,10-02-2024 17:56:59,No,Emergency,23,4
+P3000+i,R,Khan,Female,52,European,20-04-2024 04:29:53,No,Cardiology,34,5
+P3000+i,Y,Yadav,Female,51,Middle Eastern,29-05-2024 22:42:10,Yes,Oncology,10,3
+P3000+i,A,Saxena,Female,27,Asian,13-03-2024 12:43:20,No,Dermatology,63,4
+P3000+i,N,Iyer,Male,76,Asian,02-01-2024 08:04:44,No,Oncology,72,1
+P3000+i,M,Gupta,Female,36,Indian,02-06-2024 22:10:32,No,Pediatrics,14,5
+P3000+i,H,Malik,Female,32,African,28-02-2024 00:49:54,No,Emergency,52,5
+P3000+i,G,Verma,Male,76,Asian,22-01-2024 23:26:21,No,Cardiology,29,5
+P3000+i,U,Jain,Female,45,African,22-04-2024 11:40:51,No,Neurology,11,1
+P3000+i,K,Khan,Male,26,Indian,12-06-2024 18:13:38,Yes,Neurology,5,2
+P3000+i,D,Patel,Female,53,Asian,13-03-2024 22:32:12,No,Pediatrics,50,2
+P3000+i,A,Gupta,Male,49,Asian,01-02-2024 08:36:21,Yes,Emergency,52,1
+P3000+i,G,Reddy,Female,27,African,23-04-2024 23:20:21,No,Orthopedics,54,3
+P3000+i,O,Sharma,Female,69,Indian,25-03-2024 16:51:26,Yes,Cardiology,8,5
+P3000+i,I,Iyer,Male,76,Middle Eastern,13-03-2024 19:01:38,No,Neurology,96,1
+P3000+i,G,Mehta,Female,60,Indian,30-04-2024 21:05:45,Yes,Oncology,54,4
+P3000+i,W,Gupta,Female,62,European,16-06-2024 02:51:18,Yes,Pediatrics,117,5
+P3000+i,B,Roy,Female,40,Hispanic,20-04-2024 17:29:03,Yes,Dermatology,56,1
+P3000+i,V,Roy,Female,74,European,19-04-2024 01:23:59,No,Orthopedics,38,3
+P3000+i,F,Sharma,Male,78,African,26-06-2024 07:39:46,No,Pediatrics,66,2
+P3000+i,J,Roy,Female,50,Indian,15-03-2024 18:38:07,Yes,Cardiology,86,2
+P3000+i,H,Yadav,Female,35,Indian,07-02-2024 16:40:30,Yes,Oncology,23,4
+P3000+i,I,Bansal,Male,76,European,03-03-2024 04:08:44,Yes,Cardiology,50,3
+P3000+i,B,Bansal,Female,27,Hispanic,11-04-2024 00:16:54,Yes,Orthopedics,95,3
+P3000+i,Y,Verma,Male,63,Asian,13-03-2024 12:05:16,No,Cardiology,10,3
+P3000+i,V,Tiwari,Female,42,Hispanic,08-02-2024 23:52:27,Yes,Cardiology,32,1
+P3000+i,L,Singh,Male,71,Asian,06-02-2024 05:04:17,No,Neurology,60,3
+P3000+i,K,Saxena,Female,38,European,02-01-2024 05:33:45,Yes,Cardiology,111,3
+P3000+i,W,Iyer,Female,77,Hispanic,16-06-2024 12:03:47,Yes,Orthopedics,118,4
+P3000+i,B,Chopra,Female,60,Middle Eastern,06-02-2024 13:06:35,No,Dermatology,22,2
+P3000+i,W,Chopra,Male,39,Middle Eastern,18-05-2024 02:02:32,Yes,Dermatology,81,4
+P3000+i,L,Reddy,Female,39,African,14-05-2024 15:02:02,Yes,Cardiology,58,4
+P3000+i,Q,Singh,Female,45,African,08-05-2024 07:03:18,No,Dermatology,7,2
+P3000+i,L,Jain,Male,74,Hispanic,08-05-2024 18:39:33,No,Pediatrics,42,5
+P3000+i,F,Khan,Female,65,Middle Eastern,05-06-2024 09:52:09,Yes,Orthopedics,96,5
+P3000+i,X,Verma,Female,67,Asian,18-04-2024 13:10:06,No,Oncology,88,3
+P3000+i,R,Singh,Female,52,African,09-03-2024 00:36:27,No,Pediatrics,64,3
+P3000+i,K,Ali,Male,73,Middle Eastern,23-01-2024 16:00:20,Yes,Cardiology,65,2
+P3000+i,E,Das,Male,69,Asian,28-03-2024 19:57:12,Yes,Emergency,113,5
+P3000+i,G,Ali,Male,53,Middle Eastern,19-04-2024 18:32:16,No,Pediatrics,110,2
+P3000+i,P,Malik,Female,56,Indian,20-03-2024 08:33:36,No,Neurology,117,5
+P3000+i,T,Verma,Male,78,Asian,16-05-2024 04:50:13,No,Oncology,119,5
+P3000+i,C,Jain,Male,52,African,08-02-2024 18:23:17,No,Oncology,45,5
+P3000+i,L,Sharma,Female,59,Middle Eastern,27-03-2024 21:10:40,Yes,Pediatrics,80,3
+P3000+i,C,Patel,Male,47,Asian,26-02-2024 07:38:38,Yes,Cardiology,90,1
+P3000+i,X,Gupta,Female,46,Asian,13-06-2024 06:26:39,Yes,Dermatology,50,4
+P3000+i,V,Gupta,Male,64,Middle Eastern,21-04-2024 15:05:16,No,Pediatrics,21,5
+P3000+i,D,Bansal,Female,19,Hispanic,13-05-2024 04:09:15,No,Pediatrics,22,1
+P3000+i,V,Yadav,Male,47,Asian,05-05-2024 08:35:54,Yes,Dermatology,36,2
+P3000+i,M,Malik,Female,68,Hispanic,01-05-2024 12:12:19,Yes,Dermatology,38,1
+P3000+i,T,Jain,Female,59,African,28-01-2024 19:12:46,No,Oncology,23,4
+P3000+i,L,Yadav,Female,41,Hispanic,12-03-2024 12:02:50,No,Dermatology,13,1
+P3000+i,H,Bansal,Male,79,European,19-01-2024 22:16:41,No,Orthopedics,44,2
+P3000+i,O,Jain,Female,18,Indian,05-06-2024 08:20:49,Yes,Orthopedics,119,5
+P3000+i,T,Khan,Male,71,African,08-05-2024 12:12:17,Yes,Orthopedics,97,5
+P3000+i,H,Roy,Female,65,Indian,25-06-2024 08:01:56,No,Dermatology,68,5
+P3000+i,Q,Saxena,Male,46,Indian,08-02-2024 23:30:07,Yes,Emergency,92,2
+P3000+i,L,Singh,Male,34,African,11-03-2024 16:18:12,No,Dermatology,30,1
+P3000+i,H,Gupta,Female,20,African,07-01-2024 08:20:09,Yes,Dermatology,53,5
+P3000+i,M,Bansal,Male,18,Hispanic,02-03-2024 03:33:36,Yes,Pediatrics,47,1
+P3000+i,K,Chopra,Male,76,European,10-05-2024 11:09:02,Yes,Dermatology,33,5
+P3000+i,U,Patel,Male,60,Hispanic,08-06-2024 13:18:17,No,Cardiology,20,1
+P3000+i,Y,Sharma,Female,71,African,04-06-2024 11:40:56,No,Emergency,60,1
+P3000+i,D,Gupta,Male,46,Hispanic,26-03-2024 04:04:31,No,Cardiology,45,3
+P3000+i,J,Malik,Male,61,African,27-06-2024 20:05:09,Yes,Orthopedics,109,5
+P3000+i,Q,Gupta,Male,36,Indian,26-05-2024 01:23:14,No,Emergency,15,5
+P3000+i,Y,Tiwari,Male,63,Asian,30-01-2024 09:41:12,No,Orthopedics,108,2
+P3000+i,Z,Iyer,Male,68,Asian,07-05-2024 14:22:39,No,Cardiology,70,4
+P3000+i,P,Bansal,Male,64,Middle Eastern,13-04-2024 21:07:47,No,Orthopedics,83,4
+P3000+i,C,Iyer,Female,69,Hispanic,26-02-2024 21:20:48,Yes,Oncology,49,2
+P3000+i,E,Chopra,Male,19,European,17-03-2024 14:22:36,No,Pediatrics,83,4
+P3000+i,S,Roy,Male,46,Asian,02-05-2024 07:29:06,Yes,Orthopedics,87,3
+P3000+i,Y,Yadav,Female,71,Hispanic,04-03-2024 12:31:35,Yes,Cardiology,63,4
+P3000+i,V,Yadav,Female,76,African,29-02-2024 00:48:10,No,Neurology,99,3
+P3000+i,K,Nair,Male,49,African,31-03-2024 18:02:05,Yes,Orthopedics,111,2
+P3000+i,T,Jain,Male,79,European,18-02-2024 13:20:08,Yes,Oncology,96,4
+P3000+i,H,Roy,Female,51,Asian,01-03-2024 12:22:15,Yes,Cardiology,83,1
+P3000+i,X,Sharma,Male,53,Middle Eastern,15-05-2024 17:58:32,Yes,Oncology,62,5
+P3000+i,J,Khan,Female,65,Hispanic,21-06-2024 16:26:37,Yes,Orthopedics,43,2
+P3000+i,O,Chopra,Male,69,African,08-04-2024 17:46:12,Yes,Pediatrics,87,4
+P3000+i,R,Roy,Male,46,Middle Eastern,28-02-2024 09:58:51,No,Dermatology,13,4
+P3000+i,P,Tiwari,Male,23,Hispanic,05-06-2024 21:27:21,Yes,Emergency,21,3
+P3000+i,S,Malik,Male,38,African,04-03-2024 12:45:13,Yes,Cardiology,40,2
+P3000+i,J,Roy,Female,54,Indian,02-03-2024 15:37:13,No,Pediatrics,80,2
+P3000+i,A,Verma,Female,78,Hispanic,13-01-2024 10:52:58,No,Pediatrics,58,3
+P3000+i,V,Nair,Male,74,Indian,09-02-2024 11:09:32,No,Oncology,63,2
+P3000+i,U,Iyer,Male,47,European,17-05-2024 12:01:47,Yes,Orthopedics,15,1
+P3000+i,P,Tiwari,Male,43,Asian,02-01-2024 16:49:53,Yes,Dermatology,16,3
+P3000+i,O,Saxena,Male,43,Indian,23-01-2024 02:04:45,Yes,Dermatology,100,1
+P3000+i,J,Reddy,Female,79,European,07-02-2024 21:11:20,Yes,Cardiology,115,3
+P3000+i,L,Nair,Female,55,Hispanic,01-03-2024 21:56:16,No,Neurology,98,5
+P3000+i,Q,Mehta,Male,49,Hispanic,04-06-2024 12:29:08,No,Emergency,114,5
+P3000+i,A,Saxena,Female,44,Asian,09-04-2024 07:38:46,Yes,Orthopedics,26,2
+P3000+i,M,Singh,Male,56,Hispanic,11-05-2024 06:40:31,No,Dermatology,27,4
+P3000+i,V,Tiwari,Male,75,European,10-04-2024 06:21:07,Yes,Dermatology,80,1
+P3000+i,E,Yadav,Female,45,Middle Eastern,15-05-2024 01:02:28,No,Emergency,67,5
+P3000+i,R,Singh,Male,38,Hispanic,05-04-2024 22:39:30,Yes,Dermatology,83,5
+P3000+i,R,Roy,Male,77,African,29-04-2024 09:17:37,Yes,Emergency,52,1
+P3000+i,Y,Singh,Male,73,African,19-04-2024 12:22:15,Yes,Dermatology,108,5
+P3000+i,R,Ali,Male,24,African,13-04-2024 08:01:41,Yes,Pediatrics,22,2
+P3000+i,A,Reddy,Female,25,European,15-03-2024 13:59:17,No,Emergency,42,3
+P3000+i,X,Mehta,Male,37,Asian,19-05-2024 11:27:38,Yes,Neurology,65,3
+P3000+i,F,Khan,Female,49,Middle Eastern,01-03-2024 14:03:46,Yes,Dermatology,113,3
+P3000+i,H,Gupta,Male,52,African,04-04-2024 07:51:42,Yes,Pediatrics,20,5
+P3000+i,Y,Chopra,Male,30,Middle Eastern,22-04-2024 09:53:38,No,Pediatrics,79,3
+P3000+i,U,Nair,Male,38,European,06-06-2024 03:58:54,No,Emergency,52,5
+P3000+i,E,Das,Male,52,Asian,26-03-2024 09:08:53,Yes,Emergency,35,2
+P3000+i,Y,Khan,Female,66,European,09-04-2024 18:06:46,Yes,Pediatrics,83,3
+P3000+i,V,Roy,Male,75,Indian,08-04-2024 12:51:27,Yes,Emergency,73,5
+P3000+i,T,Chopra,Female,78,European,17-05-2024 21:11:52,Yes,Emergency,72,5
+P3000+i,M,Sharma,Female,46,Hispanic,06-05-2024 02:16:50,No,Emergency,47,2
+P3000+i,T,Bansal,Male,27,Middle Eastern,01-03-2024 11:04:10,Yes,Emergency,29,4
+P3000+i,O,Sharma,Male,65,Middle Eastern,27-03-2024 09:16:58,No,Pediatrics,114,2
+P3000+i,B,Saxena,Female,72,Middle Eastern,28-01-2024 19:06:38,Yes,Neurology,63,5
+P3000+i,J,Jain,Female,68,African,28-05-2024 09:53:15,No,Emergency,54,4
+P3000+i,F,Yadav,Female,71,Middle Eastern,22-04-2024 18:49:13,Yes,Pediatrics,88,1
+P3000+i,Q,Singh,Female,31,Hispanic,01-02-2024 08:35:08,No,Cardiology,22,3
+P3000+i,X,Malik,Male,72,Asian,29-04-2024 13:12:54,Yes,Emergency,79,5
+P3000+i,N,Reddy,Female,61,Indian,12-05-2024 10:03:02,Yes,Emergency,45,3
+P3000+i,S,Roy,Female,42,Indian,29-05-2024 21:00:02,No,Orthopedics,69,4
+P3000+i,W,Das,Male,18,Indian,22-05-2024 04:43:19,Yes,Pediatrics,80,2
+P3000+i,O,Nair,Male,64,Middle Eastern,02-04-2024 16:37:01,No,Pediatrics,18,2
+P3000+i,Z,Malik,Male,37,European,26-06-2024 23:04:15,No,Cardiology,37,3
+P3000+i,Y,Das,Female,60,Middle Eastern,12-01-2024 09:28:07,Yes,Neurology,24,3
+P3000+i,E,Das,Male,45,European,30-03-2024 01:26:53,No,Orthopedics,17,5
+P3000+i,X,Jain,Female,19,Hispanic,06-02-2024 05:19:33,Yes,Cardiology,70,4
+P3000+i,E,Roy,Male,71,Middle Eastern,26-01-2024 06:48:39,No,Cardiology,112,3
+P3000+i,O,Chopra,Female,39,Middle Eastern,27-05-2024 06:32:39,Yes,Dermatology,33,2
+P3000+i,P,Gupta,Male,47,Middle Eastern,07-05-2024 14:18:59,No,Emergency,59,3
+P3000+i,N,Jain,Male,24,Middle Eastern,14-02-2024 18:33:18,Yes,Neurology,60,3
+P3000+i,R,Mehta,Male,70,Indian,28-03-2024 00:55:27,Yes,Neurology,77,3
+P3000+i,B,Nair,Male,68,Asian,06-02-2024 22:53:04,Yes,Pediatrics,115,1
+P3000+i,S,Tiwari,Female,25,African,04-04-2024 02:31:16,Yes,Cardiology,98,4
+P3000+i,D,Yadav,Male,77,Asian,22-02-2024 01:35:50,No,Dermatology,16,1
+P3000+i,V,Tiwari,Male,34,European,04-03-2024 20:08:09,No,Cardiology,98,5
+P3000+i,C,Patel,Female,36,African,11-01-2024 13:23:45,No,Oncology,54,4
+P3000+i,C,Yadav,Male,75,African,03-02-2024 07:02:18,No,Neurology,24,2
+P3000+i,D,Mehta,Female,55,Middle Eastern,17-05-2024 12:40:19,No,Dermatology,19,5
+P3000+i,G,Roy,Male,37,Indian,10-05-2024 15:52:04,Yes,Emergency,44,4
+P3000+i,X,Tiwari,Female,73,European,30-05-2024 17:09:59,No,Orthopedics,15,5
+P3000+i,Q,Bansal,Female,47,Asian,25-02-2024 11:40:43,No,Dermatology,14,4
+P3000+i,X,Chopra,Female,66,Asian,12-06-2024 16:06:20,Yes,Pediatrics,17,4
+P3000+i,J,Roy,Male,54,Indian,26-01-2024 03:09:09,Yes,Emergency,8,2
+P3000+i,U,Ali,Male,55,Middle Eastern,06-05-2024 05:04:23,No,Emergency,91,2
+P3000+i,B,Reddy,Female,48,Middle Eastern,28-04-2024 12:31:06,Yes,Cardiology,96,5
+P3000+i,U,Roy,Female,55,African,10-01-2024 18:36:23,Yes,Orthopedics,114,3
+P3000+i,J,Malik,Female,61,Indian,21-04-2024 22:07:55,Yes,Pediatrics,66,1
+P3000+i,K,Reddy,Female,18,Hispanic,26-02-2024 08:22:14,Yes,Oncology,110,5
+P3000+i,F,Roy,Female,73,African,09-01-2024 19:39:04,No,Emergency,52,2
+P3000+i,Z,Sharma,Male,68,European,16-06-2024 20:26:56,Yes,Pediatrics,19,2
+P3000+i,O,Saxena,Female,32,European,03-03-2024 16:21:10,No,Pediatrics,43,5
+P3000+i,B,Malik,Female,34,Middle Eastern,01-02-2024 23:54:15,No,Dermatology,24,2
+P3000+i,R,Khan,Male,44,Middle Eastern,22-03-2024 13:53:16,No,Oncology,84,1
+P3000+i,Z,Nair,Male,29,Asian,20-06-2024 04:53:38,No,Oncology,64,1
+P3000+i,A,Reddy,Female,52,Hispanic,17-02-2024 06:32:49,Yes,Dermatology,20,4
+P3000+i,T,Iyer,Male,76,Middle Eastern,29-03-2024 09:48:23,Yes,Oncology,17,5
+P3000+i,Z,Patel,Female,34,Hispanic,13-05-2024 10:30:42,Yes,Orthopedics,81,1
+P3000+i,N,Verma,Female,77,Asian,30-03-2024 09:10:37,No,Emergency,99,4
+P3000+i,J,Roy,Female,77,Asian,08-02-2024 12:49:11,Yes,Orthopedics,29,5
+P3000+i,Z,Sharma,Male,49,Indian,14-06-2024 22:46:12,No,Dermatology,98,3
+P3000+i,A,Chopra,Male,45,Asian,10-05-2024 08:18:52,No,Emergency,102,5
+P3000+i,X,Malik,Female,55,African,12-03-2024 17:34:53,Yes,Oncology,61,3
+P3000+i,D,Malik,Male,27,Asian,10-05-2024 03:54:39,Yes,Emergency,63,4
+P3000+i,M,Malik,Male,66,Indian,28-02-2024 13:45:00,No,Cardiology,73,4
+P3000+i,V,Tiwari,Male,42,African,06-05-2024 17:36:40,No,Cardiology,35,5
+P3000+i,D,Malik,Female,75,Indian,24-03-2024 05:32:22,No,Pediatrics,26,4
+P3000+i,G,Reddy,Male,30,Asian,14-02-2024 03:01:18,No,Orthopedics,46,2
+P3000+i,R,Reddy,Female,66,Hispanic,20-01-2024 05:15:31,Yes,Orthopedics,81,1
+P3000+i,E,Das,Female,71,Indian,12-06-2024 12:38:56,Yes,Dermatology,5,5
+P3000+i,R,Malik,Male,34,Asian,31-05-2024 19:04:25,No,Dermatology,76,2
+P3000+i,K,Mehta,Male,44,Hispanic,18-04-2024 21:31:25,No,Dermatology,76,3
+P3000+i,H,Das,Male,43,African,20-04-2024 21:14:34,No,Dermatology,17,5
+P3000+i,O,Sharma,Male,66,Indian,04-06-2024 19:45:28,No,Pediatrics,65,2
+P3000+i,B,Ali,Female,71,Indian,24-05-2024 14:35:09,Yes,Emergency,107,5
+P3000+i,M,Das,Female,49,Middle Eastern,03-04-2024 12:19:29,No,Orthopedics,17,3
+P3000+i,K,Roy,Male,38,European,03-04-2024 13:16:04,Yes,Cardiology,116,1
+P3000+i,Z,Jain,Male,57,European,25-04-2024 22:47:42,No,Pediatrics,77,4
+P3000+i,U,Jain,Female,27,Asian,17-04-2024 21:46:28,Yes,Neurology,91,4
+P3000+i,T,Mehta,Female,47,European,09-06-2024 18:43:04,Yes,Pediatrics,56,1
+P3000+i,V,Reddy,Female,71,European,20-04-2024 05:24:16,No,Cardiology,48,3
+P3000+i,C,Chopra,Male,28,African,07-04-2024 19:15:27,No,Emergency,13,4
+P3000+i,F,Patel,Female,50,Middle Eastern,15-05-2024 15:56:55,Yes,Dermatology,31,4
+P3000+i,D,Iyer,Male,18,African,16-04-2024 14:31:05,Yes,Oncology,66,3
+P3000+i,J,Saxena,Female,28,European,12-04-2024 06:20:00,No,Neurology,101,2
+P3000+i,T,Gupta,Male,46,European,25-03-2024 16:02:47,No,Cardiology,27,2
+P3000+i,K,Roy,Female,55,European,13-06-2024 06:57:48,No,Dermatology,68,3
+P3000+i,W,Gupta,Male,71,Hispanic,25-06-2024 23:57:22,Yes,Pediatrics,119,3
+P3000+i,W,Bansal,Female,41,Indian,18-02-2024 06:34:26,No,Orthopedics,70,3
+P3000+i,R,Ali,Female,56,Asian,04-06-2024 02:50:34,No,Emergency,21,3
+P3000+i,C,Tiwari,Male,73,Hispanic,28-01-2024 20:55:01,No,Orthopedics,41,3
+P3000+i,P,Sharma,Male,69,Asian,08-03-2024 12:25:57,Yes,Dermatology,94,1
+P3000+i,Y,Khan,Male,60,Hispanic,12-06-2024 14:14:17,Yes,Emergency,17,4
+P3000+i,R,Patel,Female,75,Middle Eastern,01-02-2024 09:59:04,No,Neurology,104,4
+P3000+i,G,Reddy,Female,63,Middle Eastern,23-03-2024 07:12:34,No,Emergency,114,3
+P3000+i,W,Nair,Male,45,Middle Eastern,08-05-2024 00:32:41,Yes,Dermatology,86,1
+P3000+i,Q,Iyer,Male,29,African,23-04-2024 13:20:03,Yes,Orthopedics,42,4
+P3000+i,R,Sharma,Male,44,Hispanic,16-05-2024 12:11:59,No,Cardiology,60,4
+P3000+i,J,Khan,Male,48,European,28-04-2024 21:15:24,No,Pediatrics,29,2
+P3000+i,K,Iyer,Female,20,European,31-05-2024 15:30:05,No,Dermatology,110,1
+P3000+i,G,Das,Female,43,Asian,27-05-2024 12:14:01,Yes,Dermatology,87,3
+P3000+i,M,Nair,Female,41,Asian,05-01-2024 05:28:58,No,Oncology,84,1
+P3000+i,V,Singh,Male,32,Indian,11-06-2024 17:11:39,Yes,Pediatrics,109,5
+P3000+i,A,Singh,Female,61,Hispanic,26-01-2024 22:05:34,No,Neurology,38,2
+P3000+i,C,Singh,Female,37,European,19-05-2024 05:42:46,No,Dermatology,52,1
+P3000+i,F,Jain,Female,71,Middle Eastern,29-03-2024 07:16:17,No,Emergency,34,3
+P3000+i,L,Gupta,Male,75,European,28-05-2024 08:12:03,Yes,Dermatology,53,4
+P3000+i,P,Gupta,Female,39,European,25-04-2024 14:18:13,No,Cardiology,19,2
+P3000+i,B,Bansal,Female,75,Hispanic,19-04-2024 15:03:15,No,Cardiology,83,1
+P3000+i,S,Chopra,Male,38,Asian,30-04-2024 16:44:41,No,Emergency,9,1
+P3000+i,Q,Verma,Male,60,Asian,21-04-2024 15:44:43,No,Pediatrics,51,4
+P3000+i,X,Verma,Female,44,Middle Eastern,18-01-2024 21:48:04,Yes,Orthopedics,96,3
+P3000+i,R,Khan,Female,39,European,13-04-2024 20:56:54,No,Dermatology,68,3
+P3000+i,X,Reddy,Female,57,African,17-05-2024 14:53:12,No,Orthopedics,56,1
+P3000+i,F,Sharma,Female,25,Hispanic,01-03-2024 23:56:47,No,Cardiology,9,2
+P3000+i,U,Chopra,Male,62,Middle Eastern,24-02-2024 05:48:42,Yes,Pediatrics,113,5
+P3000+i,J,Tiwari,Male,22,African,13-03-2024 08:24:26,No,Cardiology,116,2
+P3000+i,E,Malik,Male,18,African,13-04-2024 03:53:31,No,Neurology,55,3
+P3000+i,T,Mehta,Female,45,African,17-04-2024 01:06:46,Yes,Pediatrics,94,5
+P3000+i,D,Tiwari,Male,76,Middle Eastern,04-05-2024 17:28:21,Yes,Pediatrics,96,2
+P3000+i,O,Nair,Male,47,African,12-04-2024 08:43:37,Yes,Emergency,89,2
+P3000+i,F,Malik,Male,72,African,31-01-2024 00:26:27,Yes,Neurology,93,4
+P3000+i,T,Singh,Female,18,European,22-01-2024 21:04:46,No,Neurology,5,1
+P3000+i,V,Jain,Male,74,Asian,18-06-2024 05:48:04,No,Cardiology,83,1
+P3000+i,U,Mehta,Male,39,Indian,14-06-2024 12:06:58,Yes,Emergency,113,1
+P3000+i,M,Chopra,Female,34,European,30-03-2024 02:27:28,Yes,Emergency,42,1
+P3000+i,V,Iyer,Female,65,African,18-03-2024 17:06:42,Yes,Dermatology,114,5
+P3000+i,N,Khan,Female,32,European,23-02-2024 14:38:52,No,Pediatrics,31,5
+P3000+i,K,Malik,Male,66,Indian,07-06-2024 02:37:40,No,Oncology,39,4
+P3000+i,N,Tiwari,Female,23,African,27-02-2024 18:19:02,No,Orthopedics,93,2
+P3000+i,Z,Ali,Female,43,Hispanic,16-02-2024 12:13:56,No,Emergency,94,4
+P3000+i,Y,Gupta,Male,23,Middle Eastern,28-02-2024 08:22:23,No,Pediatrics,118,2
+P3000+i,W,Das,Female,21,Middle Eastern,17-01-2024 01:29:28,Yes,Pediatrics,18,5
+P3000+i,A,Verma,Male,24,European,07-05-2024 08:07:07,Yes,Dermatology,19,3
+P3000+i,D,Jain,Female,60,Asian,11-06-2024 14:20:18,No,Orthopedics,23,4
+P3000+i,G,Sharma,Male,53,Middle Eastern,11-06-2024 11:21:03,Yes,Cardiology,52,4
+P3000+i,T,Roy,Male,57,Hispanic,31-05-2024 17:26:20,Yes,Cardiology,21,3
+P3000+i,T,Singh,Female,67,Hispanic,05-03-2024 10:27:43,Yes,Cardiology,40,5
+P3000+i,W,Das,Female,23,African,27-02-2024 02:35:43,No,Pediatrics,18,5
+P3000+i,C,Jain,Female,65,European,08-03-2024 15:58:50,No,Orthopedics,84,4
+P3000+i,F,Verma,Female,33,Indian,11-05-2024 01:28:33,No,Emergency,35,3
+P3000+i,K,Sharma,Female,71,African,15-05-2024 19:33:43,Yes,Emergency,19,3
+P3000+i,C,Chopra,Male,48,Middle Eastern,14-02-2024 13:55:13,No,Neurology,12,4
+P3000+i,U,Chopra,Male,68,Asian,12-04-2024 09:22:49,No,Neurology,61,3
+P3000+i,T,Ali,Female,47,Hispanic,25-05-2024 10:34:44,No,Cardiology,97,4
+P3000+i,B,Verma,Male,51,Middle Eastern,19-06-2024 11:11:57,No,Oncology,49,5
+P3000+i,O,Khan,Female,47,Asian,13-05-2024 00:27:37,Yes,Cardiology,114,4
+P3000+i,V,Iyer,Female,21,Asian,02-04-2024 23:19:33,No,Emergency,36,2
+P3000+i,S,Khan,Female,35,European,15-01-2024 14:03:19,No,Emergency,100,1
+P3000+i,X,Verma,Male,54,Indian,06-01-2024 18:56:47,No,Pediatrics,67,3
+P3000+i,Y,Chopra,Male,59,Middle Eastern,18-05-2024 19:34:02,No,Orthopedics,21,4
+P3000+i,V,Patel,Female,21,Indian,21-03-2024 09:19:36,Yes,Orthopedics,87,5
+P3000+i,R,Reddy,Male,49,European,04-02-2024 11:14:29,No,Pediatrics,69,4
+P3000+i,G,Das,Male,39,European,21-04-2024 23:32:06,Yes,Orthopedics,15,5
+P3000+i,W,Iyer,Male,76,Hispanic,03-01-2024 03:48:24,No,Emergency,64,4
+P3000+i,C,Jain,Male,40,Asian,14-01-2024 17:29:53,Yes,Neurology,117,3
+P3000+i,A,Bansal,Male,58,European,13-03-2024 00:30:14,No,Cardiology,78,3
+P3000+i,Z,Saxena,Female,78,European,23-06-2024 21:55:16,No,Cardiology,51,4
+P3000+i,B,Reddy,Male,40,African,30-01-2024 17:42:48,Yes,Emergency,32,2
+P3000+i,D,Roy,Female,62,Hispanic,21-04-2024 23:36:56,Yes,Pediatrics,78,2
+P3000+i,S,Gupta,Male,74,Indian,27-02-2024 01:53:02,Yes,Emergency,45,1
+P3000+i,U,Khan,Female,31,Middle Eastern,08-04-2024 02:18:27,Yes,Neurology,52,2
+P3000+i,W,Singh,Male,27,Asian,08-04-2024 10:39:06,Yes,Orthopedics,15,5
+P3000+i,Z,Ali,Female,38,Middle Eastern,21-06-2024 07:38:46,Yes,Oncology,85,2
+P3000+i,S,Verma,Male,29,Indian,30-04-2024 12:44:25,No,Dermatology,86,3
+P3000+i,Z,Tiwari,Male,28,Indian,16-01-2024 06:53:36,Yes,Emergency,119,2
+P3000+i,K,Iyer,Female,52,Indian,30-03-2024 10:59:27,Yes,Orthopedics,10,1
+P3000+i,Z,Roy,Male,61,Middle Eastern,23-06-2024 11:26:38,Yes,Orthopedics,52,2
+P3000+i,C,Ali,Female,29,Asian,17-03-2024 17:54:46,No,Neurology,6,2
+P3000+i,W,Nair,Male,76,European,03-06-2024 01:18:06,Yes,Dermatology,76,4
+P3000+i,B,Singh,Male,29,Hispanic,20-05-2024 07:50:02,No,Oncology,21,5
+P3000+i,F,Khan,Female,34,Indian,29-04-2024 23:15:47,Yes,Cardiology,89,5
+P3000+i,F,Verma,Female,43,European,05-02-2024 18:59:39,No,Pediatrics,97,4
+P3000+i,E,Roy,Male,54,Hispanic,06-06-2024 06:22:07,No,Dermatology,18,2
+P3000+i,O,Yadav,Male,24,Asian,28-06-2024 14:32:27,Yes,Dermatology,41,5
+P3000+i,F,Chopra,Male,20,Hispanic,22-05-2024 12:34:43,No,Orthopedics,51,4
+P3000+i,N,Khan,Male,36,Asian,15-04-2024 00:51:32,Yes,Dermatology,68,5
+P3000+i,D,Tiwari,Female,44,Middle Eastern,24-02-2024 22:05:07,Yes,Emergency,29,4
+P3000+i,Y,Roy,Female,19,Indian,29-05-2024 19:24:15,Yes,Cardiology,20,2
+P3000+i,Z,Singh,Female,22,European,09-04-2024 04:33:48,Yes,Neurology,23,2
+P3000+i,V,Sharma,Male,30,Hispanic,19-06-2024 23:17:09,No,Orthopedics,97,4
+P3000+i,G,Yadav,Female,39,African,28-06-2024 18:27:47,No,Cardiology,77,3
+P3000+i,D,Sharma,Male,36,Asian,07-02-2024 17:45:28,Yes,Emergency,24,1
+P3000+i,Q,Ali,Male,49,Asian,11-05-2024 00:52:01,No,Dermatology,86,5
+P3000+i,S,Reddy,Female,37,Asian,27-03-2024 06:26:05,No,Neurology,79,5
+P3000+i,Y,Ali,Female,39,Asian,08-03-2024 16:46:20,Yes,Neurology,48,2
+P3000+i,X,Yadav,Male,30,European,11-02-2024 10:59:20,Yes,Cardiology,110,4
+P3000+i,P,Bansal,Female,36,Indian,07-06-2024 21:39:46,No,Neurology,61,5
+P3000+i,G,Tiwari,Female,78,Asian,07-06-2024 12:53:38,No,Orthopedics,99,5
+P3000+i,E,Jain,Male,49,Hispanic,06-03-2024 05:44:26,No,Orthopedics,14,2
+P3000+i,G,Reddy,Male,19,Indian,29-02-2024 10:45:51,Yes,Orthopedics,20,5
+P3000+i,E,Ali,Female,48,European,16-04-2024 08:50:31,No,Neurology,5,3
+P3000+i,Y,Reddy,Male,72,African,25-03-2024 07:23:47,Yes,Oncology,75,2
+P3000+i,Z,Tiwari,Male,64,Middle Eastern,19-02-2024 16:10:51,Yes,Cardiology,99,1
+P3000+i,N,Malik,Female,50,Asian,01-04-2024 01:58:55,No,Oncology,69,4
+P3000+i,O,Mehta,Male,70,Hispanic,15-04-2024 06:04:49,No,Pediatrics,110,4
+P3000+i,H,Gupta,Female,61,European,19-01-2024 10:55:21,Yes,Dermatology,79,2
+P3000+i,E,Bansal,Male,60,European,15-03-2024 11:08:50,Yes,Cardiology,16,3
+P3000+i,P,Malik,Male,59,European,27-01-2024 04:13:36,No,Emergency,58,2
+P3000+i,Z,Ali,Female,66,European,23-05-2024 03:56:49,Yes,Cardiology,64,4
+P3000+i,R,Khan,Female,55,Asian,28-01-2024 17:22:39,Yes,Orthopedics,14,4
+P3000+i,J,Gupta,Male,59,Indian,09-02-2024 09:23:03,No,Pediatrics,109,2
+P3000+i,J,Das,Female,64,Middle Eastern,13-06-2024 04:54:13,Yes,Emergency,84,5
+P3000+i,O,Singh,Female,39,Asian,16-04-2024 08:19:38,No,Pediatrics,45,2
+P3000+i,O,Khan,Male,49,European,29-03-2024 01:32:23,No,Dermatology,77,4
+P3000+i,B,Patel,Female,43,African,10-01-2024 19:15:45,Yes,Oncology,52,4
+P3000+i,V,Verma,Female,56,Hispanic,29-02-2024 08:03:12,Yes,Dermatology,55,4
+P3000+i,V,Nair,Male,53,Indian,31-05-2024 17:37:57,No,Orthopedics,31,2
+P3000+i,O,Tiwari,Male,48,African,26-02-2024 01:26:37,No,Neurology,70,5
+P3000+i,U,Saxena,Male,32,Middle Eastern,12-01-2024 07:33:56,Yes,Neurology,32,4
+P3000+i,K,Gupta,Male,78,Hispanic,12-04-2024 04:37:43,No,Pediatrics,25,2
+P3000+i,Y,Bansal,Male,63,Hispanic,18-03-2024 08:29:24,Yes,Orthopedics,22,2
+P3000+i,L,Mehta,Female,75,African,16-03-2024 01:42:15,Yes,Cardiology,74,4
+P3000+i,L,Nair,Female,62,European,12-06-2024 01:59:49,Yes,Emergency,82,5
+P3000+i,W,Saxena,Female,53,European,05-04-2024 07:39:24,No,Oncology,40,4
+P3000+i,V,Verma,Male,35,European,07-02-2024 20:32:02,Yes,Cardiology,27,5
+P3000+i,M,Das,Female,76,Indian,23-05-2024 01:24:20,Yes,Neurology,72,5
+P3000+i,I,Ali,Male,57,European,19-05-2024 16:10:55,Yes,Oncology,85,5
+P3000+i,G,Malik,Male,40,African,21-05-2024 23:24:44,No,Pediatrics,75,4
+P3000+i,R,Singh,Female,34,African,17-06-2024 08:20:05,No,Emergency,115,4
+P3000+i,X,Khan,Female,51,Asian,05-01-2024 11:58:36,Yes,Cardiology,31,4
+P3000+i,Z,Gupta,Female,40,European,13-04-2024 15:34:23,No,Pediatrics,82,3
+P3000+i,U,Reddy,Female,50,Middle Eastern,31-01-2024 03:47:46,No,Emergency,21,4
+P3000+i,J,Bansal,Male,36,African,19-04-2024 22:44:05,Yes,Oncology,66,5
+P3000+i,I,Gupta,Female,76,African,04-02-2024 17:31:48,No,Oncology,77,5
+P3000+i,B,Singh,Female,23,African,01-06-2024 11:15:42,No,Neurology,26,2
+P3000+i,T,Das,Female,62,Asian,09-03-2024 23:31:38,Yes,Oncology,93,1
+P3000+i,W,Singh,Male,37,Asian,20-06-2024 17:14:07,Yes,Cardiology,79,3
+P3000+i,K,Bansal,Male,46,European,23-02-2024 18:55:11,No,Orthopedics,103,4
+P3000+i,F,Roy,Male,63,Hispanic,06-05-2024 07:24:41,No,Orthopedics,57,1
+P3000+i,E,Nair,Female,34,Middle Eastern,05-06-2024 02:04:53,Yes,Dermatology,12,5
+P3000+i,J,Ali,Male,65,European,27-06-2024 19:14:40,No,Oncology,7,4
+P3000+i,E,Jain,Female,52,Asian,17-04-2024 02:02:51,Yes,Pediatrics,88,5
+P3000+i,R,Malik,Female,37,Hispanic,13-03-2024 22:05:26,No,Emergency,8,3
+P3000+i,J,Bansal,Male,71,Middle Eastern,19-01-2024 01:58:50,No,Orthopedics,49,3
+P3000+i,W,Ali,Female,30,Indian,20-05-2024 14:37:44,Yes,Pediatrics,90,4
+P3000+i,R,Ali,Female,69,Indian,20-04-2024 11:55:32,No,Dermatology,113,3
+P3000+i,H,Jain,Female,36,Indian,11-02-2024 04:47:21,No,Cardiology,116,3
+P3000+i,T,Roy,Male,43,African,30-05-2024 15:39:56,Yes,Cardiology,32,1
+P3000+i,C,Saxena,Female,37,Hispanic,08-02-2024 10:55:46,Yes,Dermatology,16,3
+P3000+i,M,Roy,Female,43,African,11-02-2024 22:36:58,Yes,Pediatrics,42,2
+P3000+i,L,Iyer,Male,60,Hispanic,19-01-2024 11:47:11,No,Orthopedics,10,4
+P3000+i,M,Nair,Male,55,African,22-04-2024 23:06:03,No,Orthopedics,69,3
+P3000+i,J,Jain,Male,57,Asian,12-03-2024 00:24:26,No,Pediatrics,56,3
+P3000+i,N,Jain,Female,56,Asian,01-03-2024 16:52:19,No,Pediatrics,29,4
+P3000+i,N,Singh,Male,43,Asian,11-04-2024 08:29:33,Yes,Orthopedics,16,3
+P3000+i,P,Malik,Female,68,Indian,26-04-2024 09:16:07,No,Cardiology,84,1
+P3000+i,A,Yadav,Female,30,European,29-03-2024 16:02:04,Yes,Dermatology,58,1
+P3000+i,O,Bansal,Male,69,Asian,27-04-2024 08:02:11,Yes,Oncology,79,1
+P3000+i,M,Patel,Female,24,Indian,19-04-2024 22:04:41,No,Oncology,15,4
+P3000+i,S,Patel,Female,71,Middle Eastern,21-06-2024 23:44:49,No,Neurology,32,3
+P3000+i,A,Khan,Male,64,African,26-02-2024 01:17:13,No,Pediatrics,29,5
+P3000+i,U,Chopra,Male,36,Hispanic,06-04-2024 13:24:51,No,Emergency,18,3
+P3000+i,F,Chopra,Male,47,Indian,01-04-2024 09:10:40,Yes,Oncology,71,4
+P3000+i,I,Chopra,Male,46,Middle Eastern,21-06-2024 04:00:14,No,Dermatology,114,1
+P3000+i,P,Bansal,Female,68,African,11-04-2024 07:34:01,No,Pediatrics,51,5
+P3000+i,D,Nair,Male,71,African,14-06-2024 03:09:10,Yes,Dermatology,93,2
+P3000+i,B,Singh,Female,24,European,22-01-2024 11:53:52,Yes,Orthopedics,86,1
+P3000+i,F,Sharma,Female,58,African,14-03-2024 23:09:44,No,Pediatrics,11,5
+P3000+i,L,Sharma,Female,67,African,21-02-2024 01:37:47,Yes,Dermatology,57,4
+P3000+i,G,Das,Male,51,Middle Eastern,04-01-2024 04:43:47,Yes,Dermatology,47,2
+P3000+i,K,Reddy,Female,21,African,01-01-2024 02:51:50,No,Cardiology,98,2
+P3000+i,R,Bansal,Female,26,Asian,04-02-2024 23:00:39,Yes,Neurology,87,4
+P3000+i,Q,Patel,Female,67,European,02-05-2024 19:51:06,No,Orthopedics,31,1
+P3000+i,F,Ali,Male,35,Asian,04-06-2024 00:08:27,Yes,Oncology,33,3
+P3000+i,G,Saxena,Male,64,European,31-01-2024 08:36:19,No,Cardiology,41,1
+P3000+i,D,Singh,Male,56,European,17-02-2024 01:23:57,No,Orthopedics,94,1
+P3000+i,W,Nair,Male,21,European,30-01-2024 20:22:53,No,Neurology,26,3
+P3000+i,W,Patel,Male,19,Hispanic,17-04-2024 19:59:07,Yes,Neurology,98,4
+P3000+i,E,Singh,Male,35,African,30-03-2024 00:11:32,Yes,Neurology,75,5
+P3000+i,E,Verma,Female,18,Hispanic,06-05-2024 13:46:33,Yes,Cardiology,94,2
+P3000+i,A,Chopra,Female,62,Indian,13-05-2024 02:00:11,Yes,Cardiology,76,3
+P3000+i,B,Malik,Male,54,European,25-05-2024 21:13:02,Yes,Orthopedics,105,1
+P3000+i,B,Verma,Female,59,Hispanic,02-02-2024 01:41:29,Yes,Oncology,105,4
+P3000+i,D,Ali,Male,71,Middle Eastern,03-04-2024 02:19:06,Yes,Neurology,43,1
+P3000+i,V,Nair,Male,71,Indian,28-05-2024 07:15:40,Yes,Oncology,37,3
+P3000+i,X,Mehta,Female,79,African,26-04-2024 06:54:06,Yes,Oncology,6,4
+P3000+i,Q,Tiwari,Male,56,Middle Eastern,26-04-2024 04:35:55,Yes,Cardiology,58,2
+P3000+i,S,Khan,Male,20,Hispanic,14-05-2024 13:34:09,Yes,Orthopedics,112,5
+P3000+i,F,Saxena,Male,75,Hispanic,09-06-2024 17:44:11,Yes,Neurology,63,2
+P3000+i,Q,Chopra,Female,28,Hispanic,08-03-2024 11:37:30,Yes,Emergency,86,4
+P3000+i,V,Ali,Male,66,African,07-04-2024 10:58:36,No,Emergency,92,2
+P3000+i,G,Malik,Male,61,European,06-05-2024 23:21:41,Yes,Oncology,46,1
+P3000+i,K,Ali,Female,72,Indian,25-03-2024 20:55:18,Yes,Emergency,20,4
+P3000+i,Y,Nair,Female,49,Middle Eastern,27-06-2024 11:50:14,Yes,Cardiology,53,1
+P3000+i,K,Chopra,Male,75,European,21-06-2024 20:01:35,No,Emergency,73,5
+P3000+i,T,Patel,Female,59,Asian,22-02-2024 21:27:22,No,Orthopedics,78,3
+P3000+i,N,Roy,Male,56,European,01-05-2024 00:15:24,No,Neurology,115,3
+P3000+i,A,Chopra,Male,36,European,10-01-2024 22:27:26,No,Dermatology,39,4
+P3000+i,V,Verma,Male,64,Asian,07-02-2024 22:55:08,No,Emergency,97,3
+P3000+i,W,Bansal,Male,20,Hispanic,15-05-2024 05:41:10,Yes,Cardiology,88,4
+P3000+i,L,Roy,Female,68,Asian,25-03-2024 22:54:36,No,Cardiology,12,5
+P3000+i,H,Yadav,Female,20,African,09-01-2024 14:44:11,No,Oncology,82,5
+P3000+i,Z,Iyer,Female,70,European,11-03-2024 18:46:38,No,Emergency,75,2
+P3000+i,Q,Mehta,Male,58,European,22-01-2024 12:20:39,Yes,Cardiology,117,5
+P3000+i,I,Chopra,Female,61,Asian,01-01-2024 09:44:41,Yes,Cardiology,111,1
+P3000+i,D,Sharma,Male,42,European,19-02-2024 07:18:19,Yes,Neurology,30,1
+P3000+i,M,Tiwari,Female,53,Asian,30-04-2024 04:01:46,No,Dermatology,10,5
+P3000+i,T,Ali,Male,60,Hispanic,25-01-2024 10:40:17,No,Oncology,66,5
+P3000+i,O,Roy,Female,60,Hispanic,18-03-2024 14:09:31,No,Emergency,22,3
+P3000+i,Q,Mehta,Female,77,Middle Eastern,03-03-2024 05:10:10,Yes,Oncology,60,3
+P3000+i,B,Yadav,Male,49,European,20-04-2024 15:23:52,No,Orthopedics,108,4
+P3000+i,M,Jain,Female,45,Indian,08-03-2024 22:58:53,Yes,Neurology,102,3
+P3000+i,R,Patel,Male,43,European,15-05-2024 22:10:23,No,Neurology,28,5
+P3000+i,J,Iyer,Female,30,Indian,25-01-2024 12:33:23,No,Pediatrics,86,2
+P3000+i,R,Saxena,Female,19,European,14-02-2024 19:23:26,Yes,Dermatology,67,4
+P3000+i,B,Iyer,Female,64,European,23-04-2024 19:15:22,No,Dermatology,23,3
+P3000+i,V,Nair,Female,56,African,22-02-2024 10:57:29,Yes,Cardiology,114,5
+P3000+i,S,Sharma,Male,61,African,20-02-2024 12:11:34,No,Oncology,90,3
+P3000+i,X,Bansal,Male,35,Hispanic,16-03-2024 05:48:38,No,Emergency,96,4
+P3000+i,D,Yadav,Female,77,African,02-02-2024 00:49:22,No,Orthopedics,32,3
+P3000+i,B,Gupta,Male,69,Asian,05-05-2024 19:40:32,No,Dermatology,41,2
+P3000+i,C,Verma,Female,52,Indian,07-04-2024 19:45:38,No,Neurology,44,5
+P3000+i,A,Saxena,Female,79,Indian,27-03-2024 11:39:39,No,Pediatrics,58,4
+P3000+i,N,Bansal,Female,65,African,11-06-2024 05:48:43,Yes,Pediatrics,49,4
+P3000+i,P,Bansal,Male,72,African,25-03-2024 00:47:21,No,Dermatology,108,5
+P3000+i,M,Reddy,Male,42,European,05-03-2024 08:25:41,Yes,Pediatrics,27,3
+P3000+i,V,Roy,Female,40,European,19-06-2024 13:36:42,No,Neurology,27,5
+P3000+i,T,Patel,Female,60,European,25-05-2024 01:39:34,Yes,Emergency,83,1
+P3000+i,U,Verma,Male,38,African,26-02-2024 05:56:38,No,Cardiology,95,5
+P3000+i,J,Bansal,Female,61,Asian,28-03-2024 17:26:06,Yes,Pediatrics,44,3
+P3000+i,S,Ali,Female,59,African,14-05-2024 00:17:53,Yes,Dermatology,52,4
+P3000+i,Z,Malik,Female,44,European,13-05-2024 08:08:40,Yes,Orthopedics,113,1
+P3000+i,Z,Verma,Female,48,Middle Eastern,21-01-2024 11:07:05,No,Emergency,44,5
+P3000+i,V,Saxena,Female,30,Asian,25-06-2024 04:04:38,No,Emergency,24,5
+P3000+i,I,Tiwari,Female,71,Hispanic,26-04-2024 18:39:23,Yes,Cardiology,21,4
+P3000+i,U,Malik,Male,58,Middle Eastern,25-01-2024 17:04:57,No,Neurology,118,1
+P3000+i,V,Jain,Female,23,Hispanic,15-03-2024 14:17:28,No,Dermatology,42,5
+P3000+i,X,Sharma,Male,28,African,21-05-2024 00:48:01,No,Neurology,44,3
+P3000+i,H,Singh,Female,72,European,26-04-2024 00:22:58,No,Orthopedics,101,3
+P3000+i,C,Roy,Female,35,African,25-04-2024 20:09:32,No,Pediatrics,92,5
+P3000+i,F,Mehta,Male,52,European,01-01-2024 06:14:59,Yes,Cardiology,29,5
+P3000+i,E,Roy,Male,66,Asian,05-05-2024 23:44:33,No,Emergency,93,2
+P3000+i,P,Saxena,Female,46,European,26-05-2024 17:36:22,Yes,Neurology,87,1
+P3000+i,F,Mehta,Male,33,Indian,13-03-2024 11:50:24,No,Oncology,46,3
+P3000+i,Z,Mehta,Male,50,Hispanic,10-06-2024 23:16:31,Yes,Pediatrics,112,2
+P3000+i,P,Khan,Male,51,Indian,29-03-2024 22:43:08,No,Dermatology,49,5
+P3000+i,J,Verma,Female,75,African,10-03-2024 03:56:15,Yes,Emergency,109,3
+P3000+i,X,Singh,Male,56,Indian,31-01-2024 18:28:57,Yes,Dermatology,14,1
+P3000+i,V,Bansal,Female,69,European,18-01-2024 16:25:23,Yes,Neurology,77,4
+P3000+i,T,Ali,Female,57,African,09-01-2024 12:50:16,No,Oncology,30,4
+P3000+i,X,Gupta,Female,34,Asian,16-01-2024 20:31:10,Yes,Cardiology,103,1
+P3000+i,F,Roy,Female,69,European,09-03-2024 00:55:32,No,Orthopedics,24,2
+P3000+i,S,Sharma,Female,64,Middle Eastern,02-01-2024 10:07:24,No,Pediatrics,17,4
+P3000+i,D,Reddy,Female,59,European,18-04-2024 04:21:29,Yes,Orthopedics,65,1
+P3000+i,Z,Singh,Female,25,European,07-03-2024 12:34:06,No,Oncology,114,1
+P3000+i,J,Khan,Male,47,Hispanic,26-04-2024 16:34:18,Yes,Pediatrics,103,5
+P3000+i,Z,Gupta,Female,78,Middle Eastern,11-02-2024 13:37:16,No,Orthopedics,40,5
+P3000+i,U,Nair,Male,29,Middle Eastern,06-02-2024 15:47:07,Yes,Oncology,77,4
+P3000+i,O,Iyer,Male,24,European,09-05-2024 09:02:47,No,Orthopedics,64,5
+P3000+i,C,Gupta,Female,40,Asian,05-06-2024 12:17:17,Yes,Emergency,94,3
+P3000+i,U,Reddy,Female,22,Indian,29-03-2024 00:13:18,No,Oncology,54,4
+P3000+i,C,Chopra,Female,61,Hispanic,09-05-2024 00:51:24,No,Oncology,107,4
+P3000+i,K,Yadav,Male,59,Asian,28-04-2024 00:26:45,No,Dermatology,71,2
+P3000+i,C,Nair,Female,52,Middle Eastern,22-03-2024 08:58:50,No,Emergency,88,5
+P3000+i,W,Khan,Male,36,Hispanic,28-02-2024 11:04:27,Yes,Pediatrics,87,1
+P3000+i,O,Singh,Male,21,European,15-01-2024 00:25:15,Yes,Pediatrics,59,3
+P3000+i,J,Reddy,Male,72,Indian,14-01-2024 15:37:20,Yes,Neurology,87,4
+P3000+i,Q,Singh,Female,24,African,30-01-2024 08:39:46,No,Emergency,53,1
+P3000+i,X,Singh,Female,33,Asian,20-04-2024 05:45:11,No,Oncology,55,2
+P3000+i,J,Roy,Male,45,European,20-03-2024 22:36:35,No,Neurology,87,2
+P3000+i,M,Iyer,Male,34,Indian,21-06-2024 09:23:18,Yes,Dermatology,31,2
+P3000+i,U,Tiwari,Male,51,Indian,05-02-2024 17:12:37,No,Neurology,28,2
+P3000+i,I,Das,Male,40,European,13-05-2024 17:42:52,No,Dermatology,29,1
+P3000+i,I,Singh,Male,63,African,31-05-2024 21:08:26,Yes,Dermatology,30,3
+P3000+i,D,Khan,Female,79,European,28-01-2024 03:43:06,No,Cardiology,42,5
+P3000+i,H,Roy,Male,31,African,27-06-2024 05:50:45,No,Pediatrics,60,3
+P3000+i,P,Iyer,Male,25,European,27-06-2024 11:52:51,Yes,Dermatology,116,3
+P3000+i,G,Patel,Male,24,European,16-05-2024 00:45:16,Yes,Emergency,67,4
+P3000+i,Z,Singh,Male,52,African,02-05-2024 17:10:26,No,Neurology,113,3
+P3000+i,T,Jain,Male,18,African,20-06-2024 19:04:54,No,Cardiology,45,3
+P3000+i,A,Chopra,Male,28,African,11-02-2024 20:40:17,No,Pediatrics,67,4
+P3000+i,G,Iyer,Female,54,Hispanic,06-05-2024 03:14:55,No,Cardiology,9,3
+P3000+i,D,Saxena,Male,69,Indian,23-06-2024 02:26:42,No,Neurology,18,5
+P3000+i,P,Nair,Male,78,Indian,07-06-2024 08:28:00,No,Dermatology,28,4
+P3000+i,T,Iyer,Female,40,European,22-03-2024 02:34:25,No,Neurology,82,2
+P3000+i,R,Sharma,Male,32,African,19-03-2024 04:16:26,Yes,Dermatology,19,2
+P3000+i,P,Reddy,Female,53,Asian,08-01-2024 14:53:54,Yes,Orthopedics,66,5
+P3000+i,W,Malik,Female,58,Asian,07-04-2024 20:57:32,No,Cardiology,36,4
+P3000+i,K,Sharma,Male,66,European,13-01-2024 11:39:44,No,Pediatrics,38,4
+P3000+i,L,Yadav,Female,31,African,30-04-2024 06:34:09,No,Dermatology,86,5
+P3000+i,K,Yadav,Male,72,African,07-06-2024 01:02:55,No,Oncology,29,3
+P3000+i,E,Saxena,Female,71,Indian,09-05-2024 03:47:48,Yes,Neurology,82,1
+P3000+i,B,Gupta,Male,73,Indian,03-04-2024 17:56:44,No,Orthopedics,88,5
+P3000+i,F,Jain,Female,78,Indian,22-01-2024 04:03:46,No,Cardiology,105,2
+P3000+i,O,Nair,Female,75,European,07-05-2024 02:32:10,No,Cardiology,21,2
+P3000+i,X,Singh,Male,72,African,09-05-2024 08:51:15,Yes,Neurology,89,2
+P3000+i,J,Das,Male,47,Hispanic,13-05-2024 21:12:48,No,Dermatology,107,1
+P3000+i,V,Bansal,Male,22,Middle Eastern,09-03-2024 07:51:47,Yes,Dermatology,68,3
+P3000+i,Y,Bansal,Male,58,European,13-06-2024 22:02:15,Yes,Neurology,77,5
+P3000+i,Y,Chopra,Male,59,African,06-03-2024 16:00:08,Yes,Orthopedics,111,4
+P3000+i,V,Ali,Female,39,African,04-03-2024 15:43:17,Yes,Oncology,38,5
+P3000+i,K,Singh,Male,55,Indian,19-04-2024 02:43:44,No,Oncology,22,1
+P3000+i,W,Chopra,Female,50,Hispanic,01-01-2024 00:03:35,No,Dermatology,8,4
+P3000+i,V,Khan,Female,78,Indian,22-03-2024 06:37:14,No,Orthopedics,47,3
+P3000+i,X,Bansal,Male,49,Asian,09-06-2024 02:52:25,Yes,Oncology,109,4
+P3000+i,U,Patel,Female,77,Indian,10-03-2024 01:33:03,Yes,Dermatology,38,2
+P3000+i,T,Iyer,Male,59,European,25-02-2024 21:27:19,No,Neurology,22,5
+P3000+i,H,Iyer,Male,66,Indian,19-06-2024 22:50:14,Yes,Neurology,65,2
+P3000+i,M,Iyer,Female,34,Hispanic,19-03-2024 09:21:26,Yes,Cardiology,58,3
+P3000+i,J,Chopra,Female,47,Hispanic,07-04-2024 11:36:25,No,Pediatrics,72,3
+P3000+i,T,Singh,Female,24,Hispanic,25-05-2024 22:04:25,Yes,Oncology,11,2
+P3000+i,L,Malik,Male,18,European,08-03-2024 10:56:45,No,Emergency,53,4
+P3000+i,P,Mehta,Female,67,Indian,16-04-2024 18:42:36,No,Oncology,25,2
+P3000+i,L,Tiwari,Male,31,European,09-01-2024 17:28:14,No,Cardiology,80,2
+P3000+i,B,Malik,Female,68,European,27-06-2024 23:38:39,Yes,Pediatrics,24,3
+P3000+i,V,Singh,Female,55,Middle Eastern,12-03-2024 22:29:20,Yes,Orthopedics,58,1
+P3000+i,O,Yadav,Male,66,European,24-01-2024 20:52:15,No,Neurology,51,3
+P3000+i,E,Patel,Male,39,Middle Eastern,03-03-2024 11:38:30,No,Orthopedics,64,3
+P3000+i,S,Sharma,Male,79,Indian,30-01-2024 21:53:32,Yes,Dermatology,26,3
+P3000+i,N,Yadav,Male,37,European,05-05-2024 07:47:40,No,Orthopedics,119,1
+P3000+i,I,Bansal,Male,59,Middle Eastern,07-04-2024 01:41:20,Yes,Cardiology,35,2
+P3000+i,X,Jain,Male,72,Asian,01-05-2024 01:12:48,No,Cardiology,42,1
+P3000+i,C,Yadav,Female,32,African,19-04-2024 06:39:51,No,Oncology,26,3
+P3000+i,V,Jain,Female,73,African,28-04-2024 06:47:46,Yes,Neurology,61,4
+P3000+i,F,Verma,Female,51,Hispanic,04-02-2024 05:05:00,Yes,Emergency,5,4
+P3000+i,R,Khan,Male,38,European,13-06-2024 01:47:44,Yes,Cardiology,55,1
+P3000+i,F,Chopra,Female,44,Hispanic,21-01-2024 20:36:59,No,Oncology,65,2
+P3000+i,V,Tiwari,Female,33,African,05-03-2024 13:48:57,No,Pediatrics,68,3
+P3000+i,V,Iyer,Female,34,Indian,30-04-2024 03:19:22,Yes,Neurology,27,4
+P3000+i,A,Roy,Male,70,Indian,11-03-2024 18:48:11,Yes,Oncology,83,2
+P3000+i,A,Roy,Female,63,Hispanic,18-03-2024 21:54:23,Yes,Pediatrics,75,3
+P3000+i,H,Yadav,Male,19,Indian,10-01-2024 06:51:40,No,Oncology,85,5
+P3000+i,O,Singh,Female,29,European,10-03-2024 01:27:49,Yes,Cardiology,36,1
+P3000+i,F,Singh,Female,37,European,08-05-2024 13:46:29,No,Cardiology,115,5
+P3000+i,O,Bansal,Male,75,Asian,25-05-2024 23:00:21,No,Dermatology,49,1
+P3000+i,M,Sharma,Female,40,Indian,23-01-2024 01:32:09,Yes,Pediatrics,81,4
+P3000+i,W,Yadav,Female,44,European,26-01-2024 11:04:46,No,Cardiology,40,5
+P3000+i,P,Iyer,Female,72,Middle Eastern,09-03-2024 22:08:57,No,Neurology,101,5
+P3000+i,W,Sharma,Male,43,European,04-02-2024 16:31:10,No,Dermatology,71,5
+P3000+i,C,Mehta,Female,51,European,06-04-2024 17:40:56,Yes,Emergency,45,3
+P3000+i,T,Nair,Female,75,Hispanic,01-02-2024 12:06:41,No,Cardiology,47,1
+P3000+i,F,Patel,Male,18,European,01-03-2024 15:26:05,No,Emergency,56,2
+P3000+i,H,Malik,Male,24,Middle Eastern,30-03-2024 01:12:01,No,Dermatology,34,4
+P3000+i,W,Jain,Male,38,African,05-05-2024 20:10:35,No,Emergency,85,1
+P3000+i,V,Nair,Female,27,Asian,24-04-2024 23:53:18,Yes,Orthopedics,46,3
+P3000+i,W,Verma,Female,29,Asian,25-02-2024 05:16:24,Yes,Neurology,36,3
+P3000+i,F,Tiwari,Female,45,Indian,04-03-2024 19:11:41,No,Emergency,63,2
+P3000+i,J,Gupta,Male,75,Middle Eastern,09-05-2024 20:15:02,Yes,Cardiology,17,1
+P3000+i,L,Mehta,Female,40,Hispanic,22-01-2024 13:30:39,Yes,Neurology,67,2
+P3000+i,Q,Sharma,Male,50,African,14-03-2024 07:32:40,No,Cardiology,105,3
+P3000+i,T,Gupta,Male,70,Middle Eastern,14-06-2024 01:08:56,Yes,Emergency,49,1
+P3000+i,I,Reddy,Female,34,Indian,26-02-2024 05:26:25,No,Neurology,100,1
+P3000+i,W,Malik,Male,77,Hispanic,02-03-2024 11:04:55,Yes,Emergency,13,4
+P3000+i,Z,Jain,Male,34,Indian,17-01-2024 14:49:24,Yes,Oncology,54,2
+P3000+i,R,Sharma,Male,28,Asian,25-03-2024 18:57:24,Yes,Oncology,22,5
+P3000+i,G,Nair,Male,41,Hispanic,14-03-2024 15:53:16,No,Pediatrics,21,2
+P3000+i,O,Malik,Female,59,Hispanic,10-04-2024 09:15:24,Yes,Neurology,86,1
+P3000+i,U,Nair,Female,26,Asian,14-01-2024 09:08:44,Yes,Oncology,99,4
+P3000+i,G,Jain,Female,35,Indian,27-05-2024 20:26:31,Yes,Oncology,51,3
+P3000+i,Z,Chopra,Female,61,African,09-01-2024 21:23:24,Yes,Cardiology,83,3
+P3000+i,I,Nair,Female,32,African,19-01-2024 14:27:37,Yes,Neurology,56,2
+P3000+i,Y,Malik,Female,42,Asian,02-06-2024 00:02:33,Yes,Oncology,50,4
+P3000+i,N,Yadav,Female,66,European,22-03-2024 10:39:27,No,Cardiology,57,3
+P3000+i,O,Singh,Male,19,Hispanic,11-02-2024 00:13:06,Yes,Cardiology,21,4
+P3000+i,K,Reddy,Female,50,Asian,16-03-2024 10:17:20,No,Cardiology,60,3
+P3000+i,M,Sharma,Male,60,Middle Eastern,18-02-2024 05:30:10,Yes,Pediatrics,76,4
+P3000+i,W,Malik,Female,53,European,26-04-2024 05:34:45,No,Pediatrics,11,4
+P3000+i,W,Saxena,Female,33,Hispanic,31-05-2024 09:26:20,No,Orthopedics,58,1
+P3000+i,A,Mehta,Male,66,Hispanic,25-01-2024 08:16:53,No,Emergency,84,2
+P3000+i,U,Roy,Female,25,Hispanic,05-06-2024 01:16:22,No,Oncology,96,4
+P3000+i,Z,Iyer,Male,33,African,11-03-2024 12:17:44,Yes,Cardiology,82,3
+P3000+i,R,Reddy,Female,43,Hispanic,30-03-2024 12:34:14,Yes,Dermatology,37,2
+P3000+i,R,Patel,Male,74,Indian,14-02-2024 22:57:23,No,Dermatology,67,3
+P3000+i,K,Das,Male,69,Indian,08-03-2024 07:53:32,No,Neurology,30,3
+P3000+i,Y,Patel,Female,19,Middle Eastern,21-05-2024 03:12:29,Yes,Pediatrics,53,4
+P3000+i,B,Nair,Female,43,Hispanic,13-02-2024 04:11:56,No,Cardiology,82,2
+P3000+i,B,Ali,Female,61,African,26-01-2024 17:49:08,Yes,Emergency,32,4
+P3000+i,K,Gupta,Male,57,African,06-03-2024 23:10:00,No,Orthopedics,91,5
+P3000+i,V,Bansal,Male,40,Hispanic,21-03-2024 22:32:29,No,Dermatology,52,4
+P3000+i,X,Gupta,Male,19,African,24-03-2024 00:21:39,Yes,Oncology,63,3
+P3000+i,Y,Nair,Female,72,Indian,12-01-2024 02:04:49,Yes,Pediatrics,104,3
+P3000+i,N,Yadav,Male,51,Indian,13-02-2024 00:33:16,Yes,Emergency,68,4
+P3000+i,E,Chopra,Male,39,European,18-01-2024 05:44:19,Yes,Orthopedics,98,5
+P3000+i,V,Malik,Female,68,Middle Eastern,11-03-2024 19:28:31,No,Oncology,52,3
+P3000+i,I,Bansal,Female,23,Hispanic,24-03-2024 06:21:24,No,Emergency,52,3
+P3000+i,W,Chopra,Female,22,Asian,11-01-2024 13:41:34,Yes,Dermatology,68,3
+P3000+i,E,Chopra,Female,75,Asian,09-03-2024 00:08:54,Yes,Pediatrics,57,5
+P3000+i,G,Jain,Female,26,Indian,15-01-2024 16:19:14,Yes,Dermatology,97,1
+P3000+i,L,Ali,Female,43,Indian,28-05-2024 18:31:48,Yes,Orthopedics,15,2
+P3000+i,S,Patel,Male,41,Middle Eastern,04-05-2024 02:25:38,Yes,Cardiology,18,2
+P3000+i,L,Patel,Female,29,African,07-02-2024 00:06:03,No,Emergency,114,2
+P3000+i,A,Singh,Male,58,Middle Eastern,10-01-2024 12:41:29,No,Cardiology,21,1
+P3000+i,J,Patel,Male,20,Asian,24-04-2024 05:37:04,No,Cardiology,16,4
+P3000+i,D,Saxena,Female,59,Indian,20-05-2024 08:33:45,Yes,Emergency,89,1
+P3000+i,P,Bansal,Female,21,Middle Eastern,22-03-2024 00:37:24,No,Orthopedics,23,2
+P3000+i,Z,Iyer,Female,29,Hispanic,21-03-2024 02:22:01,Yes,Oncology,102,5
+P3000+i,E,Malik,Female,68,European,11-01-2024 18:02:32,No,Neurology,16,1
+P3000+i,X,Reddy,Male,19,Middle Eastern,08-01-2024 04:28:41,No,Emergency,15,4
+P3000+i,H,Iyer,Female,70,Middle Eastern,10-01-2024 08:05:40,Yes,Pediatrics,88,4
+P3000+i,O,Mehta,Male,46,Asian,15-04-2024 02:54:52,Yes,Dermatology,18,2
+P3000+i,U,Patel,Male,38,Hispanic,26-03-2024 05:35:16,Yes,Neurology,112,2
+P3000+i,T,Saxena,Male,47,Middle Eastern,15-06-2024 03:08:03,Yes,Oncology,92,1
+P3000+i,P,Malik,Male,18,Indian,02-06-2024 12:55:01,Yes,Cardiology,42,5
+P3000+i,I,Roy,Male,61,Hispanic,26-03-2024 23:28:43,No,Cardiology,78,2
+P3000+i,Z,Saxena,Female,23,European,24-05-2024 17:21:54,Yes,Emergency,118,3
+P3000+i,A,Reddy,Female,27,Asian,29-04-2024 22:23:03,No,Cardiology,25,5
+P3000+i,Q,Reddy,Female,74,African,05-05-2024 09:39:35,Yes,Cardiology,37,3
+P3000+i,D,Saxena,Male,35,African,26-02-2024 00:12:35,Yes,Neurology,100,4
+P3000+i,I,Verma,Male,65,African,11-02-2024 14:18:02,No,Pediatrics,78,1
+P3000+i,F,Sharma,Female,69,Asian,18-06-2024 13:00:25,Yes,Pediatrics,30,1
+P3000+i,B,Patel,Female,28,Indian,23-01-2024 11:25:39,No,Neurology,108,5
+P3000+i,N,Reddy,Female,48,European,04-03-2024 02:24:06,Yes,Cardiology,108,1
+P3000+i,G,Gupta,Male,38,European,02-01-2024 21:45:53,No,Cardiology,51,1
+P3000+i,I,Sharma,Female,54,European,24-03-2024 14:43:46,No,Cardiology,55,2
+P3000+i,P,Khan,Female,78,Hispanic,25-05-2024 11:18:21,Yes,Cardiology,92,5
+P3000+i,I,Saxena,Male,47,Asian,20-06-2024 04:38:12,Yes,Orthopedics,14,4
+P3000+i,S,Yadav,Female,66,Indian,18-05-2024 14:33:29,Yes,Oncology,94,4
+P3000+i,E,Nair,Male,50,Asian,23-06-2024 22:42:11,No,Dermatology,46,3
+P3000+i,O,Sharma,Male,35,European,03-04-2024 20:44:41,No,Pediatrics,27,3
+P3000+i,F,Khan,Male,71,European,05-03-2024 09:15:13,No,Dermatology,57,1
+P3000+i,I,Iyer,Female,25,Hispanic,18-01-2024 23:54:32,Yes,Dermatology,116,5
+P3000+i,Q,Patel,Male,43,Asian,06-06-2024 07:43:49,Yes,Orthopedics,17,3
+P3000+i,C,Iyer,Male,46,Asian,03-01-2024 18:56:39,No,Emergency,62,2
+P3000+i,G,Tiwari,Female,29,Hispanic,09-05-2024 07:39:54,No,Pediatrics,112,4
+P3000+i,I,Jain,Female,35,Asian,17-03-2024 13:13:08,No,Orthopedics,90,4
+P3000+i,G,Jain,Female,19,Indian,06-05-2024 10:31:00,Yes,Pediatrics,11,2
+P3000+i,A,Tiwari,Female,43,Indian,28-03-2024 03:45:15,Yes,Pediatrics,20,4
+P3000+i,F,Yadav,Female,26,European,01-02-2024 12:09:50,Yes,Oncology,105,5
+P3000+i,U,Verma,Male,22,Hispanic,14-03-2024 00:48:12,No,Pediatrics,45,5
+P3000+i,D,Nair,Female,63,Middle Eastern,26-06-2024 00:10:54,No,Emergency,110,4
+P3000+i,F,Khan,Male,49,European,08-04-2024 02:20:46,No,Neurology,19,4
+P3000+i,O,Khan,Male,38,Hispanic,05-03-2024 17:04:25,Yes,Oncology,65,5
+P3000+i,I,Nair,Male,40,Indian,25-03-2024 10:52:28,No,Oncology,117,3
+P3000+i,W,Gupta,Male,56,European,16-06-2024 14:21:00,No,Cardiology,27,3
+P3000+i,I,Chopra,Male,33,Indian,08-03-2024 19:30:47,Yes,Oncology,84,5
+P3000+i,U,Iyer,Male,59,African,01-06-2024 22:16:11,No,Neurology,16,2
+P3000+i,R,Roy,Male,54,Indian,06-04-2024 07:18:51,Yes,Pediatrics,13,4
+P3000+i,C,Singh,Female,22,Middle Eastern,28-01-2024 07:45:59,Yes,Dermatology,103,5
+P3000+i,X,Mehta,Male,51,Hispanic,19-04-2024 13:25:53,Yes,Pediatrics,81,2
+P3000+i,V,Saxena,Female,62,Hispanic,21-04-2024 16:05:13,No,Cardiology,82,3
+P3000+i,N,Sharma,Female,59,European,14-06-2024 22:54:24,No,Orthopedics,75,1
+P3000+i,D,Malik,Female,25,European,10-04-2024 12:59:22,No,Dermatology,19,5
+P3000+i,Y,Sharma,Male,46,Indian,23-03-2024 10:17:25,No,Emergency,55,2
+P3000+i,R,Jain,Female,29,Indian,04-01-2024 04:13:18,No,Neurology,22,4
+P3000+i,K,Verma,Male,42,Hispanic,07-04-2024 11:44:52,Yes,Pediatrics,22,3
+P3000+i,N,Verma,Male,52,Asian,03-03-2024 21:36:54,Yes,Orthopedics,102,1
+P3000+i,J,Verma,Male,31,Indian,04-01-2024 15:42:54,No,Emergency,49,2
+P3000+i,Z,Khan,Female,32,African,28-01-2024 20:04:27,Yes,Cardiology,73,2
+P3000+i,P,Gupta,Female,59,Indian,01-01-2024 19:00:47,No,Dermatology,94,1
+P3000+i,Z,Gupta,Male,65,Middle Eastern,31-03-2024 01:22:31,No,Oncology,39,2
+P3000+i,D,Jain,Male,71,Indian,15-06-2024 19:45:01,Yes,Cardiology,42,4
+P3000+i,M,Reddy,Male,66,Asian,28-02-2024 00:13:55,Yes,Oncology,75,2
+P3000+i,O,Sharma,Female,66,Middle Eastern,05-05-2024 11:39:10,No,Cardiology,115,3
+P3000+i,D,Sharma,Male,60,African,07-04-2024 21:32:07,No,Emergency,53,4
+P3000+i,D,Tiwari,Female,43,Asian,20-03-2024 16:53:02,Yes,Emergency,81,3
+P3000+i,M,Jain,Female,21,Middle Eastern,06-06-2024 00:58:11,Yes,Orthopedics,71,1
+P3000+i,U,Khan,Female,39,Middle Eastern,23-04-2024 16:46:48,No,Dermatology,118,4
+P3000+i,G,Ali,Male,66,Indian,16-03-2024 04:55:18,Yes,Dermatology,89,4
+P3000+i,Z,Roy,Male,48,Hispanic,13-02-2024 18:02:06,No,Orthopedics,62,5
+P3000+i,N,Chopra,Female,37,Asian,30-05-2024 15:32:43,Yes,Neurology,20,5
+P3000+i,Z,Sharma,Male,38,Asian,24-05-2024 19:03:13,No,Dermatology,41,5
+P3000+i,N,Malik,Female,36,African,06-06-2024 15:56:28,Yes,Neurology,22,4
+P3000+i,P,Patel,Female,53,African,21-02-2024 09:12:12,No,Cardiology,48,1
+P3000+i,Q,Bansal,Male,61,Indian,26-04-2024 16:04:49,Yes,Dermatology,70,5
+P3000+i,R,Sharma,Female,72,African,10-01-2024 05:23:43,Yes,Neurology,46,1
+P3000+i,U,Roy,Male,30,African,01-05-2024 22:02:49,Yes,Pediatrics,106,3
+P3000+i,P,Jain,Female,77,Middle Eastern,07-05-2024 05:18:42,No,Dermatology,25,1
+P3000+i,J,Yadav,Female,45,Asian,22-04-2024 19:04:45,Yes,Emergency,89,5
+P3000+i,Z,Sharma,Female,66,Asian,09-01-2024 00:19:28,Yes,Pediatrics,73,2
+P3000+i,H,Gupta,Female,74,Middle Eastern,02-03-2024 09:48:14,Yes,Neurology,56,5
+P3000+i,P,Reddy,Female,57,Asian,14-06-2024 08:24:30,No,Neurology,23,4
+P3000+i,A,Nair,Male,67,Indian,09-06-2024 22:08:13,No,Cardiology,101,5
+P3000+i,R,Ali,Male,60,African,25-06-2024 22:38:35,No,Neurology,14,1
+P3000+i,U,Bansal,Female,18,Indian,11-03-2024 01:07:05,Yes,Neurology,95,5
+P3000+i,G,Patel,Male,45,Asian,06-05-2024 19:21:51,No,Pediatrics,60,4
+P3000+i,F,Reddy,Male,37,Asian,25-01-2024 11:25:15,Yes,Cardiology,9,5
+P3000+i,F,Mehta,Male,35,Indian,23-06-2024 22:05:57,Yes,Emergency,61,5
+P3000+i,U,Ali,Female,36,Asian,07-05-2024 20:26:08,No,Emergency,69,5
+P3000+i,H,Nair,Female,20,Hispanic,18-06-2024 23:58:12,Yes,Dermatology,103,1
+P3000+i,Z,Tiwari,Female,57,Hispanic,07-03-2024 21:47:42,Yes,Cardiology,113,5
+P3000+i,E,Singh,Male,72,Asian,28-06-2024 07:35:07,No,Pediatrics,113,2
+P3000+i,L,Reddy,Female,38,Hispanic,21-04-2024 06:14:46,Yes,Cardiology,74,3
+P3000+i,Y,Tiwari,Male,70,Middle Eastern,27-03-2024 22:59:28,No,Oncology,70,3
+P3000+i,E,Reddy,Male,36,Indian,14-05-2024 11:34:22,No,Oncology,46,2
+P3000+i,E,Malik,Female,76,Asian,20-01-2024 07:06:56,Yes,Oncology,31,2
+P3000+i,P,Tiwari,Male,79,Asian,09-04-2024 12:48:18,No,Oncology,21,5
+P3000+i,U,Malik,Female,56,European,26-04-2024 02:29:09,No,Neurology,75,1
+P3000+i,K,Nair,Female,56,Hispanic,05-02-2024 03:31:56,No,Emergency,8,1
+P3000+i,I,Bansal,Female,22,Hispanic,06-06-2024 13:42:35,Yes,Neurology,72,5
+P3000+i,H,Roy,Female,26,Asian,20-02-2024 14:10:12,No,Neurology,22,2
+P3000+i,J,Yadav,Female,74,Middle Eastern,12-01-2024 02:25:20,Yes,Oncology,34,3
+P3000+i,L,Mehta,Male,52,Asian,23-01-2024 05:52:00,Yes,Orthopedics,83,4
+P3000+i,O,Malik,Female,26,Asian,15-01-2024 11:55:07,Yes,Emergency,28,4
+P3000+i,Q,Tiwari,Female,78,European,11-06-2024 14:08:21,No,Emergency,31,3
+P3000+i,N,Yadav,Female,62,European,16-03-2024 18:06:11,No,Orthopedics,69,5
+P3000+i,M,Khan,Male,66,European,18-04-2024 20:05:20,Yes,Orthopedics,14,3
+P3000+i,U,Verma,Female,76,Indian,05-04-2024 15:03:25,No,Oncology,107,4
+P3000+i,Q,Malik,Male,39,African,25-05-2024 11:54:23,Yes,Cardiology,50,3
+P3000+i,D,Verma,Female,45,Indian,18-01-2024 22:45:14,Yes,Orthopedics,43,1
+P3000+i,G,Reddy,Female,46,African,22-03-2024 07:16:23,No,Neurology,58,2
+P3000+i,W,Tiwari,Male,24,Hispanic,12-06-2024 14:02:57,No,Cardiology,42,3
+P3000+i,Y,Patel,Female,26,African,27-06-2024 09:49:22,No,Emergency,86,5
+P3000+i,S,Khan,Female,31,Hispanic,06-06-2024 20:45:55,Yes,Oncology,43,4
+P3000+i,M,Gupta,Male,42,Hispanic,04-06-2024 15:42:03,Yes,Emergency,70,3
+P3000+i,H,Malik,Female,31,Hispanic,29-05-2024 21:22:38,No,Orthopedics,27,4
+P3000+i,Z,Verma,Female,78,Asian,14-06-2024 10:15:31,No,Oncology,83,1
+P3000+i,W,Yadav,Male,18,European,14-05-2024 01:31:10,No,Oncology,16,2
+P3000+i,R,Khan,Female,22,Asian,17-04-2024 01:48:43,Yes,Orthopedics,16,2
+P3000+i,X,Khan,Female,19,Hispanic,14-03-2024 06:23:10,No,Orthopedics,98,4
+P3000+i,H,Yadav,Female,75,Hispanic,17-01-2024 21:08:22,No,Oncology,66,1
+P3000+i,Y,Saxena,Female,48,African,28-04-2024 18:06:25,Yes,Dermatology,74,2
+P3000+i,Z,Sharma,Male,55,Asian,14-02-2024 21:42:17,No,Dermatology,55,2
+P3000+i,U,Tiwari,Female,61,European,15-01-2024 23:03:41,Yes,Emergency,74,2
+P3000+i,C,Saxena,Female,54,Asian,08-06-2024 23:23:01,No,Cardiology,90,2
+P3000+i,K,Bansal,Female,68,Hispanic,07-03-2024 22:53:48,No,Cardiology,80,5
+P3000+i,F,Ali,Male,65,Indian,24-05-2024 20:50:20,No,Cardiology,70,4
+P3000+i,F,Roy,Male,27,European,28-03-2024 15:13:20,No,Neurology,56,3
+P3000+i,H,Patel,Male,22,European,16-05-2024 18:07:22,Yes,Orthopedics,81,3
+P3000+i,Q,Khan,Male,38,African,24-01-2024 19:11:33,No,Emergency,8,3
+P3000+i,F,Ali,Male,52,Middle Eastern,03-01-2024 16:15:35,No,Emergency,52,3
+P3000+i,X,Verma,Female,48,Asian,25-02-2024 06:25:47,Yes,Oncology,93,5
+P3000+i,G,Patel,Female,21,Hispanic,15-02-2024 18:26:21,No,Neurology,17,3
+P3000+i,T,Bansal,Female,23,Middle Eastern,17-01-2024 03:48:51,Yes,Dermatology,108,1
+P3000+i,W,Jain,Female,52,Asian,21-03-2024 01:03:52,Yes,Neurology,81,4
+P3000+i,O,Verma,Female,19,Middle Eastern,21-02-2024 21:39:54,Yes,Dermatology,94,3
+P3000+i,K,Bansal,Female,72,European,07-03-2024 02:20:18,No,Dermatology,64,2
+P3000+i,B,Verma,Female,29,Hispanic,09-03-2024 22:12:35,No,Orthopedics,107,5
+P3000+i,W,Patel,Female,58,Middle Eastern,26-02-2024 16:03:56,Yes,Emergency,16,5
+P3000+i,H,Das,Female,73,European,06-04-2024 00:56:47,No,Pediatrics,49,3
+P3000+i,F,Bansal,Male,20,European,29-04-2024 06:58:12,Yes,Neurology,94,3
+P3000+i,F,Mehta,Female,79,Hispanic,11-03-2024 07:21:45,Yes,Pediatrics,110,4
+P3000+i,X,Roy,Female,51,European,07-03-2024 21:31:51,Yes,Orthopedics,35,3
+P3000+i,C,Ali,Female,62,European,11-03-2024 01:04:40,No,Neurology,67,4
+P3000+i,I,Roy,Male,74,European,26-06-2024 04:06:39,Yes,Cardiology,29,4
+P3000+i,U,Jain,Female,24,African,08-02-2024 13:33:04,No,Oncology,49,3
+P3000+i,G,Iyer,Male,23,Indian,04-05-2024 19:18:46,No,Cardiology,95,2
+P3000+i,W,Singh,Female,39,Hispanic,24-03-2024 15:48:40,No,Emergency,83,4
+P3000+i,O,Verma,Male,66,Middle Eastern,02-04-2024 07:16:23,Yes,Pediatrics,41,1
+P3000+i,O,Singh,Female,69,African,02-02-2024 23:49:41,Yes,Neurology,118,5
+P3000+i,A,Tiwari,Male,56,Asian,18-01-2024 19:40:21,No,Cardiology,41,3
+P3000+i,R,Iyer,Male,48,Indian,04-03-2024 21:13:45,Yes,Pediatrics,83,2
+P3000+i,I,Singh,Female,76,African,24-06-2024 07:23:59,Yes,Neurology,58,3
+P3000+i,W,Sharma,Male,51,European,04-06-2024 05:05:16,Yes,Oncology,45,3
+P3000+i,U,Malik,Male,22,European,28-04-2024 03:43:23,No,Emergency,57,5
+P3000+i,B,Tiwari,Male,37,Indian,24-01-2024 08:52:12,No,Oncology,95,2
+P3000+i,G,Gupta,Female,62,Asian,03-06-2024 15:54:01,Yes,Cardiology,11,2
+P3000+i,A,Yadav,Male,64,Indian,22-02-2024 23:39:38,No,Oncology,42,5
+P3000+i,G,Verma,Male,40,Indian,22-02-2024 15:19:42,Yes,Pediatrics,100,2
+P3000+i,F,Sharma,Female,65,Middle Eastern,04-04-2024 23:17:28,Yes,Oncology,68,5
+P3000+i,K,Reddy,Male,71,Middle Eastern,04-05-2024 09:23:05,Yes,Dermatology,55,4
+P3000+i,M,Yadav,Male,79,Asian,03-01-2024 03:41:43,Yes,Cardiology,68,5
+P3000+i,L,Reddy,Male,69,Indian,11-01-2024 19:56:16,No,Pediatrics,106,2
+P3000+i,K,Khan,Female,28,Asian,03-06-2024 21:19:28,No,Neurology,25,2
+P3000+i,C,Mehta,Female,44,Indian,12-06-2024 01:07:22,Yes,Neurology,115,2
+P3000+i,N,Patel,Female,76,Indian,08-04-2024 07:45:38,Yes,Orthopedics,35,4
+P3000+i,D,Tiwari,Female,56,Hispanic,08-05-2024 17:08:40,No,Pediatrics,47,4
+P3000+i,Y,Singh,Female,20,Asian,20-02-2024 03:22:41,No,Oncology,86,4
+P3000+i,V,Chopra,Male,78,African,09-03-2024 17:42:25,Yes,Dermatology,38,4
+P3000+i,S,Jain,Female,55,Middle Eastern,07-06-2024 03:59:05,Yes,Dermatology,118,4
+P3000+i,S,Khan,Male,53,Indian,25-03-2024 18:13:04,Yes,Orthopedics,115,1
+P3000+i,H,Yadav,Male,20,Middle Eastern,12-05-2024 19:49:16,Yes,Cardiology,89,5
+P3000+i,E,Nair,Female,43,African,26-01-2024 04:20:20,Yes,Neurology,19,3
+P3000+i,M,Roy,Male,33,Asian,01-01-2024 19:14:23,No,Pediatrics,41,3
+P3000+i,K,Singh,Female,69,African,16-02-2024 18:21:00,Yes,Dermatology,84,3
+P3000+i,Z,Yadav,Female,38,Indian,06-03-2024 22:52:37,Yes,Oncology,31,2
+P3000+i,X,Reddy,Female,75,Asian,02-03-2024 06:49:30,Yes,Dermatology,106,1
+P3000+i,B,Gupta,Male,28,Middle Eastern,08-01-2024 15:14:40,No,Dermatology,75,5
+P3000+i,K,Das,Female,25,Hispanic,24-04-2024 08:14:45,Yes,Cardiology,67,5
+P3000+i,P,Verma,Male,73,Indian,20-01-2024 18:50:47,Yes,Neurology,62,2
+P3000+i,E,Verma,Male,74,Middle Eastern,02-04-2024 16:59:52,Yes,Neurology,19,2
+P3000+i,Q,Verma,Female,27,Hispanic,29-01-2024 05:49:41,No,Orthopedics,84,4
+P3000+i,F,Roy,Male,37,European,18-04-2024 16:44:37,Yes,Dermatology,41,1
+P3000+i,H,Patel,Female,57,Middle Eastern,02-04-2024 13:53:19,No,Pediatrics,106,4
+P3000+i,G,Mehta,Female,65,Indian,14-06-2024 03:27:26,No,Emergency,18,5
+P3000+i,M,Das,Female,50,European,13-03-2024 00:55:20,No,Dermatology,95,5
+P3000+i,T,Yadav,Male,43,European,29-01-2024 10:47:06,Yes,Oncology,96,4
+P3000+i,M,Yadav,Male,25,African,12-05-2024 20:03:53,Yes,Dermatology,11,2
+P3000+i,X,Das,Female,53,European,14-04-2024 13:43:54,No,Orthopedics,62,2
+P3000+i,O,Patel,Female,42,Middle Eastern,13-03-2024 22:08:52,No,Cardiology,31,1
+P3000+i,K,Singh,Female,40,Asian,14-03-2024 21:27:05,Yes,Neurology,56,1
+P3000+i,A,Khan,Female,71,European,04-05-2024 18:13:22,No,Emergency,10,5
+P3000+i,M,Nair,Female,75,European,10-03-2024 09:15:32,No,Pediatrics,70,2
+P3000+i,S,Verma,Female,75,Indian,22-03-2024 19:13:26,Yes,Emergency,6,4
+P3000+i,S,Das,Male,39,European,06-02-2024 07:30:27,No,Oncology,107,4
+P3000+i,Y,Nair,Female,18,Hispanic,08-05-2024 08:08:19,No,Pediatrics,113,1
+P3000+i,B,Iyer,Female,64,Hispanic,03-01-2024 01:09:01,Yes,Neurology,59,3
+P3000+i,P,Sharma,Female,41,Hispanic,14-02-2024 11:20:57,Yes,Pediatrics,81,1
+P3000+i,V,Singh,Female,41,Middle Eastern,04-02-2024 14:05:11,No,Pediatrics,32,4
+P3000+i,E,Mehta,Male,33,Middle Eastern,16-01-2024 18:33:50,Yes,Cardiology,102,3
+P3000+i,D,Verma,Female,18,European,19-03-2024 17:05:54,Yes,Dermatology,72,3
+P3000+i,G,Yadav,Male,22,European,20-05-2024 23:26:01,No,Pediatrics,79,2
+P3000+i,J,Malik,Female,51,Middle Eastern,12-04-2024 11:27:36,No,Pediatrics,110,2
+P3000+i,N,Verma,Male,40,Hispanic,28-02-2024 12:48:38,No,Oncology,7,4
+P3000+i,E,Mehta,Male,24,Hispanic,18-02-2024 03:16:41,No,Pediatrics,37,5
+P3000+i,J,Khan,Male,65,European,19-03-2024 03:41:28,Yes,Cardiology,75,4
+P3000+i,C,Yadav,Female,37,Hispanic,26-04-2024 07:00:51,No,Pediatrics,36,4
+P3000+i,N,Das,Male,30,African,01-01-2024 05:27:23,Yes,Pediatrics,60,3
+P3000+i,E,Roy,Female,65,Asian,30-01-2024 23:20:03,Yes,Emergency,59,1
+P3000+i,S,Roy,Male,33,Asian,27-02-2024 18:56:18,Yes,Pediatrics,69,5
+P3000+i,F,Roy,Female,68,European,22-01-2024 05:36:23,No,Pediatrics,111,5
+P3000+i,T,Ali,Male,69,Indian,10-04-2024 17:41:08,No,Cardiology,104,4
+P3000+i,M,Ali,Female,21,Indian,05-02-2024 03:02:11,No,Cardiology,57,2
+P3000+i,S,Gupta,Female,67,European,17-06-2024 16:21:41,Yes,Cardiology,70,5
+P3000+i,B,Mehta,Male,53,Hispanic,07-05-2024 06:46:03,Yes,Cardiology,107,5
+P3000+i,G,Malik,Male,71,European,30-03-2024 00:27:00,No,Emergency,21,4
+P3000+i,P,Reddy,Female,48,African,13-03-2024 10:56:30,No,Pediatrics,82,1
+P3000+i,K,Reddy,Male,54,African,02-01-2024 06:10:59,No,Emergency,52,3
+P3000+i,T,Sharma,Female,50,African,08-04-2024 23:52:25,Yes,Cardiology,107,2
+P3000+i,O,Iyer,Male,64,Indian,27-06-2024 02:49:55,Yes,Oncology,6,3
+P3000+i,Q,Mehta,Male,58,African,02-05-2024 11:09:24,No,Dermatology,86,4
+P3000+i,V,Chopra,Female,29,Hispanic,29-01-2024 06:54:05,Yes,Cardiology,16,3
+P3000+i,U,Reddy,Male,22,Hispanic,21-03-2024 20:37:13,No,Oncology,110,2
+P3000+i,B,Reddy,Female,60,Asian,21-03-2024 17:22:12,No,Emergency,49,2
+P3000+i,X,Tiwari,Male,26,African,25-06-2024 19:20:03,No,Emergency,104,2
+P3000+i,V,Ali,Female,26,African,02-03-2024 08:43:36,Yes,Pediatrics,33,5
+P3000+i,E,Malik,Male,67,Asian,01-06-2024 13:24:30,No,Oncology,10,2
+P3000+i,C,Patel,Female,46,Asian,19-03-2024 19:17:48,No,Cardiology,8,2
+P3000+i,P,Saxena,Male,67,Asian,25-06-2024 06:35:23,Yes,Neurology,107,3
+P3000+i,Y,Verma,Male,31,European,10-05-2024 18:12:02,Yes,Neurology,118,2
+P3000+i,K,Iyer,Female,55,Asian,21-06-2024 08:12:25,No,Pediatrics,86,2
+P3000+i,P,Ali,Male,37,Middle Eastern,27-02-2024 18:00:24,No,Cardiology,106,5
+P3000+i,Z,Reddy,Male,21,Middle Eastern,28-04-2024 21:27:41,Yes,Pediatrics,101,4
+P3000+i,K,Iyer,Female,69,Hispanic,06-02-2024 10:23:03,No,Oncology,48,2
+P3000+i,H,Gupta,Female,61,Indian,12-05-2024 04:22:13,No,Cardiology,73,5
+P3000+i,D,Verma,Female,26,Hispanic,01-02-2024 06:37:20,Yes,Pediatrics,71,2
+P3000+i,D,Bansal,Female,29,Asian,29-01-2024 08:42:42,No,Emergency,94,1
+P3000+i,S,Khan,Female,78,Indian,30-01-2024 01:40:41,Yes,Oncology,6,3
+P3000+i,M,Yadav,Female,63,African,08-03-2024 12:25:22,Yes,Dermatology,17,4
+P3000+i,V,Tiwari,Male,52,Indian,24-02-2024 16:19:20,No,Cardiology,6,5
+P3000+i,R,Jain,Female,71,Asian,10-02-2024 20:04:15,No,Oncology,35,4
+P3000+i,H,Chopra,Female,64,Asian,09-05-2024 10:30:41,No,Neurology,81,5
+P3000+i,X,Sharma,Female,75,African,15-04-2024 00:12:47,Yes,Orthopedics,60,3
+P3000+i,W,Bansal,Female,42,Hispanic,10-06-2024 04:15:32,Yes,Emergency,34,3
+P3000+i,J,Iyer,Male,30,African,03-01-2024 18:46:49,Yes,Oncology,61,5
+P3000+i,W,Roy,Male,23,Hispanic,12-02-2024 07:26:51,Yes,Oncology,62,1
+P3000+i,Y,Das,Female,59,Hispanic,11-01-2024 16:27:18,No,Orthopedics,102,2
+P3000+i,V,Das,Male,35,Middle Eastern,25-03-2024 00:35:47,No,Orthopedics,108,4
+P3000+i,N,Chopra,Female,63,European,13-02-2024 16:58:28,No,Cardiology,63,2
+P3000+i,Q,Patel,Female,60,Hispanic,04-05-2024 10:29:15,Yes,Pediatrics,34,2
+P3000+i,R,Iyer,Male,74,Asian,20-04-2024 22:32:51,No,Oncology,108,1
+P3000+i,Z,Bansal,Male,36,Hispanic,05-01-2024 01:54:22,No,Emergency,76,3
+P3000+i,U,Das,Male,40,European,03-06-2024 17:13:11,No,Orthopedics,100,2
+P3000+i,E,Roy,Male,44,Hispanic,23-03-2024 11:54:39,Yes,Pediatrics,54,2
+P3000+i,U,Khan,Female,46,Hispanic,15-06-2024 23:56:24,Yes,Pediatrics,37,3
+P3000+i,Z,Singh,Female,54,European,06-04-2024 20:34:54,Yes,Cardiology,20,2
+P3000+i,D,Nair,Female,49,Asian,12-01-2024 05:59:35,Yes,Cardiology,9,2
+P3000+i,Q,Reddy,Female,45,Asian,26-04-2024 16:45:56,No,Neurology,53,2
+P3000+i,B,Ali,Male,22,European,22-01-2024 09:56:30,No,Orthopedics,17,4
+P3000+i,W,Tiwari,Male,50,Hispanic,16-04-2024 18:41:46,No,Oncology,22,2
+P3000+i,W,Verma,Female,70,Hispanic,30-01-2024 18:08:25,No,Orthopedics,20,5
+P3000+i,U,Jain,Female,56,Indian,09-06-2024 23:47:37,Yes,Cardiology,52,1
+P3000+i,C,Ali,Female,66,Hispanic,14-06-2024 17:01:53,Yes,Cardiology,117,2
+P3000+i,S,Bansal,Female,55,African,15-04-2024 12:17:27,Yes,Oncology,22,3
+P3000+i,S,Das,Female,58,European,12-03-2024 03:41:15,No,Orthopedics,78,1
+P3000+i,S,Singh,Male,72,African,05-06-2024 05:27:21,Yes,Pediatrics,74,2
+P3000+i,Z,Saxena,Male,56,European,19-05-2024 16:14:26,Yes,Emergency,18,3
+P3000+i,R,Saxena,Female,40,Indian,24-06-2024 04:43:04,Yes,Oncology,17,5
+P3000+i,Y,Roy,Male,58,Asian,17-05-2024 00:25:24,Yes,Cardiology,59,3
+P3000+i,R,Jain,Female,26,Indian,19-03-2024 09:58:11,Yes,Neurology,6,1
+P3000+i,S,Roy,Male,30,Indian,20-02-2024 18:32:25,No,Oncology,38,3
+P3000+i,Y,Sharma,Male,55,Indian,10-05-2024 17:55:10,No,Orthopedics,110,3
+P3000+i,R,Das,Female,23,Hispanic,24-06-2024 16:07:27,Yes,Neurology,117,3
+P3000+i,J,Sharma,Female,20,Hispanic,12-04-2024 18:17:44,No,Neurology,80,5
+P3000+i,S,Chopra,Female,20,Middle Eastern,18-05-2024 09:08:08,No,Dermatology,98,4
+P3000+i,R,Malik,Male,22,Hispanic,08-05-2024 22:29:46,Yes,Pediatrics,96,5
+P3000+i,B,Gupta,Male,35,Asian,12-01-2024 16:01:16,Yes,Orthopedics,45,2
+P3000+i,G,Singh,Male,54,Middle Eastern,21-06-2024 09:01:03,No,Orthopedics,52,3
+P3000+i,E,Tiwari,Female,39,Indian,09-04-2024 02:41:58,No,Orthopedics,62,5
+P3000+i,M,Das,Female,52,European,22-05-2024 12:36:46,Yes,Orthopedics,46,1
+P3000+i,V,Yadav,Male,60,Middle Eastern,14-03-2024 03:45:03,Yes,Cardiology,36,3
+P3000+i,U,Mehta,Male,19,Hispanic,31-05-2024 13:59:50,No,Dermatology,70,3
+P3000+i,V,Malik,Male,57,European,26-01-2024 07:15:40,Yes,Orthopedics,71,2
+P3000+i,Z,Yadav,Female,31,Indian,25-01-2024 22:33:19,Yes,Cardiology,69,5
+P3000+i,I,Ali,Male,20,Hispanic,30-03-2024 07:56:01,No,Cardiology,13,5
+P3000+i,K,Verma,Female,74,African,05-03-2024 10:19:06,No,Neurology,110,3
+P3000+i,Z,Gupta,Female,23,Indian,13-02-2024 14:05:15,Yes,Emergency,49,1
+P3000+i,H,Iyer,Male,76,Indian,16-06-2024 09:48:41,Yes,Dermatology,7,4
+P3000+i,X,Patel,Female,56,Indian,15-02-2024 05:19:17,No,Pediatrics,91,5
+P3000+i,S,Patel,Female,26,Middle Eastern,25-03-2024 23:58:02,Yes,Cardiology,73,3
+P3000+i,F,Reddy,Female,44,Asian,07-06-2024 20:40:00,No,Oncology,43,5
+P3000+i,X,Saxena,Female,68,European,31-01-2024 06:41:14,Yes,Orthopedics,91,1
+P3000+i,A,Malik,Male,19,Hispanic,14-04-2024 18:58:42,Yes,Neurology,6,5
+P3000+i,M,Bansal,Female,38,Indian,27-02-2024 07:13:08,No,Pediatrics,56,5
+P3000+i,Y,Gupta,Female,38,Hispanic,02-04-2024 06:36:46,No,Neurology,65,4
+P3000+i,O,Nair,Female,67,Middle Eastern,25-01-2024 19:09:53,No,Orthopedics,36,2
+P3000+i,N,Malik,Male,23,African,17-06-2024 03:02:56,Yes,Orthopedics,5,3
+P3000+i,N,Reddy,Male,22,Hispanic,13-01-2024 21:35:07,Yes,Cardiology,52,1
+P3000+i,X,Gupta,Male,74,Asian,24-04-2024 00:33:37,Yes,Cardiology,26,5
+P3000+i,X,Patel,Female,74,Indian,23-06-2024 03:40:37,No,Pediatrics,7,4
+P3000+i,Q,Singh,Female,70,European,07-06-2024 00:59:03,Yes,Emergency,108,1
+P3000+i,A,Tiwari,Male,25,Hispanic,26-06-2024 18:15:47,Yes,Pediatrics,20,2
+P3000+i,N,Saxena,Female,69,Asian,16-03-2024 15:53:16,Yes,Dermatology,110,1
+P3000+i,O,Das,Male,63,Asian,21-04-2024 12:10:22,Yes,Orthopedics,48,1
+P3000+i,E,Malik,Female,57,Indian,07-05-2024 03:02:09,No,Emergency,81,4
+P3000+i,M,Das,Female,76,Indian,15-01-2024 20:42:11,No,Pediatrics,117,5
+P3000+i,H,Saxena,Male,39,African,17-06-2024 03:41:05,No,Emergency,53,2
+P3000+i,J,Mehta,Male,24,Indian,04-01-2024 09:58:49,No,Neurology,73,4
+P3000+i,J,Malik,Male,72,European,16-01-2024 02:33:35,No,Cardiology,94,2
+P3000+i,L,Khan,Female,46,African,30-05-2024 06:56:48,No,Orthopedics,37,1
+P3000+i,D,Khan,Female,38,Hispanic,24-05-2024 07:40:26,Yes,Emergency,85,2
+P3000+i,L,Khan,Male,31,European,02-04-2024 17:40:45,No,Neurology,23,5
+P3000+i,C,Malik,Male,56,European,17-03-2024 18:54:09,Yes,Emergency,27,1
+P3000+i,A,Singh,Female,56,Asian,18-01-2024 13:57:28,No,Emergency,37,5
+P3000+i,L,Patel,Female,71,European,17-01-2024 20:54:42,Yes,Dermatology,95,3
+P3000+i,Z,Mehta,Male,73,European,10-04-2024 00:09:55,No,Neurology,29,4
+P3000+i,E,Nair,Female,27,Indian,28-03-2024 01:39:32,No,Oncology,15,3
+P3000+i,W,Roy,Male,33,Asian,06-05-2024 12:28:32,No,Cardiology,84,3
+P3000+i,E,Iyer,Female,75,Hispanic,16-01-2024 18:36:23,No,Cardiology,16,3
+P3000+i,F,Roy,Female,66,Hispanic,21-01-2024 03:19:13,No,Cardiology,47,4
+P3000+i,N,Chopra,Female,65,Hispanic,17-01-2024 20:50:39,Yes,Orthopedics,45,3
+P3000+i,Y,Iyer,Female,37,Asian,01-06-2024 07:50:51,Yes,Cardiology,57,5
+P3000+i,Z,Khan,Male,55,Asian,03-01-2024 19:53:41,No,Dermatology,107,1
+P3000+i,A,Gupta,Male,72,Hispanic,01-01-2024 02:58:22,No,Emergency,113,2
+P3000+i,T,Khan,Female,74,European,21-05-2024 08:40:25,No,Orthopedics,58,2
+P3000+i,P,Verma,Female,48,Asian,28-02-2024 23:29:45,Yes,Pediatrics,100,1
+P3000+i,Q,Das,Male,31,African,12-06-2024 00:58:33,Yes,Oncology,116,5
+P3000+i,I,Gupta,Female,71,Asian,31-03-2024 09:40:40,No,Pediatrics,63,4
+P3000+i,Z,Ali,Male,35,Asian,19-04-2024 07:19:53,Yes,Neurology,13,4
+P3000+i,D,Singh,Female,52,Indian,04-03-2024 02:31:47,No,Neurology,58,2
+P3000+i,E,Yadav,Male,39,Middle Eastern,06-06-2024 14:27:46,Yes,Cardiology,111,3
+P3000+i,B,Iyer,Female,48,Middle Eastern,25-06-2024 12:22:07,No,Pediatrics,107,4
+P3000+i,U,Gupta,Male,47,African,27-03-2024 15:28:18,No,Emergency,16,3
+P3000+i,B,Malik,Female,54,Hispanic,13-06-2024 23:12:49,Yes,Orthopedics,111,2
+P3000+i,D,Mehta,Female,61,African,09-05-2024 14:48:51,No,Pediatrics,19,4
+P3000+i,N,Gupta,Female,21,Indian,19-02-2024 14:33:09,Yes,Cardiology,27,3
+P3000+i,A,Sharma,Female,43,Asian,24-04-2024 05:55:22,No,Emergency,32,2
+P3000+i,I,Tiwari,Male,76,European,15-05-2024 20:52:44,Yes,Orthopedics,15,5
+P3000+i,P,Nair,Female,35,African,19-02-2024 05:39:25,Yes,Cardiology,78,3
+P3000+i,V,Khan,Male,26,African,18-05-2024 07:38:19,No,Pediatrics,80,3
+P3000+i,Z,Nair,Female,70,Asian,15-06-2024 12:49:17,No,Neurology,60,4
+P3000+i,S,Iyer,Male,28,Indian,08-02-2024 06:49:56,Yes,Pediatrics,14,3
+P3000+i,X,Tiwari,Male,32,Indian,17-02-2024 23:03:49,Yes,Neurology,25,4
+P3000+i,W,Jain,Male,69,Indian,19-02-2024 04:52:38,No,Orthopedics,17,5
+P3000+i,X,Chopra,Male,21,Middle Eastern,18-03-2024 08:59:36,Yes,Cardiology,119,3
+P3000+i,E,Roy,Female,54,Middle Eastern,28-05-2024 12:58:57,No,Oncology,101,3
+P3000+i,R,Nair,Female,66,European,21-03-2024 16:39:06,Yes,Emergency,99,2
+P3000+i,C,Chopra,Female,23,Middle Eastern,07-03-2024 08:08:03,Yes,Neurology,16,5
+P3000+i,T,Mehta,Male,19,African,02-01-2024 04:56:46,Yes,Dermatology,27,5
+P3000+i,B,Roy,Female,34,European,14-05-2024 05:10:53,Yes,Neurology,32,4
+P3000+i,O,Malik,Female,47,Middle Eastern,08-06-2024 12:13:33,No,Emergency,74,3
+P3000+i,T,Mehta,Male,41,Asian,06-01-2024 21:17:11,Yes,Neurology,105,2
+P3000+i,S,Roy,Male,57,Middle Eastern,16-02-2024 20:45:02,No,Dermatology,79,1
+P3000+i,W,Malik,Female,35,African,13-02-2024 05:55:23,Yes,Orthopedics,61,3
+P3000+i,W,Mehta,Male,45,Asian,03-05-2024 20:06:30,Yes,Cardiology,27,5
+P3000+i,R,Gupta,Female,51,Indian,18-05-2024 20:19:33,Yes,Orthopedics,110,3
+P3000+i,E,Mehta,Male,69,Hispanic,02-04-2024 14:43:39,Yes,Oncology,86,2
+P3000+i,G,Saxena,Male,45,Indian,24-01-2024 23:21:25,No,Pediatrics,113,5
+P3000+i,T,Nair,Female,25,Indian,11-05-2024 02:07:22,No,Pediatrics,104,5
+P3000+i,E,Yadav,Female,50,African,18-02-2024 01:13:01,Yes,Pediatrics,76,2
+P3000+i,A,Nair,Male,74,Hispanic,06-02-2024 05:24:22,No,Neurology,44,4
+P3000+i,I,Khan,Male,56,Hispanic,12-04-2024 00:42:03,No,Pediatrics,82,5
+P3000+i,I,Tiwari,Male,67,European,11-05-2024 01:33:29,Yes,Orthopedics,86,4
+P3000+i,I,Roy,Female,65,Asian,01-06-2024 13:56:22,No,Neurology,106,4
+P3000+i,X,Yadav,Female,22,Asian,07-03-2024 03:39:23,No,Cardiology,99,2
+P3000+i,P,Das,Female,75,Asian,27-05-2024 11:49:38,Yes,Neurology,116,4
+P3000+i,S,Chopra,Male,28,Hispanic,13-04-2024 00:13:54,No,Cardiology,91,5
+P3000+i,J,Das,Male,24,European,19-04-2024 02:38:25,Yes,Cardiology,110,3
+P3000+i,E,Verma,Female,75,Asian,09-01-2024 16:13:28,No,Pediatrics,52,5
+P3000+i,M,Ali,Male,59,Hispanic,25-01-2024 22:08:51,Yes,Dermatology,82,4
+P3000+i,D,Iyer,Female,42,Indian,26-05-2024 16:18:23,Yes,Oncology,31,2
+P3000+i,A,Sharma,Male,21,Asian,26-05-2024 17:33:50,Yes,Orthopedics,32,5
+P3000+i,E,Tiwari,Male,76,Indian,09-06-2024 12:43:27,Yes,Dermatology,14,3
+P3000+i,X,Reddy,Male,47,Asian,22-01-2024 03:49:37,Yes,Emergency,79,2
+P3000+i,Y,Bansal,Female,29,Asian,23-02-2024 01:04:05,No,Orthopedics,111,3
+P3000+i,P,Singh,Male,57,Indian,02-05-2024 00:54:53,No,Pediatrics,6,1
+P3000+i,R,Ali,Male,64,Indian,02-01-2024 04:36:48,Yes,Dermatology,78,2
+P3000+i,J,Ali,Female,61,Asian,10-04-2024 22:40:53,Yes,Neurology,64,1
+P3000+i,A,Gupta,Female,64,European,06-01-2024 06:00:30,Yes,Orthopedics,108,5
+P3000+i,U,Patel,Male,36,Hispanic,03-06-2024 06:19:44,No,Pediatrics,111,4
+P3000+i,W,Ali,Female,50,Asian,09-02-2024 18:42:39,Yes,Neurology,73,1
+P3000+i,D,Patel,Female,79,Indian,08-01-2024 08:58:32,No,Cardiology,46,2
+P3000+i,L,Verma,Male,26,Middle Eastern,29-04-2024 18:41:53,Yes,Neurology,75,5
+P3000+i,N,Malik,Female,71,Middle Eastern,24-03-2024 05:02:41,Yes,Pediatrics,29,3
+P3000+i,N,Singh,Female,77,Middle Eastern,22-06-2024 11:25:11,No,Orthopedics,102,3
+P3000+i,D,Mehta,Female,65,Hispanic,08-01-2024 02:29:58,No,Orthopedics,111,3
+P3000+i,Z,Verma,Male,66,Asian,15-02-2024 10:15:01,Yes,Orthopedics,12,5
+P3000+i,E,Iyer,Female,44,Hispanic,01-04-2024 00:30:31,No,Oncology,38,4
+P3000+i,C,Ali,Female,34,Hispanic,09-06-2024 14:18:27,No,Neurology,84,5
+P3000+i,C,Reddy,Male,26,Asian,02-02-2024 02:58:03,No,Orthopedics,117,5
+P3000+i,K,Chopra,Female,30,European,28-05-2024 23:14:01,No,Dermatology,89,5
+P3000+i,Z,Reddy,Male,27,Hispanic,06-01-2024 23:55:30,Yes,Emergency,17,1
+P3000+i,N,Saxena,Female,37,Middle Eastern,26-02-2024 16:19:19,No,Dermatology,14,1
+P3000+i,R,Gupta,Female,66,Indian,18-05-2024 09:57:31,No,Dermatology,14,1
+P3000+i,S,Gupta,Male,66,Asian,25-06-2024 08:35:36,No,Cardiology,15,4
+P3000+i,G,Khan,Female,56,Middle Eastern,22-02-2024 07:52:45,No,Neurology,107,1
+P3000+i,D,Sharma,Female,73,African,27-04-2024 22:26:11,Yes,Orthopedics,34,4
+P3000+i,O,Singh,Female,73,Asian,04-02-2024 05:21:16,Yes,Oncology,56,3
+P3000+i,H,Sharma,Male,40,Indian,21-02-2024 10:08:06,Yes,Emergency,26,5
+P3000+i,X,Khan,Female,28,African,27-02-2024 09:09:19,Yes,Pediatrics,107,4
+P3000+i,D,Bansal,Male,24,European,07-05-2024 05:58:18,Yes,Cardiology,59,2
+P3000+i,E,Nair,Male,79,Indian,30-03-2024 06:57:12,Yes,Cardiology,109,2
+P3000+i,A,Bansal,Female,62,Asian,17-03-2024 15:10:46,Yes,Emergency,40,1
+P3000+i,X,Singh,Female,41,European,20-06-2024 12:41:52,No,Pediatrics,6,5
+P3000+i,K,Jain,Male,48,African,02-04-2024 20:39:13,Yes,Neurology,32,4
+P3000+i,B,Sharma,Male,44,Middle Eastern,22-05-2024 04:45:27,Yes,Cardiology,83,1
+P3000+i,M,Yadav,Female,37,Middle Eastern,18-06-2024 12:50:19,No,Dermatology,105,1
+P3000+i,Q,Patel,Male,40,European,21-04-2024 04:20:29,Yes,Orthopedics,95,1
+P3000+i,C,Malik,Female,30,Asian,25-03-2024 03:01:00,Yes,Emergency,35,5
+P3000+i,T,Sharma,Male,65,European,01-05-2024 05:47:22,Yes,Oncology,58,5
+P3000+i,X,Saxena,Male,30,Hispanic,04-06-2024 19:08:26,No,Emergency,93,3
+P3000+i,K,Iyer,Female,52,Asian,16-02-2024 23:53:10,Yes,Oncology,75,3
+P3000+i,L,Yadav,Male,79,African,18-04-2024 14:39:32,Yes,Cardiology,118,1
+P3000+i,C,Nair,Female,69,Indian,31-03-2024 13:04:45,Yes,Orthopedics,85,2
+P3000+i,F,Saxena,Male,29,Indian,21-04-2024 07:44:45,Yes,Dermatology,31,4
+P3000+i,A,Patel,Male,59,Middle Eastern,04-05-2024 05:56:00,Yes,Pediatrics,68,3
+P3000+i,B,Gupta,Female,79,Indian,23-04-2024 10:48:51,Yes,Dermatology,20,1
+P3000+i,Z,Chopra,Male,33,Indian,19-01-2024 05:13:27,No,Cardiology,12,5
+P3000+i,J,Khan,Female,46,African,14-04-2024 23:43:55,No,Dermatology,80,1
+P3000+i,G,Reddy,Female,32,Hispanic,13-03-2024 02:49:10,No,Neurology,46,4
+P3000+i,W,Ali,Female,49,European,29-03-2024 02:23:13,Yes,Dermatology,83,2
+P3000+i,Z,Singh,Male,61,Middle Eastern,19-06-2024 05:43:15,No,Emergency,39,2
+P3000+i,S,Sharma,Female,55,Asian,02-03-2024 10:08:15,Yes,Pediatrics,12,1
+P3000+i,O,Verma,Male,49,Hispanic,05-05-2024 17:35:21,Yes,Neurology,90,3
+P3000+i,Z,Singh,Male,27,Middle Eastern,30-04-2024 02:41:56,No,Emergency,96,3
+P3000+i,Z,Singh,Female,37,African,12-05-2024 14:26:30,No,Dermatology,13,2
+P3000+i,N,Sharma,Female,76,Asian,15-02-2024 12:17:03,Yes,Dermatology,12,3
+P3000+i,T,Verma,Male,37,Middle Eastern,27-06-2024 01:08:54,No,Cardiology,41,2
+P3000+i,Z,Khan,Male,51,African,15-03-2024 00:31:49,Yes,Emergency,108,1
+P3000+i,D,Jain,Female,48,Asian,02-05-2024 09:38:51,No,Neurology,38,2
+P3000+i,C,Mehta,Female,24,African,01-05-2024 17:40:00,Yes,Cardiology,66,1
+P3000+i,F,Jain,Female,78,European,10-05-2024 21:19:54,No,Oncology,42,4
+P3000+i,O,Singh,Male,51,Middle Eastern,22-04-2024 00:17:47,No,Cardiology,112,1
+P3000+i,L,Patel,Female,76,European,17-05-2024 04:13:07,Yes,Emergency,22,5
+P3000+i,L,Malik,Female,61,African,02-03-2024 14:18:34,Yes,Pediatrics,53,4
+P3000+i,N,Malik,Female,40,African,08-06-2024 15:53:45,Yes,Dermatology,15,3
+P3000+i,U,Sharma,Male,58,Hispanic,23-06-2024 07:45:37,Yes,Neurology,104,5
+P3000+i,D,Patel,Female,34,Asian,13-04-2024 11:55:33,No,Oncology,80,5
+P3000+i,C,Gupta,Female,57,European,19-01-2024 23:58:58,Yes,Orthopedics,86,5
+P3000+i,O,Jain,Female,68,Indian,04-03-2024 07:59:14,Yes,Neurology,51,2
+P3000+i,X,Ali,Female,69,European,24-06-2024 11:48:15,Yes,Emergency,53,1
+P3000+i,K,Verma,Female,29,African,17-05-2024 22:59:57,No,Neurology,59,1
+P3000+i,W,Chopra,Male,66,African,12-06-2024 07:36:52,No,Cardiology,41,4
+P3000+i,R,Singh,Female,41,Asian,24-02-2024 09:50:54,Yes,Orthopedics,110,1
+P3000+i,S,Sharma,Female,46,Indian,03-04-2024 23:24:54,No,Oncology,101,2
+P3000+i,N,Chopra,Male,41,Indian,11-01-2024 19:08:56,Yes,Oncology,16,3
+P3000+i,A,Yadav,Female,21,African,20-05-2024 10:48:09,Yes,Cardiology,105,1
+P3000+i,E,Verma,Female,29,European,03-02-2024 11:47:18,Yes,Orthopedics,79,5
+P3000+i,W,Jain,Female,79,Middle Eastern,20-05-2024 15:47:42,Yes,Pediatrics,6,1
+P3000+i,I,Das,Male,28,Indian,03-02-2024 21:00:22,No,Orthopedics,72,3
+P3000+i,Y,Patel,Male,46,Asian,16-01-2024 11:46:46,No,Emergency,81,5
+P3000+i,P,Chopra,Male,34,Hispanic,28-05-2024 07:39:23,No,Orthopedics,23,5
+P3000+i,W,Bansal,Female,54,Indian,10-02-2024 23:45:01,Yes,Cardiology,79,5
+P3000+i,X,Bansal,Male,43,African,11-03-2024 19:19:46,No,Cardiology,74,3
+P3000+i,E,Jain,Male,46,European,16-04-2024 13:45:10,No,Cardiology,70,3
+P3000+i,Z,Yadav,Female,21,Middle Eastern,10-03-2024 05:34:40,Yes,Emergency,61,5
+P3000+i,E,Jain,Male,78,Indian,01-04-2024 11:01:49,Yes,Pediatrics,75,1
+P3000+i,G,Yadav,Male,42,Middle Eastern,06-05-2024 11:25:52,No,Neurology,119,2
+P3000+i,L,Roy,Male,27,Hispanic,01-04-2024 12:53:32,Yes,Orthopedics,105,4
+P3000+i,L,Khan,Female,18,African,21-02-2024 09:00:50,Yes,Pediatrics,86,1
+P3000+i,P,Jain,Female,31,European,31-01-2024 17:11:54,No,Orthopedics,21,5
+P3000+i,R,Yadav,Female,53,Indian,02-06-2024 10:28:04,Yes,Emergency,21,5
+P3000+i,N,Nair,Male,42,Middle Eastern,02-01-2024 01:33:42,Yes,Dermatology,90,5
+P3000+i,N,Iyer,Female,21,Hispanic,12-06-2024 22:02:12,No,Pediatrics,93,2
+P3000+i,J,Tiwari,Male,72,Indian,15-06-2024 06:23:15,Yes,Cardiology,37,4
+P3000+i,U,Khan,Female,34,Indian,28-05-2024 09:23:57,No,Pediatrics,20,4
+P3000+i,Y,Tiwari,Male,46,Hispanic,08-01-2024 15:10:15,No,Dermatology,7,1
+P3000+i,S,Sharma,Female,36,European,06-04-2024 02:00:33,Yes,Neurology,83,4
+P3000+i,Y,Jain,Female,27,Indian,29-05-2024 01:44:16,Yes,Oncology,95,5
+P3000+i,P,Ali,Female,50,European,12-05-2024 11:32:28,No,Oncology,31,1
+P3000+i,U,Iyer,Male,31,African,31-05-2024 19:33:02,Yes,Dermatology,119,1
+P3000+i,J,Mehta,Female,47,African,17-02-2024 05:53:02,No,Pediatrics,82,4
+P3000+i,H,Khan,Female,45,Indian,20-06-2024 12:38:52,Yes,Cardiology,47,1
+P3000+i,E,Nair,Female,57,African,25-06-2024 00:56:52,Yes,Dermatology,61,4
+P3000+i,N,Gupta,Female,28,Asian,30-04-2024 21:40:25,No,Oncology,78,3
+P3000+i,B,Bansal,Female,77,Asian,09-04-2024 19:24:07,No,Pediatrics,80,3
+P3000+i,F,Iyer,Female,72,Middle Eastern,23-01-2024 21:05:30,Yes,Emergency,62,1
+P3000+i,H,Ali,Male,62,Middle Eastern,06-02-2024 05:46:40,Yes,Pediatrics,10,2
+P3000+i,S,Iyer,Female,39,Middle Eastern,14-04-2024 04:17:18,Yes,Orthopedics,94,3
+P3000+i,G,Verma,Male,41,Indian,24-06-2024 15:03:33,No,Cardiology,103,2
+P3000+i,U,Bansal,Male,18,Indian,29-02-2024 02:21:33,Yes,Dermatology,40,2
+P3000+i,M,Khan,Male,29,European,14-06-2024 08:44:58,No,Neurology,16,2
+P3000+i,H,Gupta,Female,67,Asian,08-02-2024 01:32:54,Yes,Pediatrics,15,4
+P3000+i,Y,Iyer,Female,69,Hispanic,31-01-2024 15:06:52,Yes,Orthopedics,22,1
+P3000+i,C,Singh,Male,75,Hispanic,31-05-2024 07:25:51,Yes,Cardiology,35,5
+P3000+i,O,Tiwari,Male,58,Indian,10-01-2024 06:27:07,Yes,Orthopedics,6,3
+P3000+i,I,Das,Male,60,Indian,07-06-2024 03:13:06,No,Oncology,60,3
+P3000+i,L,Roy,Female,32,Indian,18-04-2024 08:08:19,No,Oncology,96,2
+P3000+i,A,Yadav,Male,55,European,16-02-2024 02:42:57,Yes,Neurology,118,2
+P3000+i,V,Yadav,Female,35,African,25-04-2024 20:38:47,No,Oncology,6,4
+P3000+i,F,Das,Female,51,Indian,12-02-2024 02:10:33,Yes,Pediatrics,75,2
+P3000+i,S,Tiwari,Male,22,Indian,18-05-2024 21:41:53,No,Orthopedics,5,3
+P3000+i,P,Tiwari,Male,19,Asian,27-05-2024 06:42:04,No,Cardiology,91,5
+P3000+i,G,Tiwari,Male,41,Middle Eastern,08-03-2024 23:43:15,Yes,Dermatology,86,1
