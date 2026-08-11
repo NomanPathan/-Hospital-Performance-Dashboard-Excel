@@ -111,9 +111,7 @@ Based on the current dashboard view:
 ---
 
 ## 📊 Dashboard Preview
-
-![Hospital Performance Dashboard](Images/Hospital%20performance%20Dashboard.png)
-
+![Hospital Performance Dashboard](Images/Hospital%20performance%20Dashboard1.png)
 ## 💡 Business Recommendations
 
 Based on the dashboard analysis:
